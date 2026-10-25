@@ -1,0 +1,702 @@
+{
+ "updated": "2026-10-25",
+ "days": [
+  "2026-10-25"
+ ],
+ "top_movers": [],
+ "markets": {
+  "KXNFLCOACHOUT-27MAR01-AGLE": {
+   "series": "KXNFLCOACHOUT",
+   "event": "Pro Football Coaches Out Before March",
+   "game_date": "2027-03-01",
+   "title": "Aaron Glenn out before Mar 1, 2027",
+   "subtitle": "Aaron Glenn",
+   "path": [
+    {
+     "date": "2026-10-25",
+     "mid": 0.585,
+     "bid": 0.54,
+     "ask": 0.63,
+     "volume": 2229.47
+    }
+   ],
+   "first": 0.585,
+   "latest": 0.585,
+   "high": 0.585,
+   "low": 0.585,
+   "change": 0.0
+  },
+  "KXNFLCOACHOUT-27MAR01-AREI": {
+   "series": "KXNFLCOACHOUT",
+   "event": "Pro Football Coaches Out Before March",
+   "game_date": "2027-03-01",
+   "title": "Andy Reid out before Mar 1, 2027",
+   "subtitle": "Andy Reid",
+   "path": [
+    {
+     "date": "2026-10-25",
+     "mid": 0.06,
+     "bid": 0.0,
+     "ask": 0.06,
+     "volume": 171.02
+    }
+   ],
+   "first": 0.06,
+   "latest": 0.06,
+   "high": 0.06,
+   "low": 0.06,
+   "change": 0.0
+  },
+  "KXNFLCOACHOUT-27MAR01-BJOH": {
+   "series": "KXNFLCOACHOUT",
+   "event": "Pro Football Coaches Out Before March",
+   "game_date": "2027-03-01",
+   "title": "Ben Johnson out before Mar 1, 2027",
+   "subtitle": "Ben Johnson",
+   "path": [
+    {
+     "date": "2026-10-25",
+     "mid": 0.04,
+     "bid": 0.0,
+     "ask": 0.04,
+     "volume": 1988.42
+    }
+   ],
+   "first": 0.04,
+   "latest": 0.04,
+   "high": 0.04,
+   "low": 0.04,
+   "change": 0.0
+  },
+  "KXNFLCOACHOUT-27MAR01-BSCHO": {
+   "series": "KXNFLCOACHOUT",
+   "event": "Pro Football Coaches Out Before March",
+   "game_date": "2027-03-01",
+   "title": "Brian Schottenheimer out before Mar 1, 2027",
+   "subtitle": "Brian Schottenheimer",
+   "path": [
+    {
+     "date": "2026-10-25",
+     "mid": 0.505,
+     "bid": 0.01,
+     "ask": 1.0,
+     "volume": 1399.72
+    }
+   ],
+   "first": 0.505,
+   "latest": 0.505,
+   "high": 0.505,
+   "low": 0.505,
+   "change": 0.0
+  },
+  "KXNFLCOACHOUT-27MAR01-DCAM": {
+   "series": "KXNFLCOACHOUT",
+   "event": "Pro Football Coaches Out Before March",
+   "game_date": "2027-03-01",
+   "title": "Dan Campbell out before Mar 1, 2027",
+   "subtitle": "Dan Campbell",
+   "path": [
+    {
+     "date": "2026-10-25",
+     "mid": 0.08,
+     "bid": 0.04,
+     "ask": 0.12,
+     "volume": 812.48
+    }
+   ],
+   "first": 0.08,
+   "latest": 0.08,
+   "high": 0.08,
+   "low": 0.08,
+   "change": 0.0
+  },
+  "KXNFLCOACHOUT-27MAR01-DCAN": {
+   "series": "KXNFLCOACHOUT",
+   "event": "Pro Football Coaches Out Before March",
+   "game_date": "2027-03-01",
+   "title": "Dave Canales out before Mar 1, 2027",
+   "subtitle": "Dave Canales",
+   "path": [
+    {
+     "date": "2026-10-25",
+     "mid": 0.17,
+     "bid": 0.13,
+     "ask": 0.21,
+     "volume": 2025.35
+    }
+   ],
+   "first": 0.17,
+   "latest": 0.17,
+   "high": 0.17,
+   "low": 0.17,
+   "change": 0.0
+  },
+  "KXNFLCOACHOUT-27MAR01-DQUI": {
+   "series": "KXNFLCOACHOUT",
+   "event": "Pro Football Coaches Out Before March",
+   "game_date": "2027-03-01",
+   "title": "Dan Quinn out before Mar 1, 2027",
+   "subtitle": "Dan Quinn",
+   "path": [
+    {
+     "date": "2026-10-25",
+     "mid": 0.83,
+     "bid": 0.82,
+     "ask": 0.84,
+     "volume": 2507.13
+    }
+   ],
+   "first": 0.83,
+   "latest": 0.83,
+   "high": 0.83,
+   "low": 0.83,
+   "change": 0.0
+  },
+  "KXNFLCOACHOUT-27MAR01-DRYA": {
+   "series": "KXNFLCOACHOUT",
+   "event": "Pro Football Coaches Out Before March",
+   "game_date": "2027-03-01",
+   "title": "DeMeco Ryans out before Mar 1, 2027",
+   "subtitle": "DeMeco Ryans",
+   "path": [
+    {
+     "date": "2026-10-25",
+     "mid": 0.16,
+     "bid": 0.12,
+     "ask": 0.2,
+     "volume": 505.0
+    }
+   ],
+   "first": 0.16,
+   "latest": 0.16,
+   "high": 0.16,
+   "low": 0.16,
+   "change": 0.0
+  },
+  "KXNFLCOACHOUT-27MAR01-JBRA": {
+   "series": "KXNFLCOACHOUT",
+   "event": "Pro Football Coaches Out Before March",
+   "game_date": "2027-03-01",
+   "title": "Joe Brady out before Mar 1, 2027",
+   "subtitle": "Joe Brady",
+   "path": [
+    {
+     "date": "2026-10-25",
+     "mid": 0.035,
+     "bid": 0.01,
+     "ask": 0.06,
+     "volume": 52.22
+    }
+   ],
+   "first": 0.035,
+   "latest": 0.035,
+   "high": 0.035,
+   "low": 0.035,
+   "change": 0.0
+  },
+  "KXNFLCOACHOUT-27MAR01-JHAF": {
+   "series": "KXNFLCOACHOUT",
+   "event": "Pro Football Coaches Out Before March",
+   "game_date": "2027-03-01",
+   "title": "Jeff Hafley out before Mar 1, 2027",
+   "subtitle": "Jeff Hafley",
+   "path": [
+    {
+     "date": "2026-10-25",
+     "mid": 0.44,
+     "bid": 0.4,
+     "ask": 0.48,
+     "volume": 938.58
+    }
+   ],
+   "first": 0.44,
+   "latest": 0.44,
+   "high": 0.44,
+   "low": 0.44,
+   "change": 0.0
+  },
+  "KXNFLCOACHOUT-27MAR01-JIHA": {
+   "series": "KXNFLCOACHOUT",
+   "event": "Pro Football Coaches Out Before March",
+   "game_date": "2027-03-01",
+   "title": "Jim Harbaugh out before Mar 1, 2027",
+   "subtitle": "Jim Harbaugh",
+   "path": [
+    {
+     "date": "2026-10-25",
+     "mid": 0.555,
+     "bid": 0.26,
+     "ask": 0.85,
+     "volume": 2102.2
+    }
+   ],
+   "first": 0.555,
+   "latest": 0.555,
+   "high": 0.555,
+   "low": 0.555,
+   "change": 0.0
+  },
+  "KXNFLCOACHOUT-27MAR01-JMIN": {
+   "series": "KXNFLCOACHOUT",
+   "event": "Pro Football Coaches Out Before March",
+   "game_date": "2027-03-01",
+   "title": "Jesse Minter out before Mar 1, 2027",
+   "subtitle": "Jesse Minter",
+   "path": [
+    {
+     "date": "2026-10-25",
+     "mid": 0.02,
+     "bid": 0.0,
+     "ask": 0.05,
+     "volume": 250.0
+    }
+   ],
+   "first": 0.02,
+   "latest": 0.02,
+   "high": 0.02,
+   "low": 0.02,
+   "change": 0.0
+  },
+  "KXNFLCOACHOUT-27MAR01-JOHA": {
+   "series": "KXNFLCOACHOUT",
+   "event": "Pro Football Coaches Out Before March",
+   "game_date": "2027-03-01",
+   "title": "John Harbaugh out before Mar 1, 2027",
+   "subtitle": "John Harbaugh",
+   "path": [
+    {
+     "date": "2026-10-25",
+     "mid": 0.06,
+     "bid": 0.02,
+     "ask": 0.1,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.06,
+   "latest": 0.06,
+   "high": 0.06,
+   "low": 0.06,
+   "change": 0.0
+  },
+  "KXNFLCOACHOUT-27MAR01-KKUB": {
+   "series": "KXNFLCOACHOUT",
+   "event": "Pro Football Coaches Out Before March",
+   "game_date": "2027-03-01",
+   "title": "Klint Kubiak out before Mar 1, 2027",
+   "subtitle": "Klint Kubiak",
+   "path": [
+    {
+     "date": "2026-10-25",
+     "mid": 0.01,
+     "bid": 0.0,
+     "ask": 0.05,
+     "volume": 1360.0
+    }
+   ],
+   "first": 0.01,
+   "latest": 0.01,
+   "high": 0.01,
+   "low": 0.01,
+   "change": 0.0
+  },
+  "KXNFLCOACHOUT-27MAR01-KMOO": {
+   "series": "KXNFLCOACHOUT",
+   "event": "Pro Football Coaches Out Before March",
+   "game_date": "2027-03-01",
+   "title": "Kellen Moore out before Mar 1, 2027",
+   "subtitle": "Kellen Moore",
+   "path": [
+    {
+     "date": "2026-10-25",
+     "mid": 0.155,
+     "bid": 0.11,
+     "ask": 0.2,
+     "volume": 20.65
+    }
+   ],
+   "first": 0.155,
+   "latest": 0.155,
+   "high": 0.155,
+   "low": 0.155,
+   "change": 0.0
+  },
+  "KXNFLCOACHOUT-27MAR01-KOCO": {
+   "series": "KXNFLCOACHOUT",
+   "event": "Pro Football Coaches Out Before March",
+   "game_date": "2027-03-01",
+   "title": "Kevin O'Connell out before Mar 1, 2027",
+   "subtitle": "Kevin O'Connell",
+   "path": [
+    {
+     "date": "2026-10-25",
+     "mid": 0.05,
+     "bid": 0.02,
+     "ask": 0.08,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.05,
+   "latest": 0.05,
+   "high": 0.05,
+   "low": 0.05,
+   "change": 0.0
+  },
+  "KXNFLCOACHOUT-27MAR01-KSHA": {
+   "series": "KXNFLCOACHOUT",
+   "event": "Pro Football Coaches Out Before March",
+   "game_date": "2027-03-01",
+   "title": "Kyle Shanahan out before Mar 1, 2027",
+   "subtitle": "Kyle Shanahan",
+   "path": [
+    {
+     "date": "2026-10-25",
+     "mid": 0.01,
+     "bid": 0.0,
+     "ask": 0.05,
+     "volume": 604.69
+    }
+   ],
+   "first": 0.01,
+   "latest": 0.01,
+   "high": 0.01,
+   "low": 0.01,
+   "change": 0.0
+  },
+  "KXNFLCOACHOUT-27MAR01-KSTE": {
+   "series": "KXNFLCOACHOUT",
+   "event": "Pro Football Coaches Out Before March",
+   "game_date": "2027-03-01",
+   "title": "Kevin Stefanski out before Mar 1, 2027",
+   "subtitle": "Kevin Stefanski",
+   "path": [
+    {
+     "date": "2026-10-25",
+     "mid": 0.15,
+     "bid": 0.11,
+     "ask": 0.19,
+     "volume": 305.69
+    }
+   ],
+   "first": 0.15,
+   "latest": 0.15,
+   "high": 0.15,
+   "low": 0.15,
+   "change": 0.0
+  },
+  "KXNFLCOACHOUT-27MAR01-LCOE": {
+   "series": "KXNFLCOACHOUT",
+   "event": "Pro Football Coaches Out Before March",
+   "game_date": "2027-03-01",
+   "title": "Liam Coen out before Mar 1, 2027",
+   "subtitle": "Liam Coen",
+   "path": [
+    {
+     "date": "2026-10-25",
+     "mid": 0.065,
+     "bid": 0.03,
+     "ask": 0.1,
+     "volume": 255.0
+    }
+   ],
+   "first": 0.065,
+   "latest": 0.065,
+   "high": 0.065,
+   "low": 0.065,
+   "change": 0.0
+  },
+  "KXNFLCOACHOUT-27MAR01-MILA": {
+   "series": "KXNFLCOACHOUT",
+   "event": "Pro Football Coaches Out Before March",
+   "game_date": "2027-03-01",
+   "title": "Mike LaFleur out before Mar 1, 2027",
+   "subtitle": "Mike LaFleur",
+   "path": [
+    {
+     "date": "2026-10-25",
+     "mid": 0.125,
+     "bid": 0.1,
+     "ask": 0.15,
+     "volume": 1574.28
+    }
+   ],
+   "first": 0.125,
+   "latest": 0.125,
+   "high": 0.125,
+   "low": 0.125,
+   "change": 0.0
+  },
+  "KXNFLCOACHOUT-27MAR01-MLAF": {
+   "series": "KXNFLCOACHOUT",
+   "event": "Pro Football Coaches Out Before March",
+   "game_date": "2027-03-01",
+   "title": "Matt LaFleur out before Mar 1, 2027",
+   "subtitle": "Matt LaFleur",
+   "path": [
+    {
+     "date": "2026-10-25",
+     "mid": 0.16,
+     "bid": 0.09,
+     "ask": 0.23,
+     "volume": 11357.73
+    }
+   ],
+   "first": 0.16,
+   "latest": 0.16,
+   "high": 0.16,
+   "low": 0.16,
+   "change": 0.0
+  },
+  "KXNFLCOACHOUT-27MAR01-MMAC": {
+   "series": "KXNFLCOACHOUT",
+   "event": "Pro Football Coaches Out Before March",
+   "game_date": "2027-03-01",
+   "title": "Mike Macdonald out before Mar 1, 2027",
+   "subtitle": "Mike Macdonald",
+   "path": [
+    {
+     "date": "2026-10-25",
+     "mid": 0.01,
+     "bid": 0.0,
+     "ask": 0.05,
+     "volume": 1446.95
+    }
+   ],
+   "first": 0.01,
+   "latest": 0.01,
+   "high": 0.01,
+   "low": 0.01,
+   "change": 0.0
+  },
+  "KXNFLCOACHOUT-27MAR01-MMCC": {
+   "series": "KXNFLCOACHOUT",
+   "event": "Pro Football Coaches Out Before March",
+   "game_date": "2027-03-01",
+   "title": "Mike McCarthy out before Mar 1, 2027",
+   "subtitle": "Mike McCarthy",
+   "path": [
+    {
+     "date": "2026-10-25",
+     "mid": 0.07,
+     "bid": 0.03,
+     "ask": 0.11,
+     "volume": 360.3
+    }
+   ],
+   "first": 0.07,
+   "latest": 0.07,
+   "high": 0.07,
+   "low": 0.07,
+   "change": 0.0
+  },
+  "KXNFLCOACHOUT-27MAR01-MVRA": {
+   "series": "KXNFLCOACHOUT",
+   "event": "Pro Football Coaches Out Before March",
+   "game_date": "2027-03-01",
+   "title": "Mike Vrabel out before Mar 1, 2027",
+   "subtitle": "Mike Vrabel",
+   "path": [
+    {
+     "date": "2026-10-25",
+     "mid": 0.055,
+     "bid": 0.02,
+     "ask": 0.09,
+     "volume": 94.01
+    }
+   ],
+   "first": 0.055,
+   "latest": 0.055,
+   "high": 0.055,
+   "low": 0.055,
+   "change": 0.0
+  },
+  "KXNFLCOACHOUT-27MAR01-NSIR": {
+   "series": "KXNFLCOACHOUT",
+   "event": "Pro Football Coaches Out Before March",
+   "game_date": "2027-03-01",
+   "title": "Nick Sirianni out before Mar 1, 2027",
+   "subtitle": "Nick Sirianni",
+   "path": [
+    {
+     "date": "2026-10-25",
+     "mid": 0.715,
+     "bid": 0.68,
+     "ask": 0.75,
+     "volume": 2223.25
+    }
+   ],
+   "first": 0.715,
+   "latest": 0.715,
+   "high": 0.715,
+   "low": 0.715,
+   "change": 0.0
+  },
+  "KXNFLCOACHOUT-27MAR01-RSAL": {
+   "series": "KXNFLCOACHOUT",
+   "event": "Pro Football Coaches Out Before March",
+   "game_date": "2027-03-01",
+   "title": "Robert Saleh out before Mar 1, 2027",
+   "subtitle": "Robert Saleh",
+   "path": [
+    {
+     "date": "2026-10-25",
+     "mid": 0.395,
+     "bid": 0.36,
+     "ask": 0.43,
+     "volume": 1153.3
+    }
+   ],
+   "first": 0.395,
+   "latest": 0.395,
+   "high": 0.395,
+   "low": 0.395,
+   "change": 0.0
+  },
+  "KXNFLCOACHOUT-27MAR01-SMCV": {
+   "series": "KXNFLCOACHOUT",
+   "event": "Pro Football Coaches Out Before March",
+   "game_date": "2027-03-01",
+   "title": "Sean McVay out before Mar 1, 2027",
+   "subtitle": "Sean McVay",
+   "path": [
+    {
+     "date": "2026-10-25",
+     "mid": 0.08,
+     "bid": 0.04,
+     "ask": 0.12,
+     "volume": 1073.49
+    }
+   ],
+   "first": 0.08,
+   "latest": 0.08,
+   "high": 0.08,
+   "low": 0.08,
+   "change": 0.0
+  },
+  "KXNFLCOACHOUT-27MAR01-SPAY": {
+   "series": "KXNFLCOACHOUT",
+   "event": "Pro Football Coaches Out Before March",
+   "game_date": "2027-03-01",
+   "title": "Sean Payton out before Mar 1, 2027",
+   "subtitle": "Sean Payton",
+   "path": [
+    {
+     "date": "2026-10-25",
+     "mid": 0.07,
+     "bid": 0.03,
+     "ask": 0.11,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.07,
+   "latest": 0.07,
+   "high": 0.07,
+   "low": 0.07,
+   "change": 0.0
+  },
+  "KXNFLCOACHOUT-27MAR01-SSTE": {
+   "series": "KXNFLCOACHOUT",
+   "event": "Pro Football Coaches Out Before March",
+   "game_date": "2027-03-01",
+   "title": "Shane Steichen out before Mar 1, 2027",
+   "subtitle": "Shane Steichen",
+   "path": [
+    {
+     "date": "2026-10-25",
+     "mid": 0.42,
+     "bid": 0.4,
+     "ask": 0.44,
+     "volume": 1423.69
+    }
+   ],
+   "first": 0.42,
+   "latest": 0.42,
+   "high": 0.42,
+   "low": 0.42,
+   "change": 0.0
+  },
+  "KXNFLCOACHOUT-27MAR01-TBOW": {
+   "series": "KXNFLCOACHOUT",
+   "event": "Pro Football Coaches Out Before March",
+   "game_date": "2027-03-01",
+   "title": "Todd Bowles out before Mar 1, 2027",
+   "subtitle": "Todd Bowles",
+   "path": [
+    {
+     "date": "2026-10-25",
+     "mid": 0.85,
+     "bid": 0.81,
+     "ask": 0.89,
+     "volume": 2011.55
+    }
+   ],
+   "first": 0.85,
+   "latest": 0.85,
+   "high": 0.85,
+   "low": 0.85,
+   "change": 0.0
+  },
+  "KXNFLCOACHOUT-27MAR01-TMON": {
+   "series": "KXNFLCOACHOUT",
+   "event": "Pro Football Coaches Out Before March",
+   "game_date": "2027-03-01",
+   "title": "Todd Monken out before Mar 1, 2027",
+   "subtitle": "Todd Monken",
+   "path": [
+    {
+     "date": "2026-10-25",
+     "mid": 0.175,
+     "bid": 0.13,
+     "ask": 0.22,
+     "volume": 974.78
+    }
+   ],
+   "first": 0.175,
+   "latest": 0.175,
+   "high": 0.175,
+   "low": 0.175,
+   "change": 0.0
+  },
+  "KXNFLCOACHOUT-27MAR01-ZTAY": {
+   "series": "KXNFLCOACHOUT",
+   "event": "Pro Football Coaches Out Before March",
+   "game_date": "2027-03-01",
+   "title": "Zac Taylor out before Mar 1, 2027",
+   "subtitle": "Zac Taylor",
+   "path": [
+    {
+     "date": "2026-10-25",
+     "mid": 0.165,
+     "bid": 0.12,
+     "ask": 0.21,
+     "volume": 923.62
+    }
+   ],
+   "first": 0.165,
+   "latest": 0.165,
+   "high": 0.165,
+   "low": 0.165,
+   "change": 0.0
+  },
+  "KXNFLSTADIUM-27MAR01TENNSTAD-Y": {
+   "series": "KXNFLSTADIUM",
+   "event": "Will Tennessee complete the New Nissan Stadium before Mar 1, 2027?",
+   "game_date": "2027-03-01",
+   "title": "Will Tennessee complete the New Nissan Stadium before Mar 1, 2027?",
+   "subtitle": "Before Mar 1, 2027",
+   "path": [
+    {
+     "date": "2026-10-25",
+     "mid": 0.525,
+     "bid": 0.52,
+     "ask": 0.53,
+     "volume": 1493.67
+    }
+   ],
+   "first": 0.525,
+   "latest": 0.525,
+   "high": 0.525,
+   "low": 0.525,
+   "change": 0.0
+  }
+ }
+}

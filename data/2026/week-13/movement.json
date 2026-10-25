@@ -1,0 +1,1248 @@
+{
+ "updated": "2026-10-25",
+ "days": [
+  "2026-10-25"
+ ],
+ "top_movers": [],
+ "markets": {
+  "KXNFLTRADE-26DEC01-AJON": {
+   "series": "KXNFLTRADE",
+   "event": "NFL Players Traded",
+   "game_date": "2026-12-01",
+   "title": "Will Aaron Jones Sr. be traded before Dec 1, 2026?",
+   "subtitle": "Aaron Jones Sr.",
+   "path": [
+    {
+     "date": "2026-10-25",
+     "mid": 0.2,
+     "bid": 0.0,
+     "ask": 0.83,
+     "volume": 864.77
+    }
+   ],
+   "first": 0.2,
+   "latest": 0.2,
+   "high": 0.2,
+   "low": 0.2,
+   "change": 0.0
+  },
+  "KXNFLTRADE-26DEC01-ARIC": {
+   "series": "KXNFLTRADE",
+   "event": "NFL Players Traded",
+   "game_date": "2026-12-01",
+   "title": "Will Anthony Richardson Sr. be traded before Dec 1, 2026?",
+   "subtitle": "Anthony Richardson Sr.",
+   "path": [
+    {
+     "date": "2026-10-25",
+     "mid": 0.445,
+     "bid": 0.02,
+     "ask": 0.87,
+     "volume": 2294.24
+    }
+   ],
+   "first": 0.445,
+   "latest": 0.445,
+   "high": 0.445,
+   "low": 0.445,
+   "change": 0.0
+  },
+  "KXNFLTRADE-26DEC01-AROD": {
+   "series": "KXNFLTRADE",
+   "event": "NFL Players Traded",
+   "game_date": "2026-12-01",
+   "title": "Will Aaron Rodgers be traded before Dec 1, 2026?",
+   "subtitle": "Aaron Rodgers",
+   "path": [
+    {
+     "date": "2026-10-25",
+     "mid": 0.06,
+     "bid": 0.0,
+     "ask": 0.1,
+     "volume": 205.0
+    }
+   ],
+   "first": 0.06,
+   "latest": 0.06,
+   "high": 0.06,
+   "low": 0.06,
+   "change": 0.0
+  },
+  "KXNFLTRADE-26DEC01-BAIY": {
+   "series": "KXNFLTRADE",
+   "event": "NFL Players Traded",
+   "game_date": "2026-12-01",
+   "title": "Will Brandon Aiyuk be traded before Dec 1, 2026?",
+   "subtitle": "Brandon Aiyuk",
+   "path": [
+    {
+     "date": "2026-10-25",
+     "mid": 0.08,
+     "bid": 0.06,
+     "ask": 0.1,
+     "volume": 14043.21
+    }
+   ],
+   "first": 0.08,
+   "latest": 0.08,
+   "high": 0.08,
+   "low": 0.08,
+   "change": 0.0
+  },
+  "KXNFLTRADE-26DEC01-BBAK": {
+   "series": "KXNFLTRADE",
+   "event": "NFL Players Traded",
+   "game_date": "2026-12-01",
+   "title": "Will Budda Baker be traded before Dec 1, 2026?",
+   "subtitle": "Budda Baker",
+   "path": [
+    {
+     "date": "2026-10-25",
+     "mid": 0.135,
+     "bid": 0.03,
+     "ask": 0.24,
+     "volume": 41.1
+    }
+   ],
+   "first": 0.135,
+   "latest": 0.135,
+   "high": 0.135,
+   "low": 0.135,
+   "change": 0.0
+  },
+  "KXNFLTRADE-26DEC01-BHAL": {
+   "series": "KXNFLTRADE",
+   "event": "NFL Players Traded",
+   "game_date": "2026-12-01",
+   "title": "Will Breece Hall be traded before Dec 1, 2026?",
+   "subtitle": "Breece Hall",
+   "path": [
+    {
+     "date": "2026-10-25",
+     "mid": 0.235,
+     "bid": 0.02,
+     "ask": 0.45,
+     "volume": 749.5
+    }
+   ],
+   "first": 0.235,
+   "latest": 0.235,
+   "high": 0.235,
+   "low": 0.235,
+   "change": 0.0
+  },
+  "KXNFLTRADE-26DEC01-BTHO": {
+   "series": "KXNFLTRADE",
+   "event": "NFL Players Traded",
+   "game_date": "2026-12-01",
+   "title": "Will Brian Thomas Jr. be traded before Dec 1, 2026?",
+   "subtitle": "Brian Thomas Jr.",
+   "path": [
+    {
+     "date": "2026-10-25",
+     "mid": 0.685,
+     "bid": 0.68,
+     "ask": 0.69,
+     "volume": 17038.17
+    }
+   ],
+   "first": 0.685,
+   "latest": 0.685,
+   "high": 0.685,
+   "low": 0.685,
+   "change": 0.0
+  },
+  "KXNFLTRADE-26DEC01-CBAR": {
+   "series": "KXNFLTRADE",
+   "event": "NFL Players Traded",
+   "game_date": "2026-12-01",
+   "title": "Will Christian Barmore be traded before Dec 1, 2026?",
+   "subtitle": "Christian Barmore",
+   "path": [
+    {
+     "date": "2026-10-25",
+     "mid": 0.13,
+     "bid": 0.0,
+     "ask": 0.23,
+     "volume": 10.0
+    }
+   ],
+   "first": 0.13,
+   "latest": 0.13,
+   "high": 0.13,
+   "low": 0.13,
+   "change": 0.0
+  },
+  "KXNFLTRADE-26DEC01-CSKA": {
+   "series": "KXNFLTRADE",
+   "event": "NFL Players Traded",
+   "game_date": "2026-12-01",
+   "title": "Will Cam Skattebo be traded before Dec 1, 2026?",
+   "subtitle": "Cam Skattebo",
+   "path": [
+    {
+     "date": "2026-10-25",
+     "mid": 0.07,
+     "bid": 0.0,
+     "ask": 0.98,
+     "volume": 25.23
+    }
+   ],
+   "first": 0.07,
+   "latest": 0.07,
+   "high": 0.07,
+   "low": 0.07,
+   "change": 0.0
+  },
+  "KXNFLTRADE-26DEC01-DACH": {
+   "series": "KXNFLTRADE",
+   "event": "NFL Players Traded",
+   "game_date": "2026-12-01",
+   "title": "Will De’Von Achane be traded before Dec 1, 2026?",
+   "subtitle": "De’Von Achane",
+   "path": [
+    {
+     "date": "2026-10-25",
+     "mid": 0.02,
+     "bid": 0.01,
+     "ask": 0.03,
+     "volume": 1267.04
+    }
+   ],
+   "first": 0.02,
+   "latest": 0.02,
+   "high": 0.02,
+   "low": 0.02,
+   "change": 0.0
+  },
+  "KXNFLTRADE-26DEC01-DLON": {
+   "series": "KXNFLTRADE",
+   "event": "NFL Players Traded",
+   "game_date": "2026-12-01",
+   "title": "Will Drake London be traded before Dec 1, 2026?",
+   "subtitle": "Drake London",
+   "path": [
+    {
+     "date": "2026-10-25",
+     "mid": 0.065,
+     "bid": 0.04,
+     "ask": 0.09,
+     "volume": 1724.28
+    }
+   ],
+   "first": 0.065,
+   "latest": 0.065,
+   "high": 0.065,
+   "low": 0.065,
+   "change": 0.0
+  },
+  "KXNFLTRADE-26DEC01-ENEA": {
+   "series": "KXNFLTRADE",
+   "event": "NFL Players Traded",
+   "game_date": "2026-12-01",
+   "title": "Will Evan Neal be traded before Dec 1, 2026?",
+   "subtitle": "Evan Neal",
+   "path": [
+    {
+     "date": "2026-10-25",
+     "mid": 0.16,
+     "bid": 0.0,
+     "ask": 0.21,
+     "volume": 105.0
+    }
+   ],
+   "first": 0.16,
+   "latest": 0.16,
+   "high": 0.16,
+   "low": 0.16,
+   "change": 0.0
+  },
+  "KXNFLTRADE-26DEC01-EOLI": {
+   "series": "KXNFLTRADE",
+   "event": "NFL Players Traded",
+   "game_date": "2026-12-01",
+   "title": "Will Ed Oliver be traded before Dec 1, 2026?",
+   "subtitle": "Ed Oliver",
+   "path": [
+    {
+     "date": "2026-10-25",
+     "mid": 0.05,
+     "bid": 0.0,
+     "ask": 1.0,
+     "volume": 1000.0
+    }
+   ],
+   "first": 0.05,
+   "latest": 0.05,
+   "high": 0.05,
+   "low": 0.05,
+   "change": 0.0
+  },
+  "KXNFLTRADE-26DEC01-FWAR": {
+   "series": "KXNFLTRADE",
+   "event": "NFL Players Traded",
+   "game_date": "2026-12-01",
+   "title": "Will Fred Warner be traded before Dec 1, 2026?",
+   "subtitle": "Fred Warner",
+   "path": [
+    {
+     "date": "2026-10-25",
+     "mid": 0.02,
+     "bid": 0.0,
+     "ask": 0.15,
+     "volume": 894.51
+    }
+   ],
+   "first": 0.02,
+   "latest": 0.02,
+   "high": 0.02,
+   "low": 0.02,
+   "change": 0.0
+  },
+  "KXNFLTRADE-26DEC01-GKIT": {
+   "series": "KXNFLTRADE",
+   "event": "NFL Players Traded",
+   "game_date": "2026-12-01",
+   "title": "Will George Kittle be traded before Dec 1, 2026?",
+   "subtitle": "George Kittle",
+   "path": [
+    {
+     "date": "2026-10-25",
+     "mid": 0.015,
+     "bid": 0.01,
+     "ask": 0.02,
+     "volume": 607.13
+    }
+   ],
+   "first": 0.015,
+   "latest": 0.015,
+   "high": 0.015,
+   "low": 0.015,
+   "change": 0.0
+  },
+  "KXNFLTRADE-26DEC01-GWIL": {
+   "series": "KXNFLTRADE",
+   "event": "NFL Players Traded",
+   "game_date": "2026-12-01",
+   "title": "Will Garrett Wilson be traded before Dec 1, 2026?",
+   "subtitle": "Garrett Wilson",
+   "path": [
+    {
+     "date": "2026-10-25",
+     "mid": 0.16,
+     "bid": 0.1,
+     "ask": 0.22,
+     "volume": 3665.68
+    }
+   ],
+   "first": 0.16,
+   "latest": 0.16,
+   "high": 0.16,
+   "low": 0.16,
+   "change": 0.0
+  },
+  "KXNFLTRADE-26DEC01-JBAT": {
+   "series": "KXNFLTRADE",
+   "event": "NFL Players Traded",
+   "game_date": "2026-12-01",
+   "title": "Will Jessie Bates III be traded before Dec 1, 2026?",
+   "subtitle": "Jessie Bates III",
+   "path": [
+    {
+     "date": "2026-10-25",
+     "mid": 0.2,
+     "bid": 0.1,
+     "ask": 0.3,
+     "volume": 627.34
+    }
+   ],
+   "first": 0.2,
+   "latest": 0.2,
+   "high": 0.2,
+   "low": 0.2,
+   "change": 0.0
+  },
+  "KXNFLTRADE-26DEC01-JBIT": {
+   "series": "KXNFLTRADE",
+   "event": "NFL Players Traded",
+   "game_date": "2026-12-01",
+   "title": "Will Joel Bitonio be traded before Dec 1, 2026?",
+   "subtitle": "Joel Bitonio",
+   "path": [
+    {
+     "date": "2026-10-25",
+     "mid": 0.01,
+     "bid": 0.0,
+     "ask": 0.07,
+     "volume": 820.0
+    }
+   ],
+   "first": 0.01,
+   "latest": 0.01,
+   "high": 0.01,
+   "low": 0.01,
+   "change": 0.0
+  },
+  "KXNFLTRADE-26DEC01-JBRO": {
+   "series": "KXNFLTRADE",
+   "event": "NFL Players Traded",
+   "game_date": "2026-12-01",
+   "title": "Will Jonathon Brooks be traded before Dec 1, 2026?",
+   "subtitle": "Jonathon Brooks",
+   "path": [
+    {
+     "date": "2026-10-25",
+     "mid": 0.505,
+     "bid": 0.02,
+     "ask": 0.99,
+     "volume": 734.95
+    }
+   ],
+   "first": 0.505,
+   "latest": 0.505,
+   "high": 0.505,
+   "low": 0.505,
+   "change": 0.0
+  },
+  "KXNFLTRADE-26DEC01-JBUR": {
+   "series": "KXNFLTRADE",
+   "event": "NFL Players Traded",
+   "game_date": "2026-12-01",
+   "title": "Will Joe Burrow be traded before Dec 1, 2026?",
+   "subtitle": "Joe Burrow",
+   "path": [
+    {
+     "date": "2026-10-25",
+     "mid": 0.05,
+     "bid": 0.0,
+     "ask": 0.04,
+     "volume": 379.95
+    }
+   ],
+   "first": 0.05,
+   "latest": 0.05,
+   "high": 0.05,
+   "low": 0.05,
+   "change": 0.0
+  },
+  "KXNFLTRADE-26DEC01-JCAR": {
+   "series": "KXNFLTRADE",
+   "event": "NFL Players Traded",
+   "game_date": "2026-12-01",
+   "title": "Will Jalen Carter be traded before Dec 1, 2026?",
+   "subtitle": "Jalen Carter",
+   "path": [
+    {
+     "date": "2026-10-25",
+     "mid": 0.06,
+     "bid": 0.02,
+     "ask": 0.1,
+     "volume": 1076.84
+    }
+   ],
+   "first": 0.06,
+   "latest": 0.06,
+   "high": 0.06,
+   "low": 0.06,
+   "change": 0.0
+  },
+  "KXNFLTRADE-26DEC01-JCHA": {
+   "series": "KXNFLTRADE",
+   "event": "NFL Players Traded",
+   "game_date": "2026-12-01",
+   "title": "Will Ja'Marr Chase be traded before Dec 1, 2026?",
+   "subtitle": "Ja'Marr Chase",
+   "path": [
+    {
+     "date": "2026-10-25",
+     "mid": 0.02,
+     "bid": 0.0,
+     "ask": 0.04,
+     "volume": 314.03
+    }
+   ],
+   "first": 0.02,
+   "latest": 0.02,
+   "high": 0.02,
+   "low": 0.02,
+   "change": 0.0
+  },
+  "KXNFLTRADE-26DEC01-JCON": {
+   "series": "KXNFLTRADE",
+   "event": "NFL Players Traded",
+   "game_date": "2026-12-01",
+   "title": "Will James Conner be traded before Dec 1, 2026?",
+   "subtitle": "James Conner",
+   "path": [
+    {
+     "date": "2026-10-25",
+     "mid": 0.51,
+     "bid": 0.03,
+     "ask": 0.99,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.51,
+   "latest": 0.51,
+   "high": 0.51,
+   "low": 0.51,
+   "change": 0.0
+  },
+  "KXNFLTRADE-26DEC01-JELL": {
+   "series": "KXNFLTRADE",
+   "event": "NFL Players Traded",
+   "game_date": "2026-12-01",
+   "title": "Will Jonah Elliss be traded before Dec 1, 2026?",
+   "subtitle": "Jonah Elliss",
+   "path": [
+    {
+     "date": "2026-10-25",
+     "mid": 0.21,
+     "bid": 0.0,
+     "ask": 0.99,
+     "volume": 609.0
+    }
+   ],
+   "first": 0.21,
+   "latest": 0.21,
+   "high": 0.21,
+   "low": 0.21,
+   "change": 0.0
+  },
+  "KXNFLTRADE-26DEC01-JJEF": {
+   "series": "KXNFLTRADE",
+   "event": "NFL Players Traded",
+   "game_date": "2026-12-01",
+   "title": "Will Justin Jefferson be traded before Dec 1, 2026?",
+   "subtitle": "Justin Jefferson",
+   "path": [
+    {
+     "date": "2026-10-25",
+     "mid": 0.035,
+     "bid": 0.01,
+     "ask": 0.06,
+     "volume": 3636.95
+    }
+   ],
+   "first": 0.035,
+   "latest": 0.035,
+   "high": 0.035,
+   "low": 0.035,
+   "change": 0.0
+  },
+  "KXNFLTRADE-26DEC01-JJEU": {
+   "series": "KXNFLTRADE",
+   "event": "NFL Players Traded",
+   "game_date": "2026-12-01",
+   "title": "Will Jerry Jeudy be traded before Dec 1, 2026?",
+   "subtitle": "Jerry Jeudy",
+   "path": [
+    {
+     "date": "2026-10-25",
+     "mid": 0.41,
+     "bid": 0.31,
+     "ask": 0.51,
+     "volume": 1611.33
+    }
+   ],
+   "first": 0.41,
+   "latest": 0.41,
+   "high": 0.41,
+   "low": 0.41,
+   "change": 0.0
+  },
+  "KXNFLTRADE-26DEC01-JMCC": {
+   "series": "KXNFLTRADE",
+   "event": "NFL Players Traded",
+   "game_date": "2026-12-01",
+   "title": "Will J.J. McCarthy be traded before Dec 1, 2026?",
+   "subtitle": "J.J. McCarthy",
+   "path": [
+    {
+     "date": "2026-10-25",
+     "mid": 0.98,
+     "bid": 0.0,
+     "ask": 1.0,
+     "volume": 8416.87
+    }
+   ],
+   "first": 0.98,
+   "latest": 0.98,
+   "high": 0.98,
+   "low": 0.98,
+   "change": 0.0
+  },
+  "KXNFLTRADE-26DEC01-JMIX": {
+   "series": "KXNFLTRADE",
+   "event": "NFL Players Traded",
+   "game_date": "2026-12-01",
+   "title": "Will Joe Mixon be traded before Dec 1, 2026?",
+   "subtitle": "Joe Mixon",
+   "path": [
+    {
+     "date": "2026-10-25",
+     "mid": 0.01,
+     "bid": 0.0,
+     "ask": 0.01,
+     "volume": 10001.99
+    }
+   ],
+   "first": 0.01,
+   "latest": 0.01,
+   "high": 0.01,
+   "low": 0.01,
+   "change": 0.0
+  },
+  "KXNFLTRADE-26DEC01-JPORTER24": {
+   "series": "KXNFLTRADE",
+   "event": "NFL Players Traded",
+   "game_date": "2026-12-01",
+   "title": "Will Joey Porter Jr. be traded before Dec 1, 2026?",
+   "subtitle": "Joey Porter Jr.",
+   "path": [
+    {
+     "date": "2026-10-25",
+     "mid": 0.97,
+     "bid": 0.0,
+     "ask": 1.0,
+     "volume": 3108.11
+    }
+   ],
+   "first": 0.97,
+   "latest": 0.97,
+   "high": 0.97,
+   "low": 0.97,
+   "change": 0.0
+  },
+  "KXNFLTRADE-26DEC01-JRAM": {
+   "series": "KXNFLTRADE",
+   "event": "NFL Players Traded",
+   "game_date": "2026-12-01",
+   "title": "Will Jalen Ramsey be traded before Dec 1, 2026?",
+   "subtitle": "Jalen Ramsey",
+   "path": [
+    {
+     "date": "2026-10-25",
+     "mid": 0.01,
+     "bid": 0.0,
+     "ask": 0.99,
+     "volume": 137.44
+    }
+   ],
+   "first": 0.01,
+   "latest": 0.01,
+   "high": 0.01,
+   "low": 0.01,
+   "change": 0.0
+  },
+  "KXNFLTRADE-26DEC01-JWIN": {
+   "series": "KXNFLTRADE",
+   "event": "NFL Players Traded",
+   "game_date": "2026-12-01",
+   "title": "Will Jameis Winston be traded before Dec 1, 2026?",
+   "subtitle": "Jameis Winston",
+   "path": [
+    {
+     "date": "2026-10-25",
+     "mid": 0.09,
+     "bid": 0.04,
+     "ask": 0.14,
+     "volume": 271.4
+    }
+   ],
+   "first": 0.09,
+   "latest": 0.09,
+   "high": 0.09,
+   "low": 0.09,
+   "change": 0.0
+  },
+  "KXNFLTRADE-26DEC01-KCOL": {
+   "series": "KXNFLTRADE",
+   "event": "NFL Players Traded",
+   "game_date": "2026-12-01",
+   "title": "Will Keon Coleman be traded before Dec 1, 2026?",
+   "subtitle": "Keon Coleman",
+   "path": [
+    {
+     "date": "2026-10-25",
+     "mid": 0.06,
+     "bid": 0.0,
+     "ask": 0.11,
+     "volume": 40.0
+    }
+   ],
+   "first": 0.06,
+   "latest": 0.06,
+   "high": 0.06,
+   "low": 0.06,
+   "change": 0.0
+  },
+  "KXNFLTRADE-26DEC01-KMUR": {
+   "series": "KXNFLTRADE",
+   "event": "NFL Players Traded",
+   "game_date": "2026-12-01",
+   "title": "Will Kyler Murray be traded before Dec 1, 2026?",
+   "subtitle": "Kyler Murray",
+   "path": [
+    {
+     "date": "2026-10-25",
+     "mid": 0.03,
+     "bid": 0.01,
+     "ask": 0.05,
+     "volume": 8743.3
+    }
+   ],
+   "first": 0.03,
+   "latest": 0.03,
+   "high": 0.03,
+   "low": 0.03,
+   "change": 0.0
+  },
+  "KXNFLTRADE-26DEC01-KTHI": {
+   "series": "KXNFLTRADE",
+   "event": "NFL Players Traded",
+   "game_date": "2026-12-01",
+   "title": "Will Kayvon Thibodeaux be traded before Dec 1, 2026?",
+   "subtitle": "Kayvon Thibodeaux",
+   "path": [
+    {
+     "date": "2026-10-25",
+     "mid": 0.24,
+     "bid": 0.02,
+     "ask": 0.46,
+     "volume": 3083.21
+    }
+   ],
+   "first": 0.24,
+   "latest": 0.24,
+   "high": 0.24,
+   "low": 0.24,
+   "change": 0.0
+  },
+  "KXNFLTRADE-26DEC01-KWIL": {
+   "series": "KXNFLTRADE",
+   "event": "NFL Players Traded",
+   "game_date": "2026-12-01",
+   "title": "Will Kyren Williams be traded before Dec 1, 2026?",
+   "subtitle": "Kyren Williams",
+   "path": [
+    {
+     "date": "2026-10-25",
+     "mid": 0.07,
+     "bid": 0.0,
+     "ask": 0.1,
+     "volume": 736.15
+    }
+   ],
+   "first": 0.07,
+   "latest": 0.07,
+   "high": 0.07,
+   "low": 0.07,
+   "change": 0.0
+  },
+  "KXNFLTRADE-26DEC01-LMCC": {
+   "series": "KXNFLTRADE",
+   "event": "NFL Players Traded",
+   "game_date": "2026-12-01",
+   "title": "Will Ladd McConkey be traded before Dec 1, 2026?",
+   "subtitle": "Ladd McConkey",
+   "path": [
+    {
+     "date": "2026-10-25",
+     "mid": 0.06,
+     "bid": 0.03,
+     "ask": 0.09,
+     "volume": 332.94
+    }
+   ],
+   "first": 0.06,
+   "latest": 0.06,
+   "high": 0.06,
+   "low": 0.06,
+   "change": 0.0
+  },
+  "KXNFLTRADE-26DEC01-LSNE": {
+   "series": "KXNFLTRADE",
+   "event": "NFL Players Traded",
+   "game_date": "2026-12-01",
+   "title": "Will L'Jarius Sneed be traded before Dec 1, 2026?",
+   "subtitle": "L'Jarius Sneed",
+   "path": [
+    {
+     "date": "2026-10-25",
+     "mid": 0.22,
+     "bid": 0.0,
+     "ask": 0.15,
+     "volume": 42.77
+    }
+   ],
+   "first": 0.22,
+   "latest": 0.22,
+   "high": 0.22,
+   "low": 0.22,
+   "change": 0.0
+  },
+  "KXNFLTRADE-26DEC01-MCAR": {
+   "series": "KXNFLTRADE",
+   "event": "NFL Players Traded",
+   "game_date": "2026-12-01",
+   "title": "Will Michael Carter II be traded before Dec 1, 2026?",
+   "subtitle": "Michael Carter II",
+   "path": [
+    {
+     "date": "2026-10-25",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.15,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFLTRADE-26DEC01-MCRO": {
+   "series": "KXNFLTRADE",
+   "event": "NFL Players Traded",
+   "game_date": "2026-12-01",
+   "title": "Will Maxx Crosby be traded before Dec 1, 2026?",
+   "subtitle": "Maxx Crosby",
+   "path": [
+    {
+     "date": "2026-10-25",
+     "mid": 0.26,
+     "bid": 0.25,
+     "ask": 0.27,
+     "volume": 19651.06
+    }
+   ],
+   "first": 0.26,
+   "latest": 0.26,
+   "high": 0.26,
+   "low": 0.26,
+   "change": 0.0
+  },
+  "KXNFLTRADE-26DEC01-MHAR": {
+   "series": "KXNFLTRADE",
+   "event": "NFL Players Traded",
+   "game_date": "2026-12-01",
+   "title": "Will Marvin Harrison Jr. be traded before Dec 1, 2026?",
+   "subtitle": "Marvin Harrison Jr.",
+   "path": [
+    {
+     "date": "2026-10-25",
+     "mid": 0.98,
+     "bid": 0.0,
+     "ask": 1.0,
+     "volume": 10706.43
+    }
+   ],
+   "first": 0.98,
+   "latest": 0.98,
+   "high": 0.98,
+   "low": 0.98,
+   "change": 0.0
+  },
+  "KXNFLTRADE-26DEC01-MJON": {
+   "series": "KXNFLTRADE",
+   "event": "NFL Players Traded",
+   "game_date": "2026-12-01",
+   "title": "Will Mac Jones be traded before Dec 1, 2026?",
+   "subtitle": "Mac Jones",
+   "path": [
+    {
+     "date": "2026-10-25",
+     "mid": 0.11,
+     "bid": 0.03,
+     "ask": 0.19,
+     "volume": 5803.57
+    }
+   ],
+   "first": 0.11,
+   "latest": 0.11,
+   "high": 0.11,
+   "low": 0.11,
+   "change": 0.0
+  },
+  "KXNFLTRADE-26DEC01-MLAT": {
+   "series": "KXNFLTRADE",
+   "event": "NFL Players Traded",
+   "game_date": "2026-12-01",
+   "title": "Will Marshon Lattimore be traded before Dec 1, 2026?",
+   "subtitle": "Marshon Lattimore",
+   "path": [
+    {
+     "date": "2026-10-25",
+     "mid": 0.455,
+     "bid": 0.01,
+     "ask": 0.9,
+     "volume": 269.0
+    }
+   ],
+   "first": 0.455,
+   "latest": 0.455,
+   "high": 0.455,
+   "low": 0.455,
+   "change": 0.0
+  },
+  "KXNFLTRADE-26DEC01-NCOL": {
+   "series": "KXNFLTRADE",
+   "event": "NFL Players Traded",
+   "game_date": "2026-12-01",
+   "title": "Will Nico Collins be traded before Dec 1, 2026?",
+   "subtitle": "Nico Collins",
+   "path": [
+    {
+     "date": "2026-10-25",
+     "mid": 0.03,
+     "bid": 0.02,
+     "ask": 0.04,
+     "volume": 281.82
+    }
+   ],
+   "first": 0.03,
+   "latest": 0.03,
+   "high": 0.03,
+   "low": 0.03,
+   "change": 0.0
+  },
+  "KXNFLTRADE-26DEC01-NHER": {
+   "series": "KXNFLTRADE",
+   "event": "NFL Players Traded",
+   "game_date": "2026-12-01",
+   "title": "Will Nick Herbig be traded before Dec 1, 2026?",
+   "subtitle": "Nick Herbig",
+   "path": [
+    {
+     "date": "2026-10-25",
+     "mid": 0.07,
+     "bid": 0.0,
+     "ask": 0.08,
+     "volume": 323.64
+    }
+   ],
+   "first": 0.07,
+   "latest": 0.07,
+   "high": 0.07,
+   "low": 0.07,
+   "change": 0.0
+  },
+  "KXNFLTRADE-26DEC01-QWAL": {
+   "series": "KXNFLTRADE",
+   "event": "NFL Players Traded",
+   "game_date": "2026-12-01",
+   "title": "Will Quay Walker be traded before Dec 1, 2026?",
+   "subtitle": "Quay Walker",
+   "path": [
+    {
+     "date": "2026-10-25",
+     "mid": 0.07,
+     "bid": 0.0,
+     "ask": 0.13,
+     "volume": 70.0
+    }
+   ],
+   "first": 0.07,
+   "latest": 0.07,
+   "high": 0.07,
+   "low": 0.07,
+   "change": 0.0
+  },
+  "KXNFLTRADE-26DEC01-RBAT": {
+   "series": "KXNFLTRADE",
+   "event": "NFL Players Traded",
+   "game_date": "2026-12-01",
+   "title": "Will Rashod Bateman be traded before Dec 1, 2026?",
+   "subtitle": "Rashod Bateman",
+   "path": [
+    {
+     "date": "2026-10-25",
+     "mid": 0.095,
+     "bid": 0.08,
+     "ask": 0.11,
+     "volume": 1170.6
+    }
+   ],
+   "first": 0.095,
+   "latest": 0.095,
+   "high": 0.095,
+   "low": 0.095,
+   "change": 0.0
+  },
+  "KXNFLTRADE-26DEC01-RDOW": {
+   "series": "KXNFLTRADE",
+   "event": "NFL Players Traded",
+   "game_date": "2026-12-01",
+   "title": "Will Rico Dowdle be traded before Dec 1, 2026?",
+   "subtitle": "Rico Dowdle",
+   "path": [
+    {
+     "date": "2026-10-25",
+     "mid": 0.5,
+     "bid": 0.02,
+     "ask": 0.98,
+     "volume": 405.18
+    }
+   ],
+   "first": 0.5,
+   "latest": 0.5,
+   "high": 0.5,
+   "low": 0.5,
+   "change": 0.0
+  },
+  "KXNFLTRADE-26DEC01-RSMI": {
+   "series": "KXNFLTRADE",
+   "event": "NFL Players Traded",
+   "game_date": "2026-12-01",
+   "title": "Will Roquan Smith be traded before Dec 1, 2026?",
+   "subtitle": "Roquan Smith",
+   "path": [
+    {
+     "date": "2026-10-25",
+     "mid": 0.07,
+     "bid": 0.0,
+     "ask": 0.08,
+     "volume": 205.0
+    }
+   ],
+   "first": 0.07,
+   "latest": 0.07,
+   "high": 0.07,
+   "low": 0.07,
+   "change": 0.0
+  },
+  "KXNFLTRADE-26DEC01-RWOO": {
+   "series": "KXNFLTRADE",
+   "event": "NFL Players Traded",
+   "game_date": "2026-12-01",
+   "title": "Will Riq Woolen be traded before Dec 1, 2026?",
+   "subtitle": "Riq Woolen",
+   "path": [
+    {
+     "date": "2026-10-25",
+     "mid": 0.35,
+     "bid": 0.27,
+     "ask": 0.43,
+     "volume": 4170.37
+    }
+   ],
+   "first": 0.35,
+   "latest": 0.35,
+   "high": 0.35,
+   "low": 0.35,
+   "change": 0.0
+  },
+  "KXNFLTRADE-26DEC01-SBAR": {
+   "series": "KXNFLTRADE",
+   "event": "NFL Players Traded",
+   "game_date": "2026-12-01",
+   "title": "Will Saquon Barkley be traded before Dec 1, 2026?",
+   "subtitle": "Saquon Barkley",
+   "path": [
+    {
+     "date": "2026-10-25",
+     "mid": 0.29,
+     "bid": 0.28,
+     "ask": 0.3,
+     "volume": 8782.24
+    }
+   ],
+   "first": 0.29,
+   "latest": 0.29,
+   "high": 0.29,
+   "low": 0.29,
+   "change": 0.0
+  },
+  "KXNFLTRADE-26DEC01-SDIG": {
+   "series": "KXNFLTRADE",
+   "event": "NFL Players Traded",
+   "game_date": "2026-12-01",
+   "title": "Will Stefon Diggs be traded before Dec 1, 2026?",
+   "subtitle": "Stefon Diggs",
+   "path": [
+    {
+     "date": "2026-10-25",
+     "mid": 0.245,
+     "bid": 0.16,
+     "ask": 0.33,
+     "volume": 5713.95
+    }
+   ],
+   "first": 0.245,
+   "latest": 0.245,
+   "high": 0.245,
+   "low": 0.245,
+   "change": 0.0
+  },
+  "KXNFLTRADE-26DEC01-SRAT": {
+   "series": "KXNFLTRADE",
+   "event": "NFL Players Traded",
+   "game_date": "2026-12-01",
+   "title": "Will Spencer Rattler be traded before Dec 1, 2026?",
+   "subtitle": "Spencer Rattler",
+   "path": [
+    {
+     "date": "2026-10-25",
+     "mid": 0.525,
+     "bid": 0.06,
+     "ask": 0.99,
+     "volume": 775.86
+    }
+   ],
+   "first": 0.525,
+   "latest": 0.525,
+   "high": 0.525,
+   "low": 0.525,
+   "change": 0.0
+  },
+  "KXNFLTRADE-26DEC01-SSAN": {
+   "series": "KXNFLTRADE",
+   "event": "NFL Players Traded",
+   "game_date": "2026-12-01",
+   "title": "Will Shedeur Sanders be traded before Dec 1, 2026?",
+   "subtitle": "Shedeur Sanders",
+   "path": [
+    {
+     "date": "2026-10-25",
+     "mid": 0.205,
+     "bid": 0.08,
+     "ask": 0.33,
+     "volume": 3320.4
+    }
+   ],
+   "first": 0.205,
+   "latest": 0.205,
+   "high": 0.205,
+   "low": 0.205,
+   "change": 0.0
+  },
+  "KXNFLTRADE-26DEC01-THEN": {
+   "series": "KXNFLTRADE",
+   "event": "NFL Players Traded",
+   "game_date": "2026-12-01",
+   "title": "Will Trey Hendrickson be traded before Dec 1, 2026?",
+   "subtitle": "Trey Hendrickson",
+   "path": [
+    {
+     "date": "2026-10-25",
+     "mid": 0.04,
+     "bid": 0.0,
+     "ask": 0.04,
+     "volume": 4389.38
+    }
+   ],
+   "first": 0.04,
+   "latest": 0.04,
+   "high": 0.04,
+   "low": 0.04,
+   "change": 0.0
+  },
+  "KXNFLTRADE-26DEC01-THIG": {
+   "series": "KXNFLTRADE",
+   "event": "NFL Players Traded",
+   "game_date": "2026-12-01",
+   "title": "Will Tee Higgins be traded before Dec 1, 2026?",
+   "subtitle": "Tee Higgins",
+   "path": [
+    {
+     "date": "2026-10-25",
+     "mid": 0.02,
+     "bid": 0.0,
+     "ask": 0.07,
+     "volume": 484.12
+    }
+   ],
+   "first": 0.02,
+   "latest": 0.02,
+   "high": 0.02,
+   "low": 0.02,
+   "change": 0.0
+  },
+  "KXNFLTRADE-26DEC01-TTAG": {
+   "series": "KXNFLTRADE",
+   "event": "NFL Players Traded",
+   "game_date": "2026-12-01",
+   "title": "Will Tua Tagovailoa be traded before Dec 1, 2026?",
+   "subtitle": "Tua Tagovailoa",
+   "path": [
+    {
+     "date": "2026-10-25",
+     "mid": 0.01,
+     "bid": 0.0,
+     "ask": 0.15,
+     "volume": 9727.36
+    }
+   ],
+   "first": 0.01,
+   "latest": 0.01,
+   "high": 0.01,
+   "low": 0.01,
+   "change": 0.0
+  },
+  "KXNFLTRADE-26DEC01-WMCD": {
+   "series": "KXNFLTRADE",
+   "event": "NFL Players Traded",
+   "game_date": "2026-12-01",
+   "title": "Will Will McDonald IV be traded before Dec 1, 2026?",
+   "subtitle": "Will McDonald IV",
+   "path": [
+    {
+     "date": "2026-10-25",
+     "mid": 0.5,
+     "bid": 0.1,
+     "ask": 0.9,
+     "volume": 1026.8
+    }
+   ],
+   "first": 0.5,
+   "latest": 0.5,
+   "high": 0.5,
+   "low": 0.5,
+   "change": 0.0
+  },
+  "KXNFLTRADE-26DEC01-ZJOH": {
+   "series": "KXNFLTRADE",
+   "event": "NFL Players Traded",
+   "game_date": "2026-12-01",
+   "title": "Will Zion Johnson be traded before Dec 1, 2026?",
+   "subtitle": "Zion Johnson",
+   "path": [
+    {
+     "date": "2026-10-25",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 1.0,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFLTRADE-26DEC01-ZWHI": {
+   "series": "KXNFLTRADE",
+   "event": "NFL Players Traded",
+   "game_date": "2026-12-01",
+   "title": "Will Zamir White be traded before Dec 1, 2026?",
+   "subtitle": "Zamir White",
+   "path": [
+    {
+     "date": "2026-10-25",
+     "mid": 0.99,
+     "bid": 0.0,
+     "ask": 1.0,
+     "volume": 7935.45
+    }
+   ],
+   "first": 0.99,
+   "latest": 0.99,
+   "high": 0.99,
+   "low": 0.99,
+   "change": 0.0
+  }
+ }
+}

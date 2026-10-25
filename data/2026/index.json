@@ -1,0 +1,30 @@
+{
+ "futures": {
+  "last_updated": "2026-10-25",
+  "markets": 10077
+ },
+ "week-07": {
+  "last_updated": "2026-10-25",
+  "markets": 14095
+ },
+ "week-08": {
+  "last_updated": "2026-10-25",
+  "markets": 121
+ },
+ "week-104": {
+  "last_updated": "2026-10-25",
+  "markets": 1
+ },
+ "week-13": {
+  "last_updated": "2026-10-25",
+  "markets": 59
+ },
+ "week-23": {
+  "last_updated": "2026-10-25",
+  "markets": 1
+ },
+ "week-25": {
+  "last_updated": "2026-10-25",
+  "markets": 33
+ }
+}
