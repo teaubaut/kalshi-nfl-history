@@ -14,16 +14,16 @@
    "path": [
     {
      "date": "2026-10-25",
-     "mid": 0.585,
-     "bid": 0.54,
-     "ask": 0.63,
+     "mid": 0.77,
+     "bid": 0.55,
+     "ask": 0.99,
      "volume": 2229.47
     }
    ],
-   "first": 0.585,
-   "latest": 0.585,
-   "high": 0.585,
-   "low": 0.585,
+   "first": 0.77,
+   "latest": 0.77,
+   "high": 0.77,
+   "low": 0.77,
    "change": 0.0
   },
   "KXNFLCOACHOUT-27MAR01-AREI": {
@@ -37,7 +37,7 @@
      "date": "2026-10-25",
      "mid": 0.06,
      "bid": 0.0,
-     "ask": 0.06,
+     "ask": 0.95,
      "volume": 171.02
     }
    ],
@@ -58,7 +58,7 @@
      "date": "2026-10-25",
      "mid": 0.04,
      "bid": 0.0,
-     "ask": 0.04,
+     "ask": 0.09,
      "volume": 1988.42
     }
    ],
@@ -98,16 +98,16 @@
    "path": [
     {
      "date": "2026-10-25",
-     "mid": 0.08,
+     "mid": 0.515,
      "bid": 0.04,
-     "ask": 0.12,
+     "ask": 0.99,
      "volume": 812.48
     }
    ],
-   "first": 0.08,
-   "latest": 0.08,
-   "high": 0.08,
-   "low": 0.08,
+   "first": 0.515,
+   "latest": 0.515,
+   "high": 0.515,
+   "low": 0.515,
    "change": 0.0
   },
   "KXNFLCOACHOUT-27MAR01-DCAN": {
@@ -119,16 +119,16 @@
    "path": [
     {
      "date": "2026-10-25",
-     "mid": 0.17,
-     "bid": 0.13,
+     "mid": 0.165,
+     "bid": 0.12,
      "ask": 0.21,
      "volume": 2025.35
     }
    ],
-   "first": 0.17,
-   "latest": 0.17,
-   "high": 0.17,
-   "low": 0.17,
+   "first": 0.165,
+   "latest": 0.165,
+   "high": 0.165,
+   "low": 0.165,
    "change": 0.0
   },
   "KXNFLCOACHOUT-27MAR01-DQUI": {
@@ -140,16 +140,16 @@
    "path": [
     {
      "date": "2026-10-25",
-     "mid": 0.83,
+     "mid": 0.91,
      "bid": 0.82,
-     "ask": 0.84,
+     "ask": 1.0,
      "volume": 2507.13
     }
    ],
-   "first": 0.83,
-   "latest": 0.83,
-   "high": 0.83,
-   "low": 0.83,
+   "first": 0.91,
+   "latest": 0.91,
+   "high": 0.91,
+   "low": 0.91,
    "change": 0.0
   },
   "KXNFLCOACHOUT-27MAR01-DRYA": {
@@ -161,16 +161,16 @@
    "path": [
     {
      "date": "2026-10-25",
-     "mid": 0.16,
-     "bid": 0.12,
+     "mid": 0.105,
+     "bid": 0.01,
      "ask": 0.2,
      "volume": 505.0
     }
    ],
-   "first": 0.16,
-   "latest": 0.16,
-   "high": 0.16,
-   "low": 0.16,
+   "first": 0.105,
+   "latest": 0.105,
+   "high": 0.105,
+   "low": 0.105,
    "change": 0.0
   },
   "KXNFLCOACHOUT-27MAR01-JBRA": {
@@ -182,16 +182,16 @@
    "path": [
     {
      "date": "2026-10-25",
-     "mid": 0.035,
-     "bid": 0.01,
-     "ask": 0.06,
+     "mid": 0.09,
+     "bid": 0.0,
+     "ask": 1.0,
      "volume": 52.22
     }
    ],
-   "first": 0.035,
-   "latest": 0.035,
-   "high": 0.035,
-   "low": 0.035,
+   "first": 0.09,
+   "latest": 0.09,
+   "high": 0.09,
+   "low": 0.09,
    "change": 0.0
   },
   "KXNFLCOACHOUT-27MAR01-JHAF": {
@@ -203,16 +203,16 @@
    "path": [
     {
      "date": "2026-10-25",
-     "mid": 0.44,
-     "bid": 0.4,
-     "ask": 0.48,
+     "mid": 0.26,
+     "bid": 0.05,
+     "ask": 0.47,
      "volume": 938.58
     }
    ],
-   "first": 0.44,
-   "latest": 0.44,
-   "high": 0.44,
-   "low": 0.44,
+   "first": 0.26,
+   "latest": 0.26,
+   "high": 0.26,
+   "low": 0.26,
    "change": 0.0
   },
   "KXNFLCOACHOUT-27MAR01-JIHA": {
@@ -247,7 +247,7 @@
      "date": "2026-10-25",
      "mid": 0.02,
      "bid": 0.0,
-     "ask": 0.05,
+     "ask": 0.25,
      "volume": 250.0
     }
    ],
@@ -266,16 +266,16 @@
    "path": [
     {
      "date": "2026-10-25",
-     "mid": 0.06,
+     "mid": 0.51,
      "bid": 0.02,
-     "ask": 0.1,
+     "ask": 1.0,
      "volume": 0.0
     }
    ],
-   "first": 0.06,
-   "latest": 0.06,
-   "high": 0.06,
-   "low": 0.06,
+   "first": 0.51,
+   "latest": 0.51,
+   "high": 0.51,
+   "low": 0.51,
    "change": 0.0
   },
   "KXNFLCOACHOUT-27MAR01-KKUB": {
@@ -289,7 +289,7 @@
      "date": "2026-10-25",
      "mid": 0.01,
      "bid": 0.0,
-     "ask": 0.05,
+     "ask": 0.21,
      "volume": 1360.0
     }
    ],
@@ -308,16 +308,16 @@
    "path": [
     {
      "date": "2026-10-25",
-     "mid": 0.155,
-     "bid": 0.11,
-     "ask": 0.2,
-     "volume": 20.65
+     "mid": 0.43,
+     "bid": 0.02,
+     "ask": 0.84,
+     "volume": 139.02
     }
    ],
-   "first": 0.155,
-   "latest": 0.155,
-   "high": 0.155,
-   "low": 0.155,
+   "first": 0.43,
+   "latest": 0.43,
+   "high": 0.43,
+   "low": 0.43,
    "change": 0.0
   },
   "KXNFLCOACHOUT-27MAR01-KOCO": {
@@ -329,16 +329,16 @@
    "path": [
     {
      "date": "2026-10-25",
-     "mid": 0.05,
+     "mid": 0.51,
      "bid": 0.02,
-     "ask": 0.08,
+     "ask": 1.0,
      "volume": 0.0
     }
    ],
-   "first": 0.05,
-   "latest": 0.05,
-   "high": 0.05,
-   "low": 0.05,
+   "first": 0.51,
+   "latest": 0.51,
+   "high": 0.51,
+   "low": 0.51,
    "change": 0.0
   },
   "KXNFLCOACHOUT-27MAR01-KSHA": {
@@ -352,7 +352,7 @@
      "date": "2026-10-25",
      "mid": 0.01,
      "bid": 0.0,
-     "ask": 0.05,
+     "ask": 0.1,
      "volume": 604.69
     }
    ],
@@ -371,16 +371,16 @@
    "path": [
     {
      "date": "2026-10-25",
-     "mid": 0.15,
-     "bid": 0.11,
-     "ask": 0.19,
+     "mid": 0.11,
+     "bid": 0.0,
+     "ask": 0.33,
      "volume": 305.69
     }
    ],
-   "first": 0.15,
-   "latest": 0.15,
-   "high": 0.15,
-   "low": 0.15,
+   "first": 0.11,
+   "latest": 0.11,
+   "high": 0.11,
+   "low": 0.11,
    "change": 0.0
   },
   "KXNFLCOACHOUT-27MAR01-LCOE": {
@@ -434,16 +434,16 @@
    "path": [
     {
      "date": "2026-10-25",
-     "mid": 0.16,
+     "mid": 0.115,
      "bid": 0.09,
-     "ask": 0.23,
-     "volume": 11357.73
+     "ask": 0.14,
+     "volume": 11388.04
     }
    ],
-   "first": 0.16,
-   "latest": 0.16,
-   "high": 0.16,
-   "low": 0.16,
+   "first": 0.115,
+   "latest": 0.115,
+   "high": 0.115,
+   "low": 0.115,
    "change": 0.0
   },
   "KXNFLCOACHOUT-27MAR01-MMAC": {
@@ -476,16 +476,16 @@
    "path": [
     {
      "date": "2026-10-25",
-     "mid": 0.07,
+     "mid": 0.515,
      "bid": 0.03,
-     "ask": 0.11,
+     "ask": 1.0,
      "volume": 360.3
     }
    ],
-   "first": 0.07,
-   "latest": 0.07,
-   "high": 0.07,
-   "low": 0.07,
+   "first": 0.515,
+   "latest": 0.515,
+   "high": 0.515,
+   "low": 0.515,
    "change": 0.0
   },
   "KXNFLCOACHOUT-27MAR01-MVRA": {
@@ -497,16 +497,16 @@
    "path": [
     {
      "date": "2026-10-25",
-     "mid": 0.055,
+     "mid": 0.51,
      "bid": 0.02,
-     "ask": 0.09,
+     "ask": 1.0,
      "volume": 94.01
     }
    ],
-   "first": 0.055,
-   "latest": 0.055,
-   "high": 0.055,
-   "low": 0.055,
+   "first": 0.51,
+   "latest": 0.51,
+   "high": 0.51,
+   "low": 0.51,
    "change": 0.0
   },
   "KXNFLCOACHOUT-27MAR01-NSIR": {
@@ -518,16 +518,16 @@
    "path": [
     {
      "date": "2026-10-25",
-     "mid": 0.715,
-     "bid": 0.68,
+     "mid": 0.68,
+     "bid": 0.61,
      "ask": 0.75,
      "volume": 2223.25
     }
    ],
-   "first": 0.715,
-   "latest": 0.715,
-   "high": 0.715,
-   "low": 0.715,
+   "first": 0.68,
+   "latest": 0.68,
+   "high": 0.68,
+   "low": 0.68,
    "change": 0.0
   },
   "KXNFLCOACHOUT-27MAR01-RSAL": {
@@ -539,16 +539,16 @@
    "path": [
     {
      "date": "2026-10-25",
-     "mid": 0.395,
+     "mid": 0.5,
      "bid": 0.36,
-     "ask": 0.43,
+     "ask": 0.64,
      "volume": 1153.3
     }
    ],
-   "first": 0.395,
-   "latest": 0.395,
-   "high": 0.395,
-   "low": 0.395,
+   "first": 0.5,
+   "latest": 0.5,
+   "high": 0.5,
+   "low": 0.5,
    "change": 0.0
   },
   "KXNFLCOACHOUT-27MAR01-SMCV": {
@@ -560,16 +560,16 @@
    "path": [
     {
      "date": "2026-10-25",
-     "mid": 0.08,
+     "mid": 0.255,
      "bid": 0.04,
-     "ask": 0.12,
+     "ask": 0.47,
      "volume": 1073.49
     }
    ],
-   "first": 0.08,
-   "latest": 0.08,
-   "high": 0.08,
-   "low": 0.08,
+   "first": 0.255,
+   "latest": 0.255,
+   "high": 0.255,
+   "low": 0.255,
    "change": 0.0
   },
   "KXNFLCOACHOUT-27MAR01-SPAY": {
@@ -581,16 +581,16 @@
    "path": [
     {
      "date": "2026-10-25",
-     "mid": 0.07,
+     "mid": 0.515,
      "bid": 0.03,
-     "ask": 0.11,
+     "ask": 1.0,
      "volume": 0.0
     }
    ],
-   "first": 0.07,
-   "latest": 0.07,
-   "high": 0.07,
-   "low": 0.07,
+   "first": 0.515,
+   "latest": 0.515,
+   "high": 0.515,
+   "low": 0.515,
    "change": 0.0
   },
   "KXNFLCOACHOUT-27MAR01-SSTE": {
@@ -602,16 +602,16 @@
    "path": [
     {
      "date": "2026-10-25",
-     "mid": 0.42,
-     "bid": 0.4,
-     "ask": 0.44,
+     "mid": 0.65,
+     "bid": 0.41,
+     "ask": 0.89,
      "volume": 1423.69
     }
    ],
-   "first": 0.42,
-   "latest": 0.42,
-   "high": 0.42,
-   "low": 0.42,
+   "first": 0.65,
+   "latest": 0.65,
+   "high": 0.65,
+   "low": 0.65,
    "change": 0.0
   },
   "KXNFLCOACHOUT-27MAR01-TBOW": {
@@ -623,16 +623,16 @@
    "path": [
     {
      "date": "2026-10-25",
-     "mid": 0.85,
-     "bid": 0.81,
+     "mid": 0.845,
+     "bid": 0.8,
      "ask": 0.89,
      "volume": 2011.55
     }
    ],
-   "first": 0.85,
-   "latest": 0.85,
-   "high": 0.85,
-   "low": 0.85,
+   "first": 0.845,
+   "latest": 0.845,
+   "high": 0.845,
+   "low": 0.845,
    "change": 0.0
   },
   "KXNFLCOACHOUT-27MAR01-TMON": {
@@ -644,16 +644,16 @@
    "path": [
     {
      "date": "2026-10-25",
-     "mid": 0.175,
-     "bid": 0.13,
-     "ask": 0.22,
+     "mid": 0.515,
+     "bid": 0.03,
+     "ask": 1.0,
      "volume": 974.78
     }
    ],
-   "first": 0.175,
-   "latest": 0.175,
-   "high": 0.175,
-   "low": 0.175,
+   "first": 0.515,
+   "latest": 0.515,
+   "high": 0.515,
+   "low": 0.515,
    "change": 0.0
   },
   "KXNFLCOACHOUT-27MAR01-ZTAY": {
@@ -665,16 +665,16 @@
    "path": [
     {
      "date": "2026-10-25",
-     "mid": 0.165,
-     "bid": 0.12,
-     "ask": 0.21,
+     "mid": 0.505,
+     "bid": 0.01,
+     "ask": 1.0,
      "volume": 923.62
     }
    ],
-   "first": 0.165,
-   "latest": 0.165,
-   "high": 0.165,
-   "low": 0.165,
+   "first": 0.505,
+   "latest": 0.505,
+   "high": 0.505,
+   "low": 0.505,
    "change": 0.0
   },
   "KXNFLSTADIUM-27MAR01TENNSTAD-Y": {
