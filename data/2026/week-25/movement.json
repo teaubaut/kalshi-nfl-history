@@ -1,9 +1,147 @@
 {
- "updated": "2026-10-25",
+ "updated": "2026-10-26",
  "days": [
-  "2026-10-25"
+  "2026-10-25",
+  "2026-10-26"
  ],
- "top_movers": [],
+ "top_movers": [
+  {
+   "ticker": "KXNFLCOACHOUT-27MAR01-MLAF",
+   "title": "Matt LaFleur out before Mar 1, 2027",
+   "subtitle": "Matt LaFleur",
+   "first": 0.115,
+   "latest": 0.555,
+   "change": 0.44
+  },
+  {
+   "ticker": "KXNFLCOACHOUT-27MAR01-LCOE",
+   "title": "Liam Coen out before Mar 1, 2027",
+   "subtitle": "Liam Coen",
+   "first": 0.065,
+   "latest": 0.475,
+   "change": 0.41
+  },
+  {
+   "ticker": "KXNFLCOACHOUT-27MAR01-DRYA",
+   "title": "DeMeco Ryans out before Mar 1, 2027",
+   "subtitle": "DeMeco Ryans",
+   "first": 0.105,
+   "latest": 0.45,
+   "change": 0.345
+  },
+  {
+   "ticker": "KXNFLCOACHOUT-27MAR01-JHAF",
+   "title": "Jeff Hafley out before Mar 1, 2027",
+   "subtitle": "Jeff Hafley",
+   "first": 0.26,
+   "latest": 0.505,
+   "change": 0.245
+  },
+  {
+   "ticker": "KXNFLCOACHOUT-27MAR01-RSAL",
+   "title": "Robert Saleh out before Mar 1, 2027",
+   "subtitle": "Robert Saleh",
+   "first": 0.5,
+   "latest": 0.26,
+   "change": -0.24
+  },
+  {
+   "ticker": "KXNFLCOACHOUT-27MAR01-DCAN",
+   "title": "Dave Canales out before Mar 1, 2027",
+   "subtitle": "Dave Canales",
+   "first": 0.165,
+   "latest": 0.3,
+   "change": 0.135
+  },
+  {
+   "ticker": "KXNFLCOACHOUT-27MAR01-NSIR",
+   "title": "Nick Sirianni out before Mar 1, 2027",
+   "subtitle": "Nick Sirianni",
+   "first": 0.68,
+   "latest": 0.77,
+   "change": 0.09
+  },
+  {
+   "ticker": "KXNFLCOACHOUT-27MAR01-AGLE",
+   "title": "Aaron Glenn out before Mar 1, 2027",
+   "subtitle": "Aaron Glenn",
+   "first": 0.77,
+   "latest": 0.845,
+   "change": 0.075
+  },
+  {
+   "ticker": "KXNFLSTADIUM-27MAR01TENNSTAD-Y",
+   "title": "Will Tennessee complete the New Nissan Stadium before Mar 1, 2027?",
+   "subtitle": "Before Mar 1, 2027",
+   "first": 0.525,
+   "latest": 0.47,
+   "change": -0.055
+  },
+  {
+   "ticker": "KXNFLCOACHOUT-27MAR01-TBOW",
+   "title": "Todd Bowles out before Mar 1, 2027",
+   "subtitle": "Todd Bowles",
+   "first": 0.845,
+   "latest": 0.875,
+   "change": 0.03
+  },
+  {
+   "ticker": "KXNFLCOACHOUT-27MAR01-JIHA",
+   "title": "Jim Harbaugh out before Mar 1, 2027",
+   "subtitle": "Jim Harbaugh",
+   "first": 0.555,
+   "latest": 0.57,
+   "change": 0.015
+  },
+  {
+   "ticker": "KXNFLCOACHOUT-27MAR01-BSCHO",
+   "title": "Brian Schottenheimer out before Mar 1, 2027",
+   "subtitle": "Brian Schottenheimer",
+   "first": 0.505,
+   "latest": 0.515,
+   "change": 0.01
+  },
+  {
+   "ticker": "KXNFLCOACHOUT-27MAR01-DCAM",
+   "title": "Dan Campbell out before Mar 1, 2027",
+   "subtitle": "Dan Campbell",
+   "first": 0.515,
+   "latest": 0.51,
+   "change": -0.005
+  },
+  {
+   "ticker": "KXNFLCOACHOUT-27MAR01-DQUI",
+   "title": "Dan Quinn out before Mar 1, 2027",
+   "subtitle": "Dan Quinn",
+   "first": 0.91,
+   "latest": 0.905,
+   "change": -0.005
+  },
+  {
+   "ticker": "KXNFLCOACHOUT-27MAR01-KMOO",
+   "title": "Kellen Moore out before Mar 1, 2027",
+   "subtitle": "Kellen Moore",
+   "first": 0.43,
+   "latest": 0.435,
+   "change": 0.005
+  },
+  {
+   "ticker": "KXNFLCOACHOUT-27MAR01-SMCV",
+   "title": "Sean McVay out before Mar 1, 2027",
+   "subtitle": "Sean McVay",
+   "first": 0.255,
+   "latest": 0.25,
+   "change": -0.005
+  },
+  {
+   "ticker": "KXNFLCOACHOUT-27MAR01-SSTE",
+   "title": "Shane Steichen out before Mar 1, 2027",
+   "subtitle": "Shane Steichen",
+   "first": 0.65,
+   "latest": 0.655,
+   "change": 0.005
+  }
+ ],
  "markets": {
   "KXNFLCOACHOUT-27MAR01-AGLE": {
    "series": "KXNFLCOACHOUT",
@@ -18,13 +156,20 @@
      "bid": 0.55,
      "ask": 0.99,
      "volume": 2229.47
+    },
+    {
+     "date": "2026-10-26",
+     "mid": 0.845,
+     "bid": 0.7,
+     "ask": 0.99,
+     "volume": 2229.47
     }
    ],
    "first": 0.77,
-   "latest": 0.77,
-   "high": 0.77,
+   "latest": 0.845,
+   "high": 0.845,
    "low": 0.77,
-   "change": 0.0
+   "change": 0.075
   },
   "KXNFLCOACHOUT-27MAR01-AREI": {
    "series": "KXNFLCOACHOUT",
@@ -38,6 +183,13 @@
      "mid": 0.06,
      "bid": 0.0,
      "ask": 0.95,
+     "volume": 171.02
+    },
+    {
+     "date": "2026-10-26",
+     "mid": 0.06,
+     "bid": 0.0,
+     "ask": 1.0,
      "volume": 171.02
     }
    ],
@@ -56,6 +208,13 @@
    "path": [
     {
      "date": "2026-10-25",
+     "mid": 0.04,
+     "bid": 0.0,
+     "ask": 0.09,
+     "volume": 1988.42
+    },
+    {
+     "date": "2026-10-26",
      "mid": 0.04,
      "bid": 0.0,
      "ask": 0.09,
@@ -81,13 +240,20 @@
      "bid": 0.01,
      "ask": 1.0,
      "volume": 1399.72
+    },
+    {
+     "date": "2026-10-26",
+     "mid": 0.515,
+     "bid": 0.04,
+     "ask": 0.99,
+     "volume": 1399.72
     }
    ],
    "first": 0.505,
-   "latest": 0.505,
-   "high": 0.505,
+   "latest": 0.515,
+   "high": 0.515,
    "low": 0.505,
-   "change": 0.0
+   "change": 0.01
   },
   "KXNFLCOACHOUT-27MAR01-DCAM": {
    "series": "KXNFLCOACHOUT",
@@ -102,13 +268,20 @@
      "bid": 0.04,
      "ask": 0.99,
      "volume": 812.48
+    },
+    {
+     "date": "2026-10-26",
+     "mid": 0.51,
+     "bid": 0.03,
+     "ask": 0.99,
+     "volume": 812.48
     }
    ],
    "first": 0.515,
-   "latest": 0.515,
+   "latest": 0.51,
    "high": 0.515,
-   "low": 0.515,
-   "change": 0.0
+   "low": 0.51,
+   "change": -0.005
   },
   "KXNFLCOACHOUT-27MAR01-DCAN": {
    "series": "KXNFLCOACHOUT",
@@ -123,13 +296,20 @@
      "bid": 0.12,
      "ask": 0.21,
      "volume": 2025.35
+    },
+    {
+     "date": "2026-10-26",
+     "mid": 0.3,
+     "bid": 0.13,
+     "ask": 0.47,
+     "volume": 2025.35
     }
    ],
    "first": 0.165,
-   "latest": 0.165,
-   "high": 0.165,
+   "latest": 0.3,
+   "high": 0.3,
    "low": 0.165,
-   "change": 0.0
+   "change": 0.135
   },
   "KXNFLCOACHOUT-27MAR01-DQUI": {
    "series": "KXNFLCOACHOUT",
@@ -144,13 +324,20 @@
      "bid": 0.82,
      "ask": 1.0,
      "volume": 2507.13
+    },
+    {
+     "date": "2026-10-26",
+     "mid": 0.905,
+     "bid": 0.82,
+     "ask": 0.99,
+     "volume": 2507.13
     }
    ],
    "first": 0.91,
-   "latest": 0.91,
+   "latest": 0.905,
    "high": 0.91,
-   "low": 0.91,
-   "change": 0.0
+   "low": 0.905,
+   "change": -0.005
   },
   "KXNFLCOACHOUT-27MAR01-DRYA": {
    "series": "KXNFLCOACHOUT",
@@ -165,13 +352,20 @@
      "bid": 0.01,
      "ask": 0.2,
      "volume": 505.0
+    },
+    {
+     "date": "2026-10-26",
+     "mid": 0.45,
+     "bid": 0.02,
+     "ask": 0.88,
+     "volume": 505.0
     }
    ],
    "first": 0.105,
-   "latest": 0.105,
-   "high": 0.105,
+   "latest": 0.45,
+   "high": 0.45,
    "low": 0.105,
-   "change": 0.0
+   "change": 0.345
   },
   "KXNFLCOACHOUT-27MAR01-JBRA": {
    "series": "KXNFLCOACHOUT",
@@ -182,6 +376,13 @@
    "path": [
     {
      "date": "2026-10-25",
+     "mid": 0.09,
+     "bid": 0.0,
+     "ask": 1.0,
+     "volume": 52.22
+    },
+    {
+     "date": "2026-10-26",
      "mid": 0.09,
      "bid": 0.0,
      "ask": 1.0,
@@ -207,13 +408,20 @@
      "bid": 0.05,
      "ask": 0.47,
      "volume": 938.58
+    },
+    {
+     "date": "2026-10-26",
+     "mid": 0.505,
+     "bid": 0.05,
+     "ask": 0.96,
+     "volume": 938.58
     }
    ],
    "first": 0.26,
-   "latest": 0.26,
-   "high": 0.26,
+   "latest": 0.505,
+   "high": 0.505,
    "low": 0.26,
-   "change": 0.0
+   "change": 0.245
   },
   "KXNFLCOACHOUT-27MAR01-JIHA": {
    "series": "KXNFLCOACHOUT",
@@ -228,13 +436,20 @@
      "bid": 0.26,
      "ask": 0.85,
      "volume": 2102.2
+    },
+    {
+     "date": "2026-10-26",
+     "mid": 0.57,
+     "bid": 0.3,
+     "ask": 0.84,
+     "volume": 2102.2
     }
    ],
    "first": 0.555,
-   "latest": 0.555,
-   "high": 0.555,
+   "latest": 0.57,
+   "high": 0.57,
    "low": 0.555,
-   "change": 0.0
+   "change": 0.015
   },
   "KXNFLCOACHOUT-27MAR01-JMIN": {
    "series": "KXNFLCOACHOUT",
@@ -245,6 +460,13 @@
    "path": [
     {
      "date": "2026-10-25",
+     "mid": 0.02,
+     "bid": 0.0,
+     "ask": 0.25,
+     "volume": 250.0
+    },
+    {
+     "date": "2026-10-26",
      "mid": 0.02,
      "bid": 0.0,
      "ask": 0.25,
@@ -270,6 +492,13 @@
      "bid": 0.02,
      "ask": 1.0,
      "volume": 0.0
+    },
+    {
+     "date": "2026-10-26",
+     "mid": 0.51,
+     "bid": 0.02,
+     "ask": 1.0,
+     "volume": 0.0
     }
    ],
    "first": 0.51,
@@ -287,6 +516,13 @@
    "path": [
     {
      "date": "2026-10-25",
+     "mid": 0.01,
+     "bid": 0.0,
+     "ask": 0.21,
+     "volume": 1360.0
+    },
+    {
+     "date": "2026-10-26",
      "mid": 0.01,
      "bid": 0.0,
      "ask": 0.21,
@@ -312,13 +548,20 @@
      "bid": 0.02,
      "ask": 0.84,
      "volume": 139.02
+    },
+    {
+     "date": "2026-10-26",
+     "mid": 0.435,
+     "bid": 0.03,
+     "ask": 0.84,
+     "volume": 139.02
     }
    ],
    "first": 0.43,
-   "latest": 0.43,
-   "high": 0.43,
+   "latest": 0.435,
+   "high": 0.435,
    "low": 0.43,
-   "change": 0.0
+   "change": 0.005
   },
   "KXNFLCOACHOUT-27MAR01-KOCO": {
    "series": "KXNFLCOACHOUT",
@@ -329,6 +572,13 @@
    "path": [
     {
      "date": "2026-10-25",
+     "mid": 0.51,
+     "bid": 0.02,
+     "ask": 1.0,
+     "volume": 0.0
+    },
+    {
+     "date": "2026-10-26",
      "mid": 0.51,
      "bid": 0.02,
      "ask": 1.0,
@@ -354,6 +604,13 @@
      "bid": 0.0,
      "ask": 0.1,
      "volume": 604.69
+    },
+    {
+     "date": "2026-10-26",
+     "mid": 0.01,
+     "bid": 0.0,
+     "ask": 0.1,
+     "volume": 604.69
     }
    ],
    "first": 0.01,
@@ -371,6 +628,13 @@
    "path": [
     {
      "date": "2026-10-25",
+     "mid": 0.11,
+     "bid": 0.0,
+     "ask": 0.33,
+     "volume": 305.69
+    },
+    {
+     "date": "2026-10-26",
      "mid": 0.11,
      "bid": 0.0,
      "ask": 0.33,
@@ -396,13 +660,20 @@
      "bid": 0.03,
      "ask": 0.1,
      "volume": 255.0
+    },
+    {
+     "date": "2026-10-26",
+     "mid": 0.475,
+     "bid": 0.03,
+     "ask": 0.92,
+     "volume": 255.0
     }
    ],
    "first": 0.065,
-   "latest": 0.065,
-   "high": 0.065,
+   "latest": 0.475,
+   "high": 0.475,
    "low": 0.065,
-   "change": 0.0
+   "change": 0.41
   },
   "KXNFLCOACHOUT-27MAR01-MILA": {
    "series": "KXNFLCOACHOUT",
@@ -413,6 +684,13 @@
    "path": [
     {
      "date": "2026-10-25",
+     "mid": 0.125,
+     "bid": 0.1,
+     "ask": 0.15,
+     "volume": 1574.28
+    },
+    {
+     "date": "2026-10-26",
      "mid": 0.125,
      "bid": 0.1,
      "ask": 0.15,
@@ -438,13 +716,20 @@
      "bid": 0.09,
      "ask": 0.14,
      "volume": 11388.04
+    },
+    {
+     "date": "2026-10-26",
+     "mid": 0.555,
+     "bid": 0.38,
+     "ask": 0.73,
+     "volume": 12232.92
     }
    ],
    "first": 0.115,
-   "latest": 0.115,
-   "high": 0.115,
+   "latest": 0.555,
+   "high": 0.555,
    "low": 0.115,
-   "change": 0.0
+   "change": 0.44
   },
   "KXNFLCOACHOUT-27MAR01-MMAC": {
    "series": "KXNFLCOACHOUT",
@@ -455,6 +740,13 @@
    "path": [
     {
      "date": "2026-10-25",
+     "mid": 0.01,
+     "bid": 0.0,
+     "ask": 0.05,
+     "volume": 1446.95
+    },
+    {
+     "date": "2026-10-26",
      "mid": 0.01,
      "bid": 0.0,
      "ask": 0.05,
@@ -480,6 +772,13 @@
      "bid": 0.03,
      "ask": 1.0,
      "volume": 360.3
+    },
+    {
+     "date": "2026-10-26",
+     "mid": 0.515,
+     "bid": 0.03,
+     "ask": 1.0,
+     "volume": 360.3
     }
    ],
    "first": 0.515,
@@ -497,6 +796,13 @@
    "path": [
     {
      "date": "2026-10-25",
+     "mid": 0.51,
+     "bid": 0.02,
+     "ask": 1.0,
+     "volume": 94.01
+    },
+    {
+     "date": "2026-10-26",
      "mid": 0.51,
      "bid": 0.02,
      "ask": 1.0,
@@ -522,13 +828,20 @@
      "bid": 0.61,
      "ask": 0.75,
      "volume": 2223.25
+    },
+    {
+     "date": "2026-10-26",
+     "mid": 0.77,
+     "bid": 0.63,
+     "ask": 0.91,
+     "volume": 2232.32
     }
    ],
    "first": 0.68,
-   "latest": 0.68,
-   "high": 0.68,
+   "latest": 0.77,
+   "high": 0.77,
    "low": 0.68,
-   "change": 0.0
+   "change": 0.09
   },
   "KXNFLCOACHOUT-27MAR01-RSAL": {
    "series": "KXNFLCOACHOUT",
@@ -543,13 +856,20 @@
      "bid": 0.36,
      "ask": 0.64,
      "volume": 1153.3
+    },
+    {
+     "date": "2026-10-26",
+     "mid": 0.26,
+     "bid": 0.02,
+     "ask": 0.5,
+     "volume": 1184.3
     }
    ],
    "first": 0.5,
-   "latest": 0.5,
+   "latest": 0.26,
    "high": 0.5,
-   "low": 0.5,
-   "change": 0.0
+   "low": 0.26,
+   "change": -0.24
   },
   "KXNFLCOACHOUT-27MAR01-SMCV": {
    "series": "KXNFLCOACHOUT",
@@ -564,13 +884,20 @@
      "bid": 0.04,
      "ask": 0.47,
      "volume": 1073.49
+    },
+    {
+     "date": "2026-10-26",
+     "mid": 0.25,
+     "bid": 0.03,
+     "ask": 0.47,
+     "volume": 1073.49
     }
    ],
    "first": 0.255,
-   "latest": 0.255,
+   "latest": 0.25,
    "high": 0.255,
-   "low": 0.255,
-   "change": 0.0
+   "low": 0.25,
+   "change": -0.005
   },
   "KXNFLCOACHOUT-27MAR01-SPAY": {
    "series": "KXNFLCOACHOUT",
@@ -581,6 +908,13 @@
    "path": [
     {
      "date": "2026-10-25",
+     "mid": 0.515,
+     "bid": 0.03,
+     "ask": 1.0,
+     "volume": 0.0
+    },
+    {
+     "date": "2026-10-26",
      "mid": 0.515,
      "bid": 0.03,
      "ask": 1.0,
@@ -606,13 +940,20 @@
      "bid": 0.41,
      "ask": 0.89,
      "volume": 1423.69
+    },
+    {
+     "date": "2026-10-26",
+     "mid": 0.655,
+     "bid": 0.31,
+     "ask": 1.0,
+     "volume": 1511.11
     }
    ],
    "first": 0.65,
-   "latest": 0.65,
-   "high": 0.65,
+   "latest": 0.655,
+   "high": 0.655,
    "low": 0.65,
-   "change": 0.0
+   "change": 0.005
   },
   "KXNFLCOACHOUT-27MAR01-TBOW": {
    "series": "KXNFLCOACHOUT",
@@ -627,13 +968,20 @@
      "bid": 0.8,
      "ask": 0.89,
      "volume": 2011.55
+    },
+    {
+     "date": "2026-10-26",
+     "mid": 0.875,
+     "bid": 0.79,
+     "ask": 0.96,
+     "volume": 2031.55
     }
    ],
    "first": 0.845,
-   "latest": 0.845,
-   "high": 0.845,
+   "latest": 0.875,
+   "high": 0.875,
    "low": 0.845,
-   "change": 0.0
+   "change": 0.03
   },
   "KXNFLCOACHOUT-27MAR01-TMON": {
    "series": "KXNFLCOACHOUT",
@@ -644,6 +992,13 @@
    "path": [
     {
      "date": "2026-10-25",
+     "mid": 0.515,
+     "bid": 0.03,
+     "ask": 1.0,
+     "volume": 974.78
+    },
+    {
+     "date": "2026-10-26",
      "mid": 0.515,
      "bid": 0.03,
      "ask": 1.0,
@@ -669,6 +1024,13 @@
      "bid": 0.01,
      "ask": 1.0,
      "volume": 923.62
+    },
+    {
+     "date": "2026-10-26",
+     "mid": 0.505,
+     "bid": 0.01,
+     "ask": 1.0,
+     "volume": 923.62
     }
    ],
    "first": 0.505,
@@ -690,13 +1052,20 @@
      "bid": 0.52,
      "ask": 0.53,
      "volume": 1493.67
+    },
+    {
+     "date": "2026-10-26",
+     "mid": 0.47,
+     "bid": 0.43,
+     "ask": 0.51,
+     "volume": 2904.67
     }
    ],
    "first": 0.525,
-   "latest": 0.525,
+   "latest": 0.47,
    "high": 0.525,
-   "low": 0.525,
-   "change": 0.0
+   "low": 0.47,
+   "change": -0.055
   }
  }
 }
