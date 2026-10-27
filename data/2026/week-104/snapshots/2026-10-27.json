@@ -1,0 +1,22 @@
+[
+ {
+  "date": "2026-10-27",
+  "captured_at": "2026-10-27T19:45:16+00:00",
+  "series": "KXNFLSTADIUM",
+  "event_ticker": "KXNFLSTADIUM-28SEP01EVERBRENO",
+  "event_title": "Will Jacksonville complete the renovation of EverBank Stadium before Sep 1, 2028?",
+  "game_date": "2028-09-01",
+  "market_ticker": "KXNFLSTADIUM-28SEP01EVERBRENO-Y",
+  "title": "Will Jacksonville complete the renovation of EverBank Stadium before Sep 1, 2028?",
+  "subtitle": "Before Sep 1, 2028",
+  "status": "active",
+  "yes_bid": 0.57,
+  "yes_ask": 0.58,
+  "last_price": 0.56,
+  "mid": 0.575,
+  "volume": 7533.7,
+  "volume_24h": 0.0,
+  "open_interest": 1235.74,
+  "close_time": "2028-09-01T03:59:00Z"
+ }
+]
