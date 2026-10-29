@@ -1,0 +1,22 @@
+[
+ {
+  "date": "2026-10-29",
+  "captured_at": "2026-10-29T19:58:18+00:00",
+  "series": "KXNFLROLE",
+  "event_ticker": "KXNFLROLE-27FEB15TROM",
+  "event_title": "Will Tony Romo return to CBS's NFL coverage this season?",
+  "game_date": "2027-02-15",
+  "market_ticker": "KXNFLROLE-27FEB15TROM-Y",
+  "title": "Tony Romo to perform as an on-air analyst in a CBS NFL broadcast before Feb 15, 2027",
+  "subtitle": "Before Feb 15, 2027",
+  "status": "active",
+  "yes_bid": 0.02,
+  "yes_ask": 0.07,
+  "last_price": 0.07,
+  "mid": 0.045,
+  "volume": 5726.35,
+  "volume_24h": 0.0,
+  "open_interest": 2728.4,
+  "close_time": "2027-02-22T05:00:00Z"
+ }
+]
