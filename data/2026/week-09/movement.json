@@ -1,26 +1,27 @@
 {
- "updated": "2026-10-29",
+ "updated": "2026-10-30",
  "days": [
   "2026-10-27",
   "2026-10-28",
-  "2026-10-29"
+  "2026-10-29",
+  "2026-10-30"
  ],
  "top_movers": [
-  {
-   "ticker": "KXNFLDELAY-26NOV08DETMIA-Y",
-   "title": "Detroit vs Miami game to be delayed due to weather",
-   "subtitle": "Game to be delayed due to weather",
-   "first": 0.0,
-   "latest": 0.59,
-   "change": 0.59
-  },
   {
    "ticker": "KXNFLDELAY-26NOV08ARISEA-Y",
    "title": "Arizona vs Seattle game to be delayed due to weather",
    "subtitle": "Game to be delayed due to weather",
    "first": 0.0,
-   "latest": 0.585,
-   "change": 0.585
+   "latest": 0.615,
+   "change": 0.615
+  },
+  {
+   "ticker": "KXNFLDELAY-26NOV08DETMIA-Y",
+   "title": "Detroit vs Miami game to be delayed due to weather",
+   "subtitle": "Game to be delayed due to weather",
+   "first": 0.0,
+   "latest": 0.61,
+   "change": 0.61
   },
   {
    "ticker": "KXNFLDELAY-26NOV08LVSF-Y",
@@ -31,12 +32,12 @@
    "change": 0.505
   },
   {
-   "ticker": "KXNFLDELAY-26NOV08DENCAR-Y",
-   "title": "Denver vs Carolina game to be delayed due to weather",
+   "ticker": "KXNFLDELAY-26NOV08TBCHI-Y",
+   "title": "Tampa Bay vs Chicago game to be delayed due to weather",
    "subtitle": "Game to be delayed due to weather",
    "first": 0.0,
-   "latest": 0.38,
-   "change": 0.38
+   "latest": 0.5,
+   "change": 0.5
   },
   {
    "ticker": "KXNFLDELAY-26NOV08LARWAS-Y",
@@ -47,36 +48,52 @@
    "change": 0.365
   },
   {
-   "ticker": "KXNFLDELAY-26NOV08TBCHI-Y",
-   "title": "Tampa Bay vs Chicago game to be delayed due to weather",
-   "subtitle": "Game to be delayed due to weather",
-   "first": 0.0,
-   "latest": 0.325,
-   "change": 0.325
-  },
-  {
    "ticker": "KXNFLDELAY-26NOV08NYGPHI-Y",
    "title": "New York G vs Philadelphia game to be delayed due to weather",
    "subtitle": "Game to be delayed due to weather",
    "first": 0.0,
-   "latest": 0.32,
-   "change": 0.32
+   "latest": 0.35,
+   "change": 0.35
+  },
+  {
+   "ticker": "KXNFLDELAY-26NOV08DENCAR-Y",
+   "title": "Denver vs Carolina game to be delayed due to weather",
+   "subtitle": "Game to be delayed due to weather",
+   "first": 0.0,
+   "latest": 0.345,
+   "change": 0.345
   },
   {
    "ticker": "KXNFLDELAY-26NOV08NYJKC-Y",
    "title": "New York J vs Kansas City game to be delayed due to weather",
    "subtitle": "Game to be delayed due to weather",
    "first": 0.0,
-   "latest": 0.245,
-   "change": 0.245
+   "latest": 0.23,
+   "change": 0.23
+  },
+  {
+   "ticker": "KXNFLGAME-26NOV08DALIND-IND",
+   "title": "Indianapolis wins",
+   "subtitle": "Indianapolis",
+   "first": 0.395,
+   "latest": 0.32,
+   "change": -0.075
   },
   {
    "ticker": "KXNFLGAME-26NOV08NYGPHI-NYG",
    "title": "New York G wins",
    "subtitle": "New York G",
    "first": 0.505,
-   "latest": 0.56,
-   "change": 0.055
+   "latest": 0.58,
+   "change": 0.075
+  },
+  {
+   "ticker": "KXNFLGAME-26NOV08DALIND-DAL",
+   "title": "Dallas wins",
+   "subtitle": "Dallas",
+   "first": 0.61,
+   "latest": 0.675,
+   "change": 0.065
   },
   {
    "ticker": "KXNFLGAME-26NOV08NYGPHI-PHI",
@@ -87,28 +104,12 @@
    "change": -0.055
   },
   {
-   "ticker": "KXNFLGAME-26NOV08DALIND-DAL",
-   "title": "Dallas wins",
-   "subtitle": "Dallas",
-   "first": 0.61,
-   "latest": 0.66,
-   "change": 0.05
-  },
-  {
    "ticker": "KXNFLGAME-26NOV08HOULAC-LAC",
    "title": "Los Angeles C wins",
    "subtitle": "Los Angeles C",
    "first": 0.415,
-   "latest": 0.365,
-   "change": -0.05
-  },
-  {
-   "ticker": "KXNFLGAME-26NOV08DALIND-IND",
-   "title": "Indianapolis wins",
-   "subtitle": "Indianapolis",
-   "first": 0.395,
-   "latest": 0.355,
-   "change": -0.04
+   "latest": 0.37,
+   "change": -0.045
   },
   {
    "ticker": "KXNFLGAME-26NOV08HOULAC-HOU",
@@ -119,19 +120,19 @@
    "change": 0.04
   },
   {
-   "ticker": "KXNFLGAME-26NOV05JACBAL-BAL",
-   "title": "Baltimore wins",
-   "subtitle": "Baltimore",
-   "first": 0.565,
-   "latest": 0.595,
-   "change": 0.03
-  },
-  {
    "ticker": "KXNFLGAME-26NOV08DETMIA-DET",
    "title": "Detroit wins",
    "subtitle": "Detroit",
    "first": 0.765,
-   "latest": 0.79,
+   "latest": 0.795,
+   "change": 0.03
+  },
+  {
+   "ticker": "KXNFLGAME-26NOV08DENCAR-DEN",
+   "title": "Denver wins",
+   "subtitle": "Denver",
+   "first": 0.56,
+   "latest": 0.585,
    "change": 0.025
   },
   {
@@ -139,48 +140,72 @@
    "title": "Miami wins",
    "subtitle": "Miami",
    "first": 0.235,
-   "latest": 0.215,
-   "change": -0.02
+   "latest": 0.21,
+   "change": -0.025
+  },
+  {
+   "ticker": "KXNFLGAME-26NOV08GBNE-GB",
+   "title": "Green Bay wins",
+   "subtitle": "Green Bay",
+   "first": 0.42,
+   "latest": 0.445,
+   "change": 0.025
+  },
+  {
+   "ticker": "KXNFLGAME-26NOV08GBNE-NE",
+   "title": "New England wins",
+   "subtitle": "New England",
+   "first": 0.585,
+   "latest": 0.56,
+   "change": -0.025
   },
   {
    "ticker": "KXNFLGAME-26NOV08ARISEA-SEA",
    "title": "Seattle wins",
    "subtitle": "Seattle",
    "first": 0.875,
-   "latest": 0.86,
-   "change": -0.015
-  },
-  {
-   "ticker": "KXNFLGAME-26NOV08CLENO-CLE",
-   "title": "Cleveland wins",
-   "subtitle": "Cleveland",
-   "first": 0.43,
-   "latest": 0.445,
-   "change": 0.015
-  },
-  {
-   "ticker": "KXNFLGAME-26NOV08LARWAS-LAR",
-   "title": "Los Angeles R wins",
-   "subtitle": "Los Angeles R",
-   "first": 0.66,
-   "latest": 0.675,
-   "change": 0.015
-  },
-  {
-   "ticker": "KXNFLGAME-26NOV08LARWAS-WAS",
-   "title": "Washington wins",
-   "subtitle": "Washington",
-   "first": 0.345,
-   "latest": 0.33,
-   "change": -0.015
+   "latest": 0.855,
+   "change": -0.02
   },
   {
    "ticker": "KXNFLGAME-26NOV08NYJKC-KC",
    "title": "Kansas City wins",
    "subtitle": "Kansas City",
    "first": 0.835,
-   "latest": 0.82,
+   "latest": 0.815,
+   "change": -0.02
+  },
+  {
+   "ticker": "KXNFLGAME-26NOV05JACBAL-BAL",
+   "title": "Baltimore wins",
+   "subtitle": "Baltimore",
+   "first": 0.565,
+   "latest": 0.58,
+   "change": 0.015
+  },
+  {
+   "ticker": "KXNFLGAME-26NOV08NYJKC-NYJ",
+   "title": "New York J wins",
+   "subtitle": "New York J",
+   "first": 0.18,
+   "latest": 0.195,
+   "change": 0.015
+  },
+  {
+   "ticker": "KXNFLGAME-26NOV08TBCHI-CHI",
+   "title": "Chicago wins",
+   "subtitle": "Chicago",
+   "first": 0.74,
+   "latest": 0.725,
    "change": -0.015
+  },
+  {
+   "ticker": "KXNFLGAME-26NOV08TBCHI-TB",
+   "title": "Tampa Bay wins",
+   "subtitle": "Tampa Bay",
+   "first": 0.27,
+   "latest": 0.285,
+   "change": 0.015
   },
   {
    "ticker": "KXNFLGAME-26NOV05JACBAL-JAC",
@@ -191,14 +216,6 @@
    "change": -0.01
   },
   {
-   "ticker": "KXNFLGAME-26NOV08CINATL-CIN",
-   "title": "Cincinnati wins",
-   "subtitle": "Cincinnati",
-   "first": 0.605,
-   "latest": 0.615,
-   "change": 0.01
-  },
-  {
    "ticker": "KXNFLGAME-26NOV08DENCAR-CAR",
    "title": "Carolina wins",
    "subtitle": "Carolina",
@@ -207,19 +224,11 @@
    "change": -0.01
   },
   {
-   "ticker": "KXNFLGAME-26NOV08GBNE-GB",
-   "title": "Green Bay wins",
-   "subtitle": "Green Bay",
-   "first": 0.42,
-   "latest": 0.43,
-   "change": 0.01
-  },
-  {
-   "ticker": "KXNFLGAME-26NOV08GBNE-NE",
-   "title": "New England wins",
-   "subtitle": "New England",
-   "first": 0.585,
-   "latest": 0.575,
+   "ticker": "KXNFLGAME-26NOV08LARWAS-WAS",
+   "title": "Washington wins",
+   "subtitle": "Washington",
+   "first": 0.345,
+   "latest": 0.335,
    "change": -0.01
   },
   {
@@ -227,24 +236,24 @@
    "title": "Las Vegas wins",
    "subtitle": "Las Vegas",
    "first": 0.175,
-   "latest": 0.185,
-   "change": 0.01
+   "latest": 0.165,
+   "change": -0.01
   },
   {
    "ticker": "KXNFLGAME-26NOV08LVSF-SF",
    "title": "San Francisco wins",
    "subtitle": "San Francisco",
    "first": 0.835,
-   "latest": 0.825,
-   "change": -0.01
+   "latest": 0.845,
+   "change": 0.01
   },
   {
-   "ticker": "KXNFLGAME-26NOV08ARISEA-ARI",
-   "title": "Arizona wins",
-   "subtitle": "Arizona",
-   "first": 0.145,
-   "latest": 0.14,
-   "change": -0.005
+   "ticker": "KXNFLGAME-26NOV08CINATL-CIN",
+   "title": "Cincinnati wins",
+   "subtitle": "Cincinnati",
+   "first": 0.605,
+   "latest": 0.61,
+   "change": 0.005
   },
   {
    "ticker": "KXNFLGAME-26NOV08CLENO-NO",
@@ -255,47 +264,443 @@
    "change": -0.005
   },
   {
-   "ticker": "KXNFLGAME-26NOV08DENCAR-DEN",
-   "title": "Denver wins",
-   "subtitle": "Denver",
-   "first": 0.56,
-   "latest": 0.565,
+   "ticker": "KXNFLGAME-26NOV08LARWAS-LAR",
+   "title": "Los Angeles R wins",
+   "subtitle": "Los Angeles R",
+   "first": 0.66,
+   "latest": 0.665,
    "change": 0.005
-  },
-  {
-   "ticker": "KXNFLGAME-26NOV08NYJKC-NYJ",
-   "title": "New York J wins",
-   "subtitle": "New York J",
-   "first": 0.18,
-   "latest": 0.185,
-   "change": 0.005
-  },
-  {
-   "ticker": "KXNFLGAME-26NOV08TBCHI-CHI",
-   "title": "Chicago wins",
-   "subtitle": "Chicago",
-   "first": 0.74,
-   "latest": 0.735,
-   "change": -0.005
-  },
-  {
-   "ticker": "KXNFLGAME-26NOV09BUFMIN-BUF",
-   "title": "Buffalo wins",
-   "subtitle": "Buffalo",
-   "first": 0.555,
-   "latest": 0.55,
-   "change": -0.005
   },
   {
    "ticker": "KXNFLGAME-26NOV09BUFMIN-MIN",
    "title": "Minnesota wins",
    "subtitle": "Minnesota",
    "first": 0.445,
-   "latest": 0.44,
-   "change": -0.005
+   "latest": 0.45,
+   "change": 0.005
   }
  ],
  "markets": {
+  "KXNFL1HTEAMTOTAL-26NOV05JACBAL-BAL10": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Jacksonville vs Baltimore: 1st Half Team Total",
+   "game_date": "2026-11-05",
+   "title": "Baltimore over 9.5 1H points scored",
+   "subtitle": "Baltimore over 9.5 points",
+   "path": [
+    {
+     "date": "2026-10-30",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.97,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV05JACBAL-BAL14": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Jacksonville vs Baltimore: 1st Half Team Total",
+   "game_date": "2026-11-05",
+   "title": "Baltimore over 13.5 1H points scored",
+   "subtitle": "Baltimore over 13.5 points",
+   "path": [
+    {
+     "date": "2026-10-30",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.97,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV05JACBAL-BAL17": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Jacksonville vs Baltimore: 1st Half Team Total",
+   "game_date": "2026-11-05",
+   "title": "Baltimore over 16.5 1H points scored",
+   "subtitle": "Baltimore over 16.5 points",
+   "path": [
+    {
+     "date": "2026-10-30",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.97,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV05JACBAL-BAL20": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Jacksonville vs Baltimore: 1st Half Team Total",
+   "game_date": "2026-11-05",
+   "title": "Baltimore over 19.5 1H points scored",
+   "subtitle": "Baltimore over 19.5 points",
+   "path": [
+    {
+     "date": "2026-10-30",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.97,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV05JACBAL-BAL21": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Jacksonville vs Baltimore: 1st Half Team Total",
+   "game_date": "2026-11-05",
+   "title": "Baltimore over 20.5 1H points scored",
+   "subtitle": "Baltimore over 20.5 points",
+   "path": [
+    {
+     "date": "2026-10-30",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.97,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV05JACBAL-BAL24": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Jacksonville vs Baltimore: 1st Half Team Total",
+   "game_date": "2026-11-05",
+   "title": "Baltimore over 23.5 1H points scored",
+   "subtitle": "Baltimore over 23.5 points",
+   "path": [
+    {
+     "date": "2026-10-30",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.97,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV05JACBAL-BAL28": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Jacksonville vs Baltimore: 1st Half Team Total",
+   "game_date": "2026-11-05",
+   "title": "Baltimore over 27.5 1H points scored",
+   "subtitle": "Baltimore over 27.5 points",
+   "path": [
+    {
+     "date": "2026-10-30",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.97,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV05JACBAL-BAL3": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Jacksonville vs Baltimore: 1st Half Team Total",
+   "game_date": "2026-11-05",
+   "title": "Baltimore over 2.5 1H points scored",
+   "subtitle": "Baltimore over 2.5 points",
+   "path": [
+    {
+     "date": "2026-10-30",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.97,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV05JACBAL-BAL31": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Jacksonville vs Baltimore: 1st Half Team Total",
+   "game_date": "2026-11-05",
+   "title": "Baltimore over 30.5 1H points scored",
+   "subtitle": "Baltimore over 30.5 points",
+   "path": [
+    {
+     "date": "2026-10-30",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.97,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV05JACBAL-BAL7": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Jacksonville vs Baltimore: 1st Half Team Total",
+   "game_date": "2026-11-05",
+   "title": "Baltimore over 6.5 1H points scored",
+   "subtitle": "Baltimore over 6.5 points",
+   "path": [
+    {
+     "date": "2026-10-30",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.97,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV05JACBAL-JAC10": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Jacksonville vs Baltimore: 1st Half Team Total",
+   "game_date": "2026-11-05",
+   "title": "Jacksonville over 9.5 1H points scored",
+   "subtitle": "Jacksonville over 9.5 points",
+   "path": [
+    {
+     "date": "2026-10-30",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.97,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV05JACBAL-JAC14": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Jacksonville vs Baltimore: 1st Half Team Total",
+   "game_date": "2026-11-05",
+   "title": "Jacksonville over 13.5 1H points scored",
+   "subtitle": "Jacksonville over 13.5 points",
+   "path": [
+    {
+     "date": "2026-10-30",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.97,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV05JACBAL-JAC17": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Jacksonville vs Baltimore: 1st Half Team Total",
+   "game_date": "2026-11-05",
+   "title": "Jacksonville over 16.5 1H points scored",
+   "subtitle": "Jacksonville over 16.5 points",
+   "path": [
+    {
+     "date": "2026-10-30",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.97,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV05JACBAL-JAC20": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Jacksonville vs Baltimore: 1st Half Team Total",
+   "game_date": "2026-11-05",
+   "title": "Jacksonville over 19.5 1H points scored",
+   "subtitle": "Jacksonville over 19.5 points",
+   "path": [
+    {
+     "date": "2026-10-30",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.97,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV05JACBAL-JAC21": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Jacksonville vs Baltimore: 1st Half Team Total",
+   "game_date": "2026-11-05",
+   "title": "Jacksonville over 20.5 1H points scored",
+   "subtitle": "Jacksonville over 20.5 points",
+   "path": [
+    {
+     "date": "2026-10-30",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.97,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV05JACBAL-JAC24": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Jacksonville vs Baltimore: 1st Half Team Total",
+   "game_date": "2026-11-05",
+   "title": "Jacksonville over 23.5 1H points scored",
+   "subtitle": "Jacksonville over 23.5 points",
+   "path": [
+    {
+     "date": "2026-10-30",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.97,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV05JACBAL-JAC28": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Jacksonville vs Baltimore: 1st Half Team Total",
+   "game_date": "2026-11-05",
+   "title": "Jacksonville over 27.5 1H points scored",
+   "subtitle": "Jacksonville over 27.5 points",
+   "path": [
+    {
+     "date": "2026-10-30",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.97,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV05JACBAL-JAC3": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Jacksonville vs Baltimore: 1st Half Team Total",
+   "game_date": "2026-11-05",
+   "title": "Jacksonville over 2.5 1H points scored",
+   "subtitle": "Jacksonville over 2.5 points",
+   "path": [
+    {
+     "date": "2026-10-30",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.97,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV05JACBAL-JAC31": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Jacksonville vs Baltimore: 1st Half Team Total",
+   "game_date": "2026-11-05",
+   "title": "Jacksonville over 30.5 1H points scored",
+   "subtitle": "Jacksonville over 30.5 points",
+   "path": [
+    {
+     "date": "2026-10-30",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.97,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV05JACBAL-JAC7": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Jacksonville vs Baltimore: 1st Half Team Total",
+   "game_date": "2026-11-05",
+   "title": "Jacksonville over 6.5 1H points scored",
+   "subtitle": "Jacksonville over 6.5 points",
+   "path": [
+    {
+     "date": "2026-10-30",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.97,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
   "KXNFLDELAY-26NOV05JACBAL-Y": {
    "series": "KXNFLDELAY",
    "event": "Jacksonville vs Baltimore: Weather Delay",
@@ -319,6 +724,13 @@
     },
     {
      "date": "2026-10-29",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.99,
+     "volume": 0.0
+    },
+    {
+     "date": "2026-10-30",
      "mid": 0.0,
      "bid": 0.0,
      "ask": 0.99,
@@ -358,13 +770,20 @@
      "bid": 0.2,
      "ask": 0.97,
      "volume": 401.0
+    },
+    {
+     "date": "2026-10-30",
+     "mid": 0.615,
+     "bid": 0.24,
+     "ask": 0.99,
+     "volume": 401.0
     }
    ],
    "first": 0.0,
-   "latest": 0.585,
-   "high": 0.585,
+   "latest": 0.615,
+   "high": 0.615,
    "low": 0.0,
-   "change": 0.585
+   "change": 0.615
   },
   "KXNFLDELAY-26NOV08DENCAR-Y": {
    "series": "KXNFLDELAY",
@@ -393,13 +812,20 @@
      "bid": 0.26,
      "ask": 0.5,
      "volume": 1232.0
+    },
+    {
+     "date": "2026-10-30",
+     "mid": 0.345,
+     "bid": 0.23,
+     "ask": 0.46,
+     "volume": 1235.27
     }
    ],
    "first": 0.0,
-   "latest": 0.38,
+   "latest": 0.345,
    "high": 0.38,
    "low": 0.0,
-   "change": 0.38
+   "change": 0.345
   },
   "KXNFLDELAY-26NOV08DETMIA-Y": {
    "series": "KXNFLDELAY",
@@ -428,13 +854,20 @@
      "bid": 0.21,
      "ask": 0.97,
      "volume": 211.0
+    },
+    {
+     "date": "2026-10-30",
+     "mid": 0.61,
+     "bid": 0.25,
+     "ask": 0.97,
+     "volume": 211.0
     }
    ],
    "first": 0.0,
-   "latest": 0.59,
-   "high": 0.59,
+   "latest": 0.61,
+   "high": 0.61,
    "low": 0.0,
-   "change": 0.59
+   "change": 0.61
   },
   "KXNFLDELAY-26NOV08GBNE-Y": {
    "series": "KXNFLDELAY",
@@ -459,6 +892,13 @@
     },
     {
      "date": "2026-10-29",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.99,
+     "volume": 0.0
+    },
+    {
+     "date": "2026-10-30",
      "mid": 0.0,
      "bid": 0.0,
      "ask": 0.99,
@@ -498,6 +938,13 @@
      "bid": 0.3,
      "ask": 0.43,
      "volume": 930.0
+    },
+    {
+     "date": "2026-10-30",
+     "mid": 0.365,
+     "bid": 0.23,
+     "ask": 0.5,
+     "volume": 930.0
     }
    ],
    "first": 0.0,
@@ -529,6 +976,13 @@
     },
     {
      "date": "2026-10-29",
+     "mid": 0.505,
+     "bid": 0.01,
+     "ask": 1.0,
+     "volume": 2334.02
+    },
+    {
+     "date": "2026-10-30",
      "mid": 0.505,
      "bid": 0.01,
      "ask": 1.0,
@@ -568,13 +1022,20 @@
      "bid": 0.28,
      "ask": 0.36,
      "volume": 392.0
+    },
+    {
+     "date": "2026-10-30",
+     "mid": 0.35,
+     "bid": 0.32,
+     "ask": 0.38,
+     "volume": 392.2
     }
    ],
    "first": 0.0,
-   "latest": 0.32,
-   "high": 0.32,
+   "latest": 0.35,
+   "high": 0.35,
    "low": 0.0,
-   "change": 0.32
+   "change": 0.35
   },
   "KXNFLDELAY-26NOV08NYJKC-Y": {
    "series": "KXNFLDELAY",
@@ -603,13 +1064,20 @@
      "bid": 0.16,
      "ask": 0.33,
      "volume": 115.0
+    },
+    {
+     "date": "2026-10-30",
+     "mid": 0.23,
+     "bid": 0.15,
+     "ask": 0.31,
+     "volume": 115.0
     }
    ],
    "first": 0.0,
-   "latest": 0.245,
+   "latest": 0.23,
    "high": 0.245,
    "low": 0.0,
-   "change": 0.245
+   "change": 0.23
   },
   "KXNFLDELAY-26NOV08TBCHI-Y": {
    "series": "KXNFLDELAY",
@@ -638,13 +1106,20 @@
      "bid": 0.28,
      "ask": 0.37,
      "volume": 991.02
+    },
+    {
+     "date": "2026-10-30",
+     "mid": 0.5,
+     "bid": 0.21,
+     "ask": 0.79,
+     "volume": 991.02
     }
    ],
    "first": 0.0,
-   "latest": 0.325,
-   "high": 0.325,
+   "latest": 0.5,
+   "high": 0.5,
    "low": 0.0,
-   "change": 0.325
+   "change": 0.5
   },
   "KXNFLGAME-26NOV05JACBAL-BAL": {
    "series": "KXNFLGAME",
@@ -673,13 +1148,20 @@
      "bid": 0.59,
      "ask": 0.6,
      "volume": 911.8
+    },
+    {
+     "date": "2026-10-30",
+     "mid": 0.58,
+     "bid": 0.57,
+     "ask": 0.59,
+     "volume": 1451.47
     }
    ],
    "first": 0.565,
-   "latest": 0.595,
+   "latest": 0.58,
    "high": 0.595,
    "low": 0.565,
-   "change": 0.03
+   "change": 0.015
   },
   "KXNFLGAME-26NOV05JACBAL-JAC": {
    "series": "KXNFLGAME",
@@ -708,6 +1190,13 @@
      "bid": 0.41,
      "ask": 0.45,
      "volume": 2410.9
+    },
+    {
+     "date": "2026-10-30",
+     "mid": 0.43,
+     "bid": 0.42,
+     "ask": 0.44,
+     "volume": 4424.83
     }
    ],
    "first": 0.44,
@@ -743,13 +1232,20 @@
      "bid": 0.13,
      "ask": 0.15,
      "volume": 3431.2
+    },
+    {
+     "date": "2026-10-30",
+     "mid": 0.145,
+     "bid": 0.14,
+     "ask": 0.15,
+     "volume": 4567.09
     }
    ],
    "first": 0.145,
-   "latest": 0.14,
+   "latest": 0.145,
    "high": 0.145,
    "low": 0.14,
-   "change": -0.005
+   "change": 0.0
   },
   "KXNFLGAME-26NOV08ARISEA-SEA": {
    "series": "KXNFLGAME",
@@ -778,13 +1274,20 @@
      "bid": 0.85,
      "ask": 0.87,
      "volume": 1440.16
+    },
+    {
+     "date": "2026-10-30",
+     "mid": 0.855,
+     "bid": 0.85,
+     "ask": 0.86,
+     "volume": 1673.11
     }
    ],
    "first": 0.875,
-   "latest": 0.86,
+   "latest": 0.855,
    "high": 0.875,
-   "low": 0.86,
-   "change": -0.015
+   "low": 0.855,
+   "change": -0.02
   },
   "KXNFLGAME-26NOV08CINATL-ATL": {
    "series": "KXNFLGAME",
@@ -813,6 +1316,13 @@
      "bid": 0.39,
      "ask": 0.41,
      "volume": 1021.83
+    },
+    {
+     "date": "2026-10-30",
+     "mid": 0.4,
+     "bid": 0.39,
+     "ask": 0.41,
+     "volume": 1754.16
     }
    ],
    "first": 0.4,
@@ -848,13 +1358,20 @@
      "bid": 0.6,
      "ask": 0.63,
      "volume": 830.76
+    },
+    {
+     "date": "2026-10-30",
+     "mid": 0.61,
+     "bid": 0.59,
+     "ask": 0.63,
+     "volume": 1713.87
     }
    ],
    "first": 0.605,
-   "latest": 0.615,
+   "latest": 0.61,
    "high": 0.615,
    "low": 0.605,
-   "change": 0.01
+   "change": 0.005
   },
   "KXNFLGAME-26NOV08CLENO-CLE": {
    "series": "KXNFLGAME",
@@ -883,13 +1400,20 @@
      "bid": 0.43,
      "ask": 0.46,
      "volume": 803.44
+    },
+    {
+     "date": "2026-10-30",
+     "mid": 0.43,
+     "bid": 0.42,
+     "ask": 0.44,
+     "volume": 1427.82
     }
    ],
    "first": 0.43,
-   "latest": 0.445,
+   "latest": 0.43,
    "high": 0.445,
    "low": 0.43,
-   "change": 0.015
+   "change": 0.0
   },
   "KXNFLGAME-26NOV08CLENO-NO": {
    "series": "KXNFLGAME",
@@ -918,6 +1442,13 @@
      "bid": 0.55,
      "ask": 0.58,
      "volume": 243.3
+    },
+    {
+     "date": "2026-10-30",
+     "mid": 0.565,
+     "bid": 0.55,
+     "ask": 0.58,
+     "volume": 440.71
     }
    ],
    "first": 0.57,
@@ -953,13 +1484,20 @@
      "bid": 0.64,
      "ask": 0.68,
      "volume": 587.74
+    },
+    {
+     "date": "2026-10-30",
+     "mid": 0.675,
+     "bid": 0.66,
+     "ask": 0.69,
+     "volume": 860.95
     }
    ],
    "first": 0.61,
-   "latest": 0.66,
-   "high": 0.67,
+   "latest": 0.675,
+   "high": 0.675,
    "low": 0.61,
-   "change": 0.05
+   "change": 0.065
   },
   "KXNFLGAME-26NOV08DALIND-IND": {
    "series": "KXNFLGAME",
@@ -988,13 +1526,20 @@
      "bid": 0.34,
      "ask": 0.37,
      "volume": 4235.0
+    },
+    {
+     "date": "2026-10-30",
+     "mid": 0.32,
+     "bid": 0.31,
+     "ask": 0.33,
+     "volume": 5149.21
     }
    ],
    "first": 0.395,
-   "latest": 0.355,
+   "latest": 0.32,
    "high": 0.395,
-   "low": 0.33,
-   "change": -0.04
+   "low": 0.32,
+   "change": -0.075
   },
   "KXNFLGAME-26NOV08DENCAR-CAR": {
    "series": "KXNFLGAME",
@@ -1023,6 +1568,13 @@
      "bid": 0.42,
      "ask": 0.45,
      "volume": 42.43
+    },
+    {
+     "date": "2026-10-30",
+     "mid": 0.435,
+     "bid": 0.42,
+     "ask": 0.45,
+     "volume": 139.51
     }
    ],
    "first": 0.445,
@@ -1058,13 +1610,20 @@
      "bid": 0.55,
      "ask": 0.58,
      "volume": 340.21
+    },
+    {
+     "date": "2026-10-30",
+     "mid": 0.585,
+     "bid": 0.58,
+     "ask": 0.59,
+     "volume": 1089.56
     }
    ],
    "first": 0.56,
-   "latest": 0.565,
-   "high": 0.565,
+   "latest": 0.585,
+   "high": 0.585,
    "low": 0.555,
-   "change": 0.005
+   "change": 0.025
   },
   "KXNFLGAME-26NOV08DETMIA-DET": {
    "series": "KXNFLGAME",
@@ -1093,13 +1652,20 @@
      "bid": 0.77,
      "ask": 0.81,
      "volume": 943.57
+    },
+    {
+     "date": "2026-10-30",
+     "mid": 0.795,
+     "bid": 0.78,
+     "ask": 0.81,
+     "volume": 1082.79
     }
    ],
    "first": 0.765,
-   "latest": 0.79,
-   "high": 0.79,
+   "latest": 0.795,
+   "high": 0.795,
    "low": 0.765,
-   "change": 0.025
+   "change": 0.03
   },
   "KXNFLGAME-26NOV08DETMIA-MIA": {
    "series": "KXNFLGAME",
@@ -1128,13 +1694,20 @@
      "bid": 0.21,
      "ask": 0.22,
      "volume": 2075.81
+    },
+    {
+     "date": "2026-10-30",
+     "mid": 0.21,
+     "bid": 0.2,
+     "ask": 0.22,
+     "volume": 2278.53
     }
    ],
    "first": 0.235,
-   "latest": 0.215,
+   "latest": 0.21,
    "high": 0.235,
-   "low": 0.215,
-   "change": -0.02
+   "low": 0.21,
+   "change": -0.025
   },
   "KXNFLGAME-26NOV08GBNE-GB": {
    "series": "KXNFLGAME",
@@ -1163,13 +1736,20 @@
      "bid": 0.41,
      "ask": 0.45,
      "volume": 1275.98
+    },
+    {
+     "date": "2026-10-30",
+     "mid": 0.445,
+     "bid": 0.44,
+     "ask": 0.45,
+     "volume": 8292.8
     }
    ],
    "first": 0.42,
-   "latest": 0.43,
-   "high": 0.43,
+   "latest": 0.445,
+   "high": 0.445,
    "low": 0.405,
-   "change": 0.01
+   "change": 0.025
   },
   "KXNFLGAME-26NOV08GBNE-NE": {
    "series": "KXNFLGAME",
@@ -1198,13 +1778,20 @@
      "bid": 0.55,
      "ask": 0.6,
      "volume": 1756.97
+    },
+    {
+     "date": "2026-10-30",
+     "mid": 0.56,
+     "bid": 0.55,
+     "ask": 0.57,
+     "volume": 4901.5
     }
    ],
    "first": 0.585,
-   "latest": 0.575,
+   "latest": 0.56,
    "high": 0.595,
-   "low": 0.575,
-   "change": -0.01
+   "low": 0.56,
+   "change": -0.025
   },
   "KXNFLGAME-26NOV08HOULAC-HOU": {
    "series": "KXNFLGAME",
@@ -1233,6 +1820,13 @@
      "bid": 0.62,
      "ask": 0.65,
      "volume": 1977.04
+    },
+    {
+     "date": "2026-10-30",
+     "mid": 0.635,
+     "bid": 0.62,
+     "ask": 0.65,
+     "volume": 2447.05
     }
    ],
    "first": 0.595,
@@ -1268,13 +1862,20 @@
      "bid": 0.35,
      "ask": 0.38,
      "volume": 296.65
+    },
+    {
+     "date": "2026-10-30",
+     "mid": 0.37,
+     "bid": 0.36,
+     "ask": 0.38,
+     "volume": 502.42
     }
    ],
    "first": 0.415,
-   "latest": 0.365,
+   "latest": 0.37,
    "high": 0.415,
    "low": 0.365,
-   "change": -0.05
+   "change": -0.045
   },
   "KXNFLGAME-26NOV08LARWAS-LAR": {
    "series": "KXNFLGAME",
@@ -1303,13 +1904,20 @@
      "bid": 0.66,
      "ask": 0.69,
      "volume": 160.64
+    },
+    {
+     "date": "2026-10-30",
+     "mid": 0.665,
+     "bid": 0.65,
+     "ask": 0.68,
+     "volume": 196.74
     }
    ],
    "first": 0.66,
-   "latest": 0.675,
+   "latest": 0.665,
    "high": 0.675,
    "low": 0.66,
-   "change": 0.015
+   "change": 0.005
   },
   "KXNFLGAME-26NOV08LARWAS-WAS": {
    "series": "KXNFLGAME",
@@ -1338,13 +1946,20 @@
      "bid": 0.31,
      "ask": 0.35,
      "volume": 75.59
+    },
+    {
+     "date": "2026-10-30",
+     "mid": 0.335,
+     "bid": 0.32,
+     "ask": 0.35,
+     "volume": 166.7
     }
    ],
    "first": 0.345,
-   "latest": 0.33,
+   "latest": 0.335,
    "high": 0.345,
    "low": 0.33,
-   "change": -0.015
+   "change": -0.01
   },
   "KXNFLGAME-26NOV08LVSF-LV": {
    "series": "KXNFLGAME",
@@ -1373,13 +1988,20 @@
      "bid": 0.18,
      "ask": 0.19,
      "volume": 15923.38
+    },
+    {
+     "date": "2026-10-30",
+     "mid": 0.165,
+     "bid": 0.16,
+     "ask": 0.17,
+     "volume": 21795.62
     }
    ],
    "first": 0.175,
-   "latest": 0.185,
+   "latest": 0.165,
    "high": 0.19,
-   "low": 0.175,
-   "change": 0.01
+   "low": 0.165,
+   "change": -0.01
   },
   "KXNFLGAME-26NOV08LVSF-SF": {
    "series": "KXNFLGAME",
@@ -1408,13 +2030,20 @@
      "bid": 0.82,
      "ask": 0.83,
      "volume": 7909.92
+    },
+    {
+     "date": "2026-10-30",
+     "mid": 0.845,
+     "bid": 0.84,
+     "ask": 0.85,
+     "volume": 11809.44
     }
    ],
    "first": 0.835,
-   "latest": 0.825,
-   "high": 0.835,
+   "latest": 0.845,
+   "high": 0.845,
    "low": 0.825,
-   "change": -0.01
+   "change": 0.01
   },
   "KXNFLGAME-26NOV08NYGPHI-NYG": {
    "series": "KXNFLGAME",
@@ -1443,13 +2072,20 @@
      "bid": 0.55,
      "ask": 0.57,
      "volume": 13649.22
+    },
+    {
+     "date": "2026-10-30",
+     "mid": 0.58,
+     "bid": 0.56,
+     "ask": 0.6,
+     "volume": 16994.85
     }
    ],
    "first": 0.505,
-   "latest": 0.56,
-   "high": 0.565,
+   "latest": 0.58,
+   "high": 0.58,
    "low": 0.505,
-   "change": 0.055
+   "change": 0.075
   },
   "KXNFLGAME-26NOV08NYGPHI-PHI": {
    "series": "KXNFLGAME",
@@ -1478,6 +2114,13 @@
      "bid": 0.43,
      "ask": 0.45,
      "volume": 1099.35
+    },
+    {
+     "date": "2026-10-30",
+     "mid": 0.44,
+     "bid": 0.42,
+     "ask": 0.46,
+     "volume": 1502.57
     }
    ],
    "first": 0.495,
@@ -1513,13 +2156,20 @@
      "bid": 0.81,
      "ask": 0.83,
      "volume": 1565.37
+    },
+    {
+     "date": "2026-10-30",
+     "mid": 0.815,
+     "bid": 0.8,
+     "ask": 0.83,
+     "volume": 1839.33
     }
    ],
    "first": 0.835,
-   "latest": 0.82,
+   "latest": 0.815,
    "high": 0.835,
-   "low": 0.82,
-   "change": -0.015
+   "low": 0.815,
+   "change": -0.02
   },
   "KXNFLGAME-26NOV08NYJKC-NYJ": {
    "series": "KXNFLGAME",
@@ -1548,13 +2198,20 @@
      "bid": 0.18,
      "ask": 0.19,
      "volume": 2112.15
+    },
+    {
+     "date": "2026-10-30",
+     "mid": 0.195,
+     "bid": 0.18,
+     "ask": 0.21,
+     "volume": 2526.41
     }
    ],
    "first": 0.18,
-   "latest": 0.185,
-   "high": 0.185,
+   "latest": 0.195,
+   "high": 0.195,
    "low": 0.18,
-   "change": 0.005
+   "change": 0.015
   },
   "KXNFLGAME-26NOV08TBCHI-CHI": {
    "series": "KXNFLGAME",
@@ -1583,13 +2240,20 @@
      "bid": 0.73,
      "ask": 0.74,
      "volume": 991.71
+    },
+    {
+     "date": "2026-10-30",
+     "mid": 0.725,
+     "bid": 0.72,
+     "ask": 0.73,
+     "volume": 1269.45
     }
    ],
    "first": 0.74,
-   "latest": 0.735,
+   "latest": 0.725,
    "high": 0.74,
    "low": 0.705,
-   "change": -0.005
+   "change": -0.015
   },
   "KXNFLGAME-26NOV08TBCHI-TB": {
    "series": "KXNFLGAME",
@@ -1618,13 +2282,20 @@
      "bid": 0.26,
      "ask": 0.28,
      "volume": 381.53
+    },
+    {
+     "date": "2026-10-30",
+     "mid": 0.285,
+     "bid": 0.27,
+     "ask": 0.3,
+     "volume": 631.43
     }
    ],
    "first": 0.27,
-   "latest": 0.27,
+   "latest": 0.285,
    "high": 0.295,
    "low": 0.27,
-   "change": 0.0
+   "change": 0.015
   },
   "KXNFLGAME-26NOV09BUFMIN-BUF": {
    "series": "KXNFLGAME",
@@ -1653,13 +2324,20 @@
      "bid": 0.53,
      "ask": 0.57,
      "volume": 1285.53
+    },
+    {
+     "date": "2026-10-30",
+     "mid": 0.555,
+     "bid": 0.54,
+     "ask": 0.57,
+     "volume": 2653.32
     }
    ],
    "first": 0.555,
-   "latest": 0.55,
+   "latest": 0.555,
    "high": 0.56,
    "low": 0.55,
-   "change": -0.005
+   "change": 0.0
   },
   "KXNFLGAME-26NOV09BUFMIN-MIN": {
    "series": "KXNFLGAME",
@@ -1688,13 +2366,944 @@
      "bid": 0.43,
      "ask": 0.45,
      "volume": 874.62
+    },
+    {
+     "date": "2026-10-30",
+     "mid": 0.45,
+     "bid": 0.44,
+     "ask": 0.46,
+     "volume": 1761.09
     }
    ],
    "first": 0.445,
-   "latest": 0.44,
-   "high": 0.445,
+   "latest": 0.45,
+   "high": 0.45,
    "low": 0.435,
-   "change": -0.005
+   "change": 0.005
+  },
+  "KXNFLSPREAD-26NOV05JACBAL-BAL10": {
+   "series": "KXNFLSPREAD",
+   "event": "Jacksonville vs Baltimore: Spread",
+   "game_date": "2026-11-05",
+   "title": "Baltimore wins by over 9.5 points?",
+   "subtitle": "Baltimore wins by over 9.5 points",
+   "path": [
+    {
+     "date": "2026-10-30",
+     "mid": 0.275,
+     "bid": 0.19,
+     "ask": 0.36,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.275,
+   "latest": 0.275,
+   "high": 0.275,
+   "low": 0.275,
+   "change": 0.0
+  },
+  "KXNFLSPREAD-26NOV05JACBAL-BAL11": {
+   "series": "KXNFLSPREAD",
+   "event": "Jacksonville vs Baltimore: Spread",
+   "game_date": "2026-11-05",
+   "title": "Baltimore wins by over 10.5 points?",
+   "subtitle": "Baltimore wins by over 10.5 points",
+   "path": [
+    {
+     "date": "2026-10-30",
+     "mid": 0.245,
+     "bid": 0.17,
+     "ask": 0.32,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.245,
+   "latest": 0.245,
+   "high": 0.245,
+   "low": 0.245,
+   "change": 0.0
+  },
+  "KXNFLSPREAD-26NOV05JACBAL-BAL14": {
+   "series": "KXNFLSPREAD",
+   "event": "Jacksonville vs Baltimore: Spread",
+   "game_date": "2026-11-05",
+   "title": "Baltimore wins by over 13.5 points?",
+   "subtitle": "Baltimore wins by over 13.5 points",
+   "path": [
+    {
+     "date": "2026-10-30",
+     "mid": 0.205,
+     "bid": 0.12,
+     "ask": 0.29,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.205,
+   "latest": 0.205,
+   "high": 0.205,
+   "low": 0.205,
+   "change": 0.0
+  },
+  "KXNFLSPREAD-26NOV05JACBAL-BAL15": {
+   "series": "KXNFLSPREAD",
+   "event": "Jacksonville vs Baltimore: Spread",
+   "game_date": "2026-11-05",
+   "title": "Baltimore wins by over 14.5 points?",
+   "subtitle": "Baltimore wins by over 14.5 points",
+   "path": [
+    {
+     "date": "2026-10-30",
+     "mid": 0.17,
+     "bid": 0.09,
+     "ask": 0.25,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.17,
+   "latest": 0.17,
+   "high": 0.17,
+   "low": 0.17,
+   "change": 0.0
+  },
+  "KXNFLSPREAD-26NOV05JACBAL-BAL17": {
+   "series": "KXNFLSPREAD",
+   "event": "Jacksonville vs Baltimore: Spread",
+   "game_date": "2026-11-05",
+   "title": "Baltimore wins by over 16.5 points?",
+   "subtitle": "Baltimore wins by over 16.5 points",
+   "path": [
+    {
+     "date": "2026-10-30",
+     "mid": 0.155,
+     "bid": 0.07,
+     "ask": 0.24,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.155,
+   "latest": 0.155,
+   "high": 0.155,
+   "low": 0.155,
+   "change": 0.0
+  },
+  "KXNFLSPREAD-26NOV05JACBAL-BAL18": {
+   "series": "KXNFLSPREAD",
+   "event": "Jacksonville vs Baltimore: Spread",
+   "game_date": "2026-11-05",
+   "title": "Baltimore wins by over 17.5 points?",
+   "subtitle": "Baltimore wins by over 17.5 points",
+   "path": [
+    {
+     "date": "2026-10-30",
+     "mid": 0.125,
+     "bid": 0.04,
+     "ask": 0.21,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.125,
+   "latest": 0.125,
+   "high": 0.125,
+   "low": 0.125,
+   "change": 0.0
+  },
+  "KXNFLSPREAD-26NOV05JACBAL-BAL2": {
+   "series": "KXNFLSPREAD",
+   "event": "Jacksonville vs Baltimore: Spread",
+   "game_date": "2026-11-05",
+   "title": "Baltimore wins by over 1.5 points?",
+   "subtitle": "Baltimore wins by over 1.5 points",
+   "path": [
+    {
+     "date": "2026-10-30",
+     "mid": 0.535,
+     "bid": 0.46,
+     "ask": 0.61,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.535,
+   "latest": 0.535,
+   "high": 0.535,
+   "low": 0.535,
+   "change": 0.0
+  },
+  "KXNFLSPREAD-26NOV05JACBAL-BAL21": {
+   "series": "KXNFLSPREAD",
+   "event": "Jacksonville vs Baltimore: Spread",
+   "game_date": "2026-11-05",
+   "title": "Baltimore wins by over 20.5 points?",
+   "subtitle": "Baltimore wins by over 20.5 points",
+   "path": [
+    {
+     "date": "2026-10-30",
+     "mid": 0.11,
+     "bid": 0.04,
+     "ask": 0.18,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.11,
+   "latest": 0.11,
+   "high": 0.11,
+   "low": 0.11,
+   "change": 0.0
+  },
+  "KXNFLSPREAD-26NOV05JACBAL-BAL3": {
+   "series": "KXNFLSPREAD",
+   "event": "Jacksonville vs Baltimore: Spread",
+   "game_date": "2026-11-05",
+   "title": "Baltimore wins by over 2.5 points?",
+   "subtitle": "Baltimore wins by over 2.5 points",
+   "path": [
+    {
+     "date": "2026-10-30",
+     "mid": 0.535,
+     "bid": 0.52,
+     "ask": 0.55,
+     "volume": 30.1
+    }
+   ],
+   "first": 0.535,
+   "latest": 0.535,
+   "high": 0.535,
+   "low": 0.535,
+   "change": 0.0
+  },
+  "KXNFLSPREAD-26NOV05JACBAL-BAL4": {
+   "series": "KXNFLSPREAD",
+   "event": "Jacksonville vs Baltimore: Spread",
+   "game_date": "2026-11-05",
+   "title": "Baltimore wins by over 3.5 points?",
+   "subtitle": "Baltimore wins by over 3.5 points",
+   "path": [
+    {
+     "date": "2026-10-30",
+     "mid": 0.45,
+     "bid": 0.35,
+     "ask": 0.55,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.45,
+   "latest": 0.45,
+   "high": 0.45,
+   "low": 0.45,
+   "change": 0.0
+  },
+  "KXNFLSPREAD-26NOV05JACBAL-BAL5": {
+   "series": "KXNFLSPREAD",
+   "event": "Jacksonville vs Baltimore: Spread",
+   "game_date": "2026-11-05",
+   "title": "Baltimore wins by over 4.5 points?",
+   "subtitle": "Baltimore wins by over 4.5 points",
+   "path": [
+    {
+     "date": "2026-10-30",
+     "mid": 0.42,
+     "bid": 0.32,
+     "ask": 0.52,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.42,
+   "latest": 0.42,
+   "high": 0.42,
+   "low": 0.42,
+   "change": 0.0
+  },
+  "KXNFLSPREAD-26NOV05JACBAL-BAL6": {
+   "series": "KXNFLSPREAD",
+   "event": "Jacksonville vs Baltimore: Spread",
+   "game_date": "2026-11-05",
+   "title": "Baltimore wins by over 5.5 points?",
+   "subtitle": "Baltimore wins by over 5.5 points",
+   "path": [
+    {
+     "date": "2026-10-30",
+     "mid": 0.39,
+     "bid": 0.3,
+     "ask": 0.48,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.39,
+   "latest": 0.39,
+   "high": 0.39,
+   "low": 0.39,
+   "change": 0.0
+  },
+  "KXNFLSPREAD-26NOV05JACBAL-BAL7": {
+   "series": "KXNFLSPREAD",
+   "event": "Jacksonville vs Baltimore: Spread",
+   "game_date": "2026-11-05",
+   "title": "Baltimore wins by over 6.5 points?",
+   "subtitle": "Baltimore wins by over 6.5 points",
+   "path": [
+    {
+     "date": "2026-10-30",
+     "mid": 0.35,
+     "bid": 0.27,
+     "ask": 0.43,
+     "volume": 22.14
+    }
+   ],
+   "first": 0.35,
+   "latest": 0.35,
+   "high": 0.35,
+   "low": 0.35,
+   "change": 0.0
+  },
+  "KXNFLSPREAD-26NOV05JACBAL-BAL8": {
+   "series": "KXNFLSPREAD",
+   "event": "Jacksonville vs Baltimore: Spread",
+   "game_date": "2026-11-05",
+   "title": "Baltimore wins by over 7.5 points?",
+   "subtitle": "Baltimore wins by over 7.5 points",
+   "path": [
+    {
+     "date": "2026-10-30",
+     "mid": 0.305,
+     "bid": 0.22,
+     "ask": 0.39,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.305,
+   "latest": 0.305,
+   "high": 0.305,
+   "low": 0.305,
+   "change": 0.0
+  },
+  "KXNFLSPREAD-26NOV05JACBAL-JAC10": {
+   "series": "KXNFLSPREAD",
+   "event": "Jacksonville vs Baltimore: Spread",
+   "game_date": "2026-11-05",
+   "title": "Jacksonville wins by over 9.5 points?",
+   "subtitle": "Jacksonville wins by over 9.5 points",
+   "path": [
+    {
+     "date": "2026-10-30",
+     "mid": 0.125,
+     "bid": 0.04,
+     "ask": 0.21,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.125,
+   "latest": 0.125,
+   "high": 0.125,
+   "low": 0.125,
+   "change": 0.0
+  },
+  "KXNFLSPREAD-26NOV05JACBAL-JAC11": {
+   "series": "KXNFLSPREAD",
+   "event": "Jacksonville vs Baltimore: Spread",
+   "game_date": "2026-11-05",
+   "title": "Jacksonville wins by over 10.5 points?",
+   "subtitle": "Jacksonville wins by over 10.5 points",
+   "path": [
+    {
+     "date": "2026-10-30",
+     "mid": 0.12,
+     "bid": 0.04,
+     "ask": 0.2,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.12,
+   "latest": 0.12,
+   "high": 0.12,
+   "low": 0.12,
+   "change": 0.0
+  },
+  "KXNFLSPREAD-26NOV05JACBAL-JAC14": {
+   "series": "KXNFLSPREAD",
+   "event": "Jacksonville vs Baltimore: Spread",
+   "game_date": "2026-11-05",
+   "title": "Jacksonville wins by over 13.5 points?",
+   "subtitle": "Jacksonville wins by over 13.5 points",
+   "path": [
+    {
+     "date": "2026-10-30",
+     "mid": 0.105,
+     "bid": 0.04,
+     "ask": 0.17,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.105,
+   "latest": 0.105,
+   "high": 0.105,
+   "low": 0.105,
+   "change": 0.0
+  },
+  "KXNFLSPREAD-26NOV05JACBAL-JAC15": {
+   "series": "KXNFLSPREAD",
+   "event": "Jacksonville vs Baltimore: Spread",
+   "game_date": "2026-11-05",
+   "title": "Jacksonville wins by over 14.5 points?",
+   "subtitle": "Jacksonville wins by over 14.5 points",
+   "path": [
+    {
+     "date": "2026-10-30",
+     "mid": 0.1,
+     "bid": 0.04,
+     "ask": 0.16,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.1,
+   "latest": 0.1,
+   "high": 0.1,
+   "low": 0.1,
+   "change": 0.0
+  },
+  "KXNFLSPREAD-26NOV05JACBAL-JAC2": {
+   "series": "KXNFLSPREAD",
+   "event": "Jacksonville vs Baltimore: Spread",
+   "game_date": "2026-11-05",
+   "title": "Jacksonville wins by over 1.5 points?",
+   "subtitle": "Jacksonville wins by over 1.5 points",
+   "path": [
+    {
+     "date": "2026-10-30",
+     "mid": 0.375,
+     "bid": 0.28,
+     "ask": 0.47,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.375,
+   "latest": 0.375,
+   "high": 0.375,
+   "low": 0.375,
+   "change": 0.0
+  },
+  "KXNFLSPREAD-26NOV05JACBAL-JAC3": {
+   "series": "KXNFLSPREAD",
+   "event": "Jacksonville vs Baltimore: Spread",
+   "game_date": "2026-11-05",
+   "title": "Jacksonville wins by over 2.5 points?",
+   "subtitle": "Jacksonville wins by over 2.5 points",
+   "path": [
+    {
+     "date": "2026-10-30",
+     "mid": 0.345,
+     "bid": 0.25,
+     "ask": 0.44,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.345,
+   "latest": 0.345,
+   "high": 0.345,
+   "low": 0.345,
+   "change": 0.0
+  },
+  "KXNFLSPREAD-26NOV05JACBAL-JAC4": {
+   "series": "KXNFLSPREAD",
+   "event": "Jacksonville vs Baltimore: Spread",
+   "game_date": "2026-11-05",
+   "title": "Jacksonville wins by over 3.5 points?",
+   "subtitle": "Jacksonville wins by over 3.5 points",
+   "path": [
+    {
+     "date": "2026-10-30",
+     "mid": 0.265,
+     "bid": 0.17,
+     "ask": 0.36,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.265,
+   "latest": 0.265,
+   "high": 0.265,
+   "low": 0.265,
+   "change": 0.0
+  },
+  "KXNFLSPREAD-26NOV05JACBAL-JAC5": {
+   "series": "KXNFLSPREAD",
+   "event": "Jacksonville vs Baltimore: Spread",
+   "game_date": "2026-11-05",
+   "title": "Jacksonville wins by over 4.5 points?",
+   "subtitle": "Jacksonville wins by over 4.5 points",
+   "path": [
+    {
+     "date": "2026-10-30",
+     "mid": 0.245,
+     "bid": 0.15,
+     "ask": 0.34,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.245,
+   "latest": 0.245,
+   "high": 0.245,
+   "low": 0.245,
+   "change": 0.0
+  },
+  "KXNFLSPREAD-26NOV05JACBAL-JAC6": {
+   "series": "KXNFLSPREAD",
+   "event": "Jacksonville vs Baltimore: Spread",
+   "game_date": "2026-11-05",
+   "title": "Jacksonville wins by over 5.5 points?",
+   "subtitle": "Jacksonville wins by over 5.5 points",
+   "path": [
+    {
+     "date": "2026-10-30",
+     "mid": 0.245,
+     "bid": 0.18,
+     "ask": 0.31,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.245,
+   "latest": 0.245,
+   "high": 0.245,
+   "low": 0.245,
+   "change": 0.0
+  },
+  "KXNFLSPREAD-26NOV05JACBAL-JAC7": {
+   "series": "KXNFLSPREAD",
+   "event": "Jacksonville vs Baltimore: Spread",
+   "game_date": "2026-11-05",
+   "title": "Jacksonville wins by over 6.5 points?",
+   "subtitle": "Jacksonville wins by over 6.5 points",
+   "path": [
+    {
+     "date": "2026-10-30",
+     "mid": 0.19,
+     "bid": 0.1,
+     "ask": 0.28,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.19,
+   "latest": 0.19,
+   "high": 0.19,
+   "low": 0.19,
+   "change": 0.0
+  },
+  "KXNFLSPREAD-26NOV05JACBAL-JAC8": {
+   "series": "KXNFLSPREAD",
+   "event": "Jacksonville vs Baltimore: Spread",
+   "game_date": "2026-11-05",
+   "title": "Jacksonville wins by over 7.5 points?",
+   "subtitle": "Jacksonville wins by over 7.5 points",
+   "path": [
+    {
+     "date": "2026-10-30",
+     "mid": 0.145,
+     "bid": 0.06,
+     "ask": 0.23,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.145,
+   "latest": 0.145,
+   "high": 0.145,
+   "low": 0.145,
+   "change": 0.0
+  },
+  "KXNFLTOTAL-26NOV05JACBAL-28": {
+   "series": "KXNFLTOTAL",
+   "event": "Jacksonville vs Baltimore: Total Points",
+   "game_date": "2026-11-05",
+   "title": "Full Game: over 27.5 points scored?",
+   "subtitle": "Over 27.5 points",
+   "path": [
+    {
+     "date": "2026-10-30",
+     "mid": 0.9,
+     "bid": 0.81,
+     "ask": 0.99,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.9,
+   "latest": 0.9,
+   "high": 0.9,
+   "low": 0.9,
+   "change": 0.0
+  },
+  "KXNFLTOTAL-26NOV05JACBAL-31": {
+   "series": "KXNFLTOTAL",
+   "event": "Jacksonville vs Baltimore: Total Points",
+   "game_date": "2026-11-05",
+   "title": "Full Game: over 30.5 points scored?",
+   "subtitle": "Over 30.5 points",
+   "path": [
+    {
+     "date": "2026-10-30",
+     "mid": 0.895,
+     "bid": 0.8,
+     "ask": 0.99,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.895,
+   "latest": 0.895,
+   "high": 0.895,
+   "low": 0.895,
+   "change": 0.0
+  },
+  "KXNFLTOTAL-26NOV05JACBAL-34": {
+   "series": "KXNFLTOTAL",
+   "event": "Jacksonville vs Baltimore: Total Points",
+   "game_date": "2026-11-05",
+   "title": "Full Game: over 33.5 points scored?",
+   "subtitle": "Over 33.5 points",
+   "path": [
+    {
+     "date": "2026-10-30",
+     "mid": 0.885,
+     "bid": 0.79,
+     "ask": 0.98,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.885,
+   "latest": 0.885,
+   "high": 0.885,
+   "low": 0.885,
+   "change": 0.0
+  },
+  "KXNFLTOTAL-26NOV05JACBAL-37": {
+   "series": "KXNFLTOTAL",
+   "event": "Jacksonville vs Baltimore: Total Points",
+   "game_date": "2026-11-05",
+   "title": "Full Game: over 36.5 points scored?",
+   "subtitle": "Over 36.5 points",
+   "path": [
+    {
+     "date": "2026-10-30",
+     "mid": 0.88,
+     "bid": 0.78,
+     "ask": 0.98,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.88,
+   "latest": 0.88,
+   "high": 0.88,
+   "low": 0.88,
+   "change": 0.0
+  },
+  "KXNFLTOTAL-26NOV05JACBAL-40": {
+   "series": "KXNFLTOTAL",
+   "event": "Jacksonville vs Baltimore: Total Points",
+   "game_date": "2026-11-05",
+   "title": "Full Game: over 39.5 points scored?",
+   "subtitle": "Over 39.5 points",
+   "path": [
+    {
+     "date": "2026-10-30",
+     "mid": 0.745,
+     "bid": 0.51,
+     "ask": 0.98,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.745,
+   "latest": 0.745,
+   "high": 0.745,
+   "low": 0.745,
+   "change": 0.0
+  },
+  "KXNFLTOTAL-26NOV05JACBAL-43": {
+   "series": "KXNFLTOTAL",
+   "event": "Jacksonville vs Baltimore: Total Points",
+   "game_date": "2026-11-05",
+   "title": "Full Game: over 42.5 points scored?",
+   "subtitle": "Over 42.5 points",
+   "path": [
+    {
+     "date": "2026-10-30",
+     "mid": 0.75,
+     "bid": 0.51,
+     "ask": 0.99,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.75,
+   "latest": 0.75,
+   "high": 0.75,
+   "low": 0.75,
+   "change": 0.0
+  },
+  "KXNFLTOTAL-26NOV05JACBAL-46": {
+   "series": "KXNFLTOTAL",
+   "event": "Jacksonville vs Baltimore: Total Points",
+   "game_date": "2026-11-05",
+   "title": "Full Game: over 45.5 points scored?",
+   "subtitle": "Over 45.5 points",
+   "path": [
+    {
+     "date": "2026-10-30",
+     "mid": 0.745,
+     "bid": 0.5,
+     "ask": 0.99,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.745,
+   "latest": 0.745,
+   "high": 0.745,
+   "low": 0.745,
+   "change": 0.0
+  },
+  "KXNFLTOTAL-26NOV05JACBAL-47": {
+   "series": "KXNFLTOTAL",
+   "event": "Jacksonville vs Baltimore: Total Points",
+   "game_date": "2026-11-05",
+   "title": "Full Game: over 46.5 points scored?",
+   "subtitle": "Over 46.5 points",
+   "path": [
+    {
+     "date": "2026-10-30",
+     "mid": 0.585,
+     "bid": 0.5,
+     "ask": 0.67,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.585,
+   "latest": 0.585,
+   "high": 0.585,
+   "low": 0.585,
+   "change": 0.0
+  },
+  "KXNFLTOTAL-26NOV05JACBAL-48": {
+   "series": "KXNFLTOTAL",
+   "event": "Jacksonville vs Baltimore: Total Points",
+   "game_date": "2026-11-05",
+   "title": "Full Game: over 47.5 points scored?",
+   "subtitle": "Over 47.5 points",
+   "path": [
+    {
+     "date": "2026-10-30",
+     "mid": 0.69,
+     "bid": 0.5,
+     "ask": 0.88,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.69,
+   "latest": 0.69,
+   "high": 0.69,
+   "low": 0.69,
+   "change": 0.0
+  },
+  "KXNFLTOTAL-26NOV05JACBAL-49": {
+   "series": "KXNFLTOTAL",
+   "event": "Jacksonville vs Baltimore: Total Points",
+   "game_date": "2026-11-05",
+   "title": "Full Game: over 48.5 points scored?",
+   "subtitle": "Over 48.5 points",
+   "path": [
+    {
+     "date": "2026-10-30",
+     "mid": 0.515,
+     "bid": 0.5,
+     "ask": 0.53,
+     "volume": 68.62
+    }
+   ],
+   "first": 0.515,
+   "latest": 0.515,
+   "high": 0.515,
+   "low": 0.515,
+   "change": 0.0
+  },
+  "KXNFLTOTAL-26NOV05JACBAL-50": {
+   "series": "KXNFLTOTAL",
+   "event": "Jacksonville vs Baltimore: Total Points",
+   "game_date": "2026-11-05",
+   "title": "Full Game: over 49.5 points scored?",
+   "subtitle": "Over 49.5 points",
+   "path": [
+    {
+     "date": "2026-10-30",
+     "mid": 0.345,
+     "bid": 0.16,
+     "ask": 0.53,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.345,
+   "latest": 0.345,
+   "high": 0.345,
+   "low": 0.345,
+   "change": 0.0
+  },
+  "KXNFLTOTAL-26NOV05JACBAL-51": {
+   "series": "KXNFLTOTAL",
+   "event": "Jacksonville vs Baltimore: Total Points",
+   "game_date": "2026-11-05",
+   "title": "Full Game: over 50.5 points scored?",
+   "subtitle": "Over 50.5 points",
+   "path": [
+    {
+     "date": "2026-10-30",
+     "mid": 0.38,
+     "bid": 0.23,
+     "ask": 0.53,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.38,
+   "latest": 0.38,
+   "high": 0.38,
+   "low": 0.38,
+   "change": 0.0
+  },
+  "KXNFLTOTAL-26NOV05JACBAL-52": {
+   "series": "KXNFLTOTAL",
+   "event": "Jacksonville vs Baltimore: Total Points",
+   "game_date": "2026-11-05",
+   "title": "Full Game: over 51.5 points scored?",
+   "subtitle": "Over 51.5 points",
+   "path": [
+    {
+     "date": "2026-10-30",
+     "mid": 0.275,
+     "bid": 0.02,
+     "ask": 0.53,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.275,
+   "latest": 0.275,
+   "high": 0.275,
+   "low": 0.275,
+   "change": 0.0
+  },
+  "KXNFLTOTAL-26NOV05JACBAL-55": {
+   "series": "KXNFLTOTAL",
+   "event": "Jacksonville vs Baltimore: Total Points",
+   "game_date": "2026-11-05",
+   "title": "Full Game: over 54.5 points scored?",
+   "subtitle": "Over 54.5 points",
+   "path": [
+    {
+     "date": "2026-10-30",
+     "mid": 0.33,
+     "bid": 0.13,
+     "ask": 0.53,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.33,
+   "latest": 0.33,
+   "high": 0.33,
+   "low": 0.33,
+   "change": 0.0
+  },
+  "KXNFLTOTAL-26NOV05JACBAL-58": {
+   "series": "KXNFLTOTAL",
+   "event": "Jacksonville vs Baltimore: Total Points",
+   "game_date": "2026-11-05",
+   "title": "Full Game: over 57.5 points scored?",
+   "subtitle": "Over 57.5 points",
+   "path": [
+    {
+     "date": "2026-10-30",
+     "mid": 0.36,
+     "bid": 0.19,
+     "ask": 0.53,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.36,
+   "latest": 0.36,
+   "high": 0.36,
+   "low": 0.36,
+   "change": 0.0
+  },
+  "KXNFLTOTAL-26NOV05JACBAL-61": {
+   "series": "KXNFLTOTAL",
+   "event": "Jacksonville vs Baltimore: Total Points",
+   "game_date": "2026-11-05",
+   "title": "Full Game: over 60.5 points scored?",
+   "subtitle": "Over 60.5 points",
+   "path": [
+    {
+     "date": "2026-10-30",
+     "mid": 0.335,
+     "bid": 0.14,
+     "ask": 0.53,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.335,
+   "latest": 0.335,
+   "high": 0.335,
+   "low": 0.335,
+   "change": 0.0
+  },
+  "KXNFLTOTAL-26NOV05JACBAL-64": {
+   "series": "KXNFLTOTAL",
+   "event": "Jacksonville vs Baltimore: Total Points",
+   "game_date": "2026-11-05",
+   "title": "Full Game: over 63.5 points scored?",
+   "subtitle": "Over 63.5 points",
+   "path": [
+    {
+     "date": "2026-10-30",
+     "mid": 0.27,
+     "bid": 0.02,
+     "ask": 0.52,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.27,
+   "latest": 0.27,
+   "high": 0.27,
+   "low": 0.27,
+   "change": 0.0
+  },
+  "KXNFLTOTAL-26NOV05JACBAL-67": {
+   "series": "KXNFLTOTAL",
+   "event": "Jacksonville vs Baltimore: Total Points",
+   "game_date": "2026-11-05",
+   "title": "Full Game: over 66.5 points scored?",
+   "subtitle": "Over 66.5 points",
+   "path": [
+    {
+     "date": "2026-10-30",
+     "mid": 0.26,
+     "bid": 0.01,
+     "ask": 0.51,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.26,
+   "latest": 0.26,
+   "high": 0.26,
+   "low": 0.26,
+   "change": 0.0
+  },
+  "KXNFLTOTAL-26NOV05JACBAL-70": {
+   "series": "KXNFLTOTAL",
+   "event": "Jacksonville vs Baltimore: Total Points",
+   "game_date": "2026-11-05",
+   "title": "Full Game: over 69.5 points scored?",
+   "subtitle": "Over 69.5 points",
+   "path": [
+    {
+     "date": "2026-10-30",
+     "mid": 0.255,
+     "bid": 0.01,
+     "ask": 0.5,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.255,
+   "latest": 0.255,
+   "high": 0.255,
+   "low": 0.255,
+   "change": 0.0
   }
  }
 }
