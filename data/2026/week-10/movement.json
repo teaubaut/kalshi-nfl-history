@@ -1,0 +1,744 @@
+{
+ "updated": "2026-11-03",
+ "days": [
+  "2026-11-03"
+ ],
+ "top_movers": [],
+ "markets": {
+  "KXNFLDELAY-26NOV12WASNYG-Y": {
+   "series": "KXNFLDELAY",
+   "event": "Washington vs New York G: Weather Delay",
+   "game_date": "2026-11-12",
+   "title": "Washington vs New York G game to be delayed due to weather",
+   "subtitle": "Game to be delayed due to weather",
+   "path": [
+    {
+     "date": "2026-11-03",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.99,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFLDELAY-26NOV15BUFNYJ-Y": {
+   "series": "KXNFLDELAY",
+   "event": "Buffalo vs New York J: Weather Delay",
+   "game_date": "2026-11-15",
+   "title": "Buffalo vs New York J game to be delayed due to weather",
+   "subtitle": "Game to be delayed due to weather",
+   "path": [
+    {
+     "date": "2026-11-03",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.99,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFLDELAY-26NOV15HOUCLE-Y": {
+   "series": "KXNFLDELAY",
+   "event": "Houston vs Cleveland: Weather Delay",
+   "game_date": "2026-11-15",
+   "title": "Houston vs Cleveland game to be delayed due to weather",
+   "subtitle": "Game to be delayed due to weather",
+   "path": [
+    {
+     "date": "2026-11-03",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.99,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFLDELAY-26NOV15JACTEN-Y": {
+   "series": "KXNFLDELAY",
+   "event": "Jacksonville vs Tennessee: Weather Delay",
+   "game_date": "2026-11-15",
+   "title": "Jacksonville vs Tennessee game to be delayed due to weather",
+   "subtitle": "Game to be delayed due to weather",
+   "path": [
+    {
+     "date": "2026-11-03",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.99,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFLDELAY-26NOV15MINGB-Y": {
+   "series": "KXNFLDELAY",
+   "event": "Minnesota vs Green Bay: Weather Delay",
+   "game_date": "2026-11-15",
+   "title": "Minnesota vs Green Bay game to be delayed due to weather",
+   "subtitle": "Game to be delayed due to weather",
+   "path": [
+    {
+     "date": "2026-11-03",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.99,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFLDELAY-26NOV15PITCIN-Y": {
+   "series": "KXNFLDELAY",
+   "event": "Pittsburgh vs Cincinnati: Weather Delay",
+   "game_date": "2026-11-15",
+   "title": "Pittsburgh vs Cincinnati game to be delayed due to weather",
+   "subtitle": "Game to be delayed due to weather",
+   "path": [
+    {
+     "date": "2026-11-03",
+     "mid": 0.54,
+     "bid": 0.09,
+     "ask": 0.99,
+     "volume": 1.0
+    }
+   ],
+   "first": 0.54,
+   "latest": 0.54,
+   "high": 0.54,
+   "low": 0.54,
+   "change": 0.0
+  },
+  "KXNFLDELAY-26NOV16LACBAL-Y": {
+   "series": "KXNFLDELAY",
+   "event": "Los Angeles C vs Baltimore: Weather Delay",
+   "game_date": "2026-11-16",
+   "title": "Los Angeles C vs Baltimore game to be delayed due to weather",
+   "subtitle": "Game to be delayed due to weather",
+   "path": [
+    {
+     "date": "2026-11-03",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.99,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFLGAME-26NOV12WASNYG-NYG": {
+   "series": "KXNFLGAME",
+   "event": "Washington vs New York G",
+   "game_date": "2026-11-12",
+   "title": "New York G wins",
+   "subtitle": "New York G",
+   "path": [
+    {
+     "date": "2026-11-03",
+     "mid": 0.535,
+     "bid": 0.53,
+     "ask": 0.54,
+     "volume": 93.97
+    }
+   ],
+   "first": 0.535,
+   "latest": 0.535,
+   "high": 0.535,
+   "low": 0.535,
+   "change": 0.0
+  },
+  "KXNFLGAME-26NOV12WASNYG-WAS": {
+   "series": "KXNFLGAME",
+   "event": "Washington vs New York G",
+   "game_date": "2026-11-12",
+   "title": "Washington wins",
+   "subtitle": "Washington",
+   "path": [
+    {
+     "date": "2026-11-03",
+     "mid": 0.47,
+     "bid": 0.46,
+     "ask": 0.48,
+     "volume": 47.35
+    }
+   ],
+   "first": 0.47,
+   "latest": 0.47,
+   "high": 0.47,
+   "low": 0.47,
+   "change": 0.0
+  },
+  "KXNFLGAME-26NOV15BUFNYJ-BUF": {
+   "series": "KXNFLGAME",
+   "event": "Buffalo vs New York J",
+   "game_date": "2026-11-15",
+   "title": "Buffalo wins",
+   "subtitle": "Buffalo",
+   "path": [
+    {
+     "date": "2026-11-03",
+     "mid": 0.815,
+     "bid": 0.8,
+     "ask": 0.83,
+     "volume": 553.94
+    }
+   ],
+   "first": 0.815,
+   "latest": 0.815,
+   "high": 0.815,
+   "low": 0.815,
+   "change": 0.0
+  },
+  "KXNFLGAME-26NOV15BUFNYJ-NYJ": {
+   "series": "KXNFLGAME",
+   "event": "Buffalo vs New York J",
+   "game_date": "2026-11-15",
+   "title": "New York J wins",
+   "subtitle": "New York J",
+   "path": [
+    {
+     "date": "2026-11-03",
+     "mid": 0.2,
+     "bid": 0.19,
+     "ask": 0.21,
+     "volume": 308.43
+    }
+   ],
+   "first": 0.2,
+   "latest": 0.2,
+   "high": 0.2,
+   "low": 0.2,
+   "change": 0.0
+  },
+  "KXNFLGAME-26NOV15CARNO-CAR": {
+   "series": "KXNFLGAME",
+   "event": "Carolina vs New Orleans",
+   "game_date": "2026-11-15",
+   "title": "Carolina wins",
+   "subtitle": "Carolina",
+   "path": [
+    {
+     "date": "2026-11-03",
+     "mid": 0.515,
+     "bid": 0.5,
+     "ask": 0.53,
+     "volume": 18.52
+    }
+   ],
+   "first": 0.515,
+   "latest": 0.515,
+   "high": 0.515,
+   "low": 0.515,
+   "change": 0.0
+  },
+  "KXNFLGAME-26NOV15CARNO-NO": {
+   "series": "KXNFLGAME",
+   "event": "Carolina vs New Orleans",
+   "game_date": "2026-11-15",
+   "title": "New Orleans wins",
+   "subtitle": "New Orleans",
+   "path": [
+    {
+     "date": "2026-11-03",
+     "mid": 0.48,
+     "bid": 0.47,
+     "ask": 0.49,
+     "volume": 8.29
+    }
+   ],
+   "first": 0.48,
+   "latest": 0.48,
+   "high": 0.48,
+   "low": 0.48,
+   "change": 0.0
+  },
+  "KXNFLGAME-26NOV15HOUCLE-CLE": {
+   "series": "KXNFLGAME",
+   "event": "Houston vs Cleveland",
+   "game_date": "2026-11-15",
+   "title": "Cleveland wins",
+   "subtitle": "Cleveland",
+   "path": [
+    {
+     "date": "2026-11-03",
+     "mid": 0.365,
+     "bid": 0.35,
+     "ask": 0.38,
+     "volume": 63.93
+    }
+   ],
+   "first": 0.365,
+   "latest": 0.365,
+   "high": 0.365,
+   "low": 0.365,
+   "change": 0.0
+  },
+  "KXNFLGAME-26NOV15HOUCLE-HOU": {
+   "series": "KXNFLGAME",
+   "event": "Houston vs Cleveland",
+   "game_date": "2026-11-15",
+   "title": "Houston wins",
+   "subtitle": "Houston",
+   "path": [
+    {
+     "date": "2026-11-03",
+     "mid": 0.635,
+     "bid": 0.62,
+     "ask": 0.65,
+     "volume": 63.62
+    }
+   ],
+   "first": 0.635,
+   "latest": 0.635,
+   "high": 0.635,
+   "low": 0.635,
+   "change": 0.0
+  },
+  "KXNFLGAME-26NOV15JACTEN-JAC": {
+   "series": "KXNFLGAME",
+   "event": "Jacksonville vs Tennessee",
+   "game_date": "2026-11-15",
+   "title": "Jacksonville wins",
+   "subtitle": "Jacksonville",
+   "path": [
+    {
+     "date": "2026-11-03",
+     "mid": 0.835,
+     "bid": 0.82,
+     "ask": 0.85,
+     "volume": 438.28
+    }
+   ],
+   "first": 0.835,
+   "latest": 0.835,
+   "high": 0.835,
+   "low": 0.835,
+   "change": 0.0
+  },
+  "KXNFLGAME-26NOV15JACTEN-TEN": {
+   "series": "KXNFLGAME",
+   "event": "Jacksonville vs Tennessee",
+   "game_date": "2026-11-15",
+   "title": "Tennessee wins",
+   "subtitle": "Tennessee",
+   "path": [
+    {
+     "date": "2026-11-03",
+     "mid": 0.165,
+     "bid": 0.16,
+     "ask": 0.17,
+     "volume": 565.61
+    }
+   ],
+   "first": 0.165,
+   "latest": 0.165,
+   "high": 0.165,
+   "low": 0.165,
+   "change": 0.0
+  },
+  "KXNFLGAME-26NOV15KCATL-ATL": {
+   "series": "KXNFLGAME",
+   "event": "Kansas City vs Atlanta",
+   "game_date": "2026-11-15",
+   "title": "Atlanta wins",
+   "subtitle": "Atlanta",
+   "path": [
+    {
+     "date": "2026-11-03",
+     "mid": 0.37,
+     "bid": 0.35,
+     "ask": 0.39,
+     "volume": 5.08
+    }
+   ],
+   "first": 0.37,
+   "latest": 0.37,
+   "high": 0.37,
+   "low": 0.37,
+   "change": 0.0
+  },
+  "KXNFLGAME-26NOV15KCATL-KC": {
+   "series": "KXNFLGAME",
+   "event": "Kansas City vs Atlanta",
+   "game_date": "2026-11-15",
+   "title": "Kansas City wins",
+   "subtitle": "Kansas City",
+   "path": [
+    {
+     "date": "2026-11-03",
+     "mid": 0.63,
+     "bid": 0.61,
+     "ask": 0.65,
+     "volume": 91.27
+    }
+   ],
+   "first": 0.63,
+   "latest": 0.63,
+   "high": 0.63,
+   "low": 0.63,
+   "change": 0.0
+  },
+  "KXNFLGAME-26NOV15LARARI-ARI": {
+   "series": "KXNFLGAME",
+   "event": "Los Angeles R vs Arizona",
+   "game_date": "2026-11-15",
+   "title": "Arizona wins",
+   "subtitle": "Arizona",
+   "path": [
+    {
+     "date": "2026-11-03",
+     "mid": 0.25,
+     "bid": 0.24,
+     "ask": 0.26,
+     "volume": 308.02
+    }
+   ],
+   "first": 0.25,
+   "latest": 0.25,
+   "high": 0.25,
+   "low": 0.25,
+   "change": 0.0
+  },
+  "KXNFLGAME-26NOV15LARARI-LAR": {
+   "series": "KXNFLGAME",
+   "event": "Los Angeles R vs Arizona",
+   "game_date": "2026-11-15",
+   "title": "Los Angeles R wins",
+   "subtitle": "Los Angeles R",
+   "path": [
+    {
+     "date": "2026-11-03",
+     "mid": 0.755,
+     "bid": 0.74,
+     "ask": 0.77,
+     "volume": 287.73
+    }
+   ],
+   "first": 0.755,
+   "latest": 0.755,
+   "high": 0.755,
+   "low": 0.755,
+   "change": 0.0
+  },
+  "KXNFLGAME-26NOV15MIAIND-IND": {
+   "series": "KXNFLGAME",
+   "event": "Miami vs Indianapolis",
+   "game_date": "2026-11-15",
+   "title": "Indianapolis wins",
+   "subtitle": "Indianapolis",
+   "path": [
+    {
+     "date": "2026-11-03",
+     "mid": 0.525,
+     "bid": 0.51,
+     "ask": 0.54,
+     "volume": 25.51
+    }
+   ],
+   "first": 0.525,
+   "latest": 0.525,
+   "high": 0.525,
+   "low": 0.525,
+   "change": 0.0
+  },
+  "KXNFLGAME-26NOV15MIAIND-MIA": {
+   "series": "KXNFLGAME",
+   "event": "Miami vs Indianapolis",
+   "game_date": "2026-11-15",
+   "title": "Miami wins",
+   "subtitle": "Miami",
+   "path": [
+    {
+     "date": "2026-11-03",
+     "mid": 0.475,
+     "bid": 0.46,
+     "ask": 0.49,
+     "volume": 230.29
+    }
+   ],
+   "first": 0.475,
+   "latest": 0.475,
+   "high": 0.475,
+   "low": 0.475,
+   "change": 0.0
+  },
+  "KXNFLGAME-26NOV15MINGB-GB": {
+   "series": "KXNFLGAME",
+   "event": "Minnesota vs Green Bay",
+   "game_date": "2026-11-15",
+   "title": "Green Bay wins",
+   "subtitle": "Green Bay",
+   "path": [
+    {
+     "date": "2026-11-03",
+     "mid": 0.56,
+     "bid": 0.55,
+     "ask": 0.57,
+     "volume": 91.87
+    }
+   ],
+   "first": 0.56,
+   "latest": 0.56,
+   "high": 0.56,
+   "low": 0.56,
+   "change": 0.0
+  },
+  "KXNFLGAME-26NOV15MINGB-MIN": {
+   "series": "KXNFLGAME",
+   "event": "Minnesota vs Green Bay",
+   "game_date": "2026-11-15",
+   "title": "Minnesota wins",
+   "subtitle": "Minnesota",
+   "path": [
+    {
+     "date": "2026-11-03",
+     "mid": 0.445,
+     "bid": 0.43,
+     "ask": 0.46,
+     "volume": 127.93
+    }
+   ],
+   "first": 0.445,
+   "latest": 0.445,
+   "high": 0.445,
+   "low": 0.445,
+   "change": 0.0
+  },
+  "KXNFLGAME-26NOV15NEDET-DET": {
+   "series": "KXNFLGAME",
+   "event": "New England vs Detroit",
+   "game_date": "2026-11-15",
+   "title": "Detroit wins",
+   "subtitle": "Detroit",
+   "path": [
+    {
+     "date": "2026-11-03",
+     "mid": 0.62,
+     "bid": 0.52,
+     "ask": 0.72,
+     "volume": 96.95
+    }
+   ],
+   "first": 0.62,
+   "latest": 0.62,
+   "high": 0.62,
+   "low": 0.62,
+   "change": 0.0
+  },
+  "KXNFLGAME-26NOV15NEDET-NE": {
+   "series": "KXNFLGAME",
+   "event": "New England vs Detroit",
+   "game_date": "2026-11-15",
+   "title": "New England wins",
+   "subtitle": "New England",
+   "path": [
+    {
+     "date": "2026-11-03",
+     "mid": 0.385,
+     "bid": 0.28,
+     "ask": 0.49,
+     "volume": 113.35
+    }
+   ],
+   "first": 0.385,
+   "latest": 0.385,
+   "high": 0.385,
+   "low": 0.385,
+   "change": 0.0
+  },
+  "KXNFLGAME-26NOV15PITCIN-CIN": {
+   "series": "KXNFLGAME",
+   "event": "Pittsburgh vs Cincinnati",
+   "game_date": "2026-11-15",
+   "title": "Cincinnati wins",
+   "subtitle": "Cincinnati",
+   "path": [
+    {
+     "date": "2026-11-03",
+     "mid": 0.61,
+     "bid": 0.6,
+     "ask": 0.62,
+     "volume": 11.56
+    }
+   ],
+   "first": 0.61,
+   "latest": 0.61,
+   "high": 0.61,
+   "low": 0.61,
+   "change": 0.0
+  },
+  "KXNFLGAME-26NOV15PITCIN-PIT": {
+   "series": "KXNFLGAME",
+   "event": "Pittsburgh vs Cincinnati",
+   "game_date": "2026-11-15",
+   "title": "Pittsburgh wins",
+   "subtitle": "Pittsburgh",
+   "path": [
+    {
+     "date": "2026-11-03",
+     "mid": 0.395,
+     "bid": 0.39,
+     "ask": 0.4,
+     "volume": 920.05
+    }
+   ],
+   "first": 0.395,
+   "latest": 0.395,
+   "high": 0.395,
+   "low": 0.395,
+   "change": 0.0
+  },
+  "KXNFLGAME-26NOV15SEALV-LV": {
+   "series": "KXNFLGAME",
+   "event": "Seattle vs Las Vegas",
+   "game_date": "2026-11-15",
+   "title": "Las Vegas wins",
+   "subtitle": "Las Vegas",
+   "path": [
+    {
+     "date": "2026-11-03",
+     "mid": 0.315,
+     "bid": 0.3,
+     "ask": 0.33,
+     "volume": 172.55
+    }
+   ],
+   "first": 0.315,
+   "latest": 0.315,
+   "high": 0.315,
+   "low": 0.315,
+   "change": 0.0
+  },
+  "KXNFLGAME-26NOV15SEALV-SEA": {
+   "series": "KXNFLGAME",
+   "event": "Seattle vs Las Vegas",
+   "game_date": "2026-11-15",
+   "title": "Seattle wins",
+   "subtitle": "Seattle",
+   "path": [
+    {
+     "date": "2026-11-03",
+     "mid": 0.69,
+     "bid": 0.67,
+     "ask": 0.71,
+     "volume": 247.51
+    }
+   ],
+   "first": 0.69,
+   "latest": 0.69,
+   "high": 0.69,
+   "low": 0.69,
+   "change": 0.0
+  },
+  "KXNFLGAME-26NOV15SFDAL-DAL": {
+   "series": "KXNFLGAME",
+   "event": "San Francisco vs Dallas",
+   "game_date": "2026-11-15",
+   "title": "Dallas wins",
+   "subtitle": "Dallas",
+   "path": [
+    {
+     "date": "2026-11-03",
+     "mid": 0.375,
+     "bid": 0.33,
+     "ask": 0.42,
+     "volume": 572.73
+    }
+   ],
+   "first": 0.375,
+   "latest": 0.375,
+   "high": 0.375,
+   "low": 0.375,
+   "change": 0.0
+  },
+  "KXNFLGAME-26NOV15SFDAL-SF": {
+   "series": "KXNFLGAME",
+   "event": "San Francisco vs Dallas",
+   "game_date": "2026-11-15",
+   "title": "San Francisco wins",
+   "subtitle": "San Francisco",
+   "path": [
+    {
+     "date": "2026-11-03",
+     "mid": 0.63,
+     "bid": 0.59,
+     "ask": 0.67,
+     "volume": 2033.64
+    }
+   ],
+   "first": 0.63,
+   "latest": 0.63,
+   "high": 0.63,
+   "low": 0.63,
+   "change": 0.0
+  },
+  "KXNFLGAME-26NOV16LACBAL-BAL": {
+   "series": "KXNFLGAME",
+   "event": "Los Angeles C vs Baltimore",
+   "game_date": "2026-11-16",
+   "title": "Baltimore wins",
+   "subtitle": "Baltimore",
+   "path": [
+    {
+     "date": "2026-11-03",
+     "mid": 0.52,
+     "bid": 0.51,
+     "ask": 0.53,
+     "volume": 16.17
+    }
+   ],
+   "first": 0.52,
+   "latest": 0.52,
+   "high": 0.52,
+   "low": 0.52,
+   "change": 0.0
+  },
+  "KXNFLGAME-26NOV16LACBAL-LAC": {
+   "series": "KXNFLGAME",
+   "event": "Los Angeles C vs Baltimore",
+   "game_date": "2026-11-16",
+   "title": "Los Angeles C wins",
+   "subtitle": "Los Angeles C",
+   "path": [
+    {
+     "date": "2026-11-03",
+     "mid": 0.485,
+     "bid": 0.46,
+     "ask": 0.51,
+     "volume": 20.66
+    }
+   ],
+   "first": 0.485,
+   "latest": 0.485,
+   "high": 0.485,
+   "low": 0.485,
+   "change": 0.0
+  }
+ }
+}
