@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07",
+ "updated": "2026-11-08",
  "days": [
   "2026-10-25",
   "2026-10-26",
@@ -14,24 +14,33 @@
   "2026-11-04",
   "2026-11-05",
   "2026-11-06",
-  "2026-11-07"
+  "2026-11-07",
+  "2026-11-08"
  ],
  "top_movers": [
+  {
+   "ticker": "KXNFLTRADE-26DEC01-TPOLLARD20",
+   "title": "Will Tony Pollard be traded before Dec 1, 2026?",
+   "subtitle": "Tony Pollard",
+   "first": 0.705,
+   "latest": 0.05,
+   "change": -0.655
+  },
   {
    "ticker": "KXNFLTRADE-26DEC01-KMACK52",
    "title": "Will Khalil Mack be traded before Dec 1, 2026?",
    "subtitle": "Khalil Mack",
    "first": 0.62,
-   "latest": 0.125,
-   "change": -0.495
+   "latest": 0.13,
+   "change": -0.49
   },
   {
    "ticker": "KXNFLTRADE-26DEC01-JBRO",
    "title": "Will Jonathon Brooks be traded before Dec 1, 2026?",
    "subtitle": "Jonathon Brooks",
    "first": 0.505,
-   "latest": 0.025,
-   "change": -0.48
+   "latest": 0.02,
+   "change": -0.485
   },
   {
    "ticker": "KXNFLTRADE-26DEC01-RDOW",
@@ -42,100 +51,84 @@
    "change": -0.475
   },
   {
-   "ticker": "KXNFLTRADE-26DEC01-TPOLLARD20",
-   "title": "Will Tony Pollard be traded before Dec 1, 2026?",
-   "subtitle": "Tony Pollard",
-   "first": 0.705,
-   "latest": 0.26,
-   "change": -0.445
+   "ticker": "KXNFLTRADE-26DEC01-CRIDLEY0",
+   "title": "Will Calvin Ridley be traded before Dec 1, 2026?",
+   "subtitle": "Calvin Ridley",
+   "first": 0.14,
+   "latest": 0.57,
+   "change": 0.43
   },
   {
    "ticker": "KXNFLTRADE-26DEC01-MLAT",
    "title": "Will Marshon Lattimore be traded before Dec 1, 2026?",
    "subtitle": "Marshon Lattimore",
    "first": 0.455,
-   "latest": 0.025,
-   "change": -0.43
-  },
-  {
-   "ticker": "KXNFLTRADE-26DEC01-RWOO",
-   "title": "Will Riq Woolen be traded before Dec 1, 2026?",
-   "subtitle": "Riq Woolen",
-   "first": 0.285,
-   "latest": 0.69,
-   "change": 0.405
-  },
-  {
-   "ticker": "KXNFLTRADE-26DEC01-CBAR",
-   "title": "Will Christian Barmore be traded before Dec 1, 2026?",
-   "subtitle": "Christian Barmore",
-   "first": 0.13,
-   "latest": 0.485,
-   "change": 0.355
+   "latest": 0.055,
+   "change": -0.4
   },
   {
    "ticker": "KXNFLTRADE-26DEC01-DHENRY22",
    "title": "Will Derrick Henry be traded before Dec 1, 2026?",
    "subtitle": "Derrick Henry",
    "first": 0.44,
-   "latest": 0.1,
-   "change": -0.34
+   "latest": 0.065,
+   "change": -0.375
   },
   {
    "ticker": "KXNFLTRADE-26DEC01-JCON",
    "title": "Will James Conner be traded before Dec 1, 2026?",
    "subtitle": "James Conner",
    "first": 0.51,
-   "latest": 0.18,
-   "change": -0.33
-  },
-  {
-   "ticker": "KXNFLTRADE-26DEC01-CRIDLEY0",
-   "title": "Will Calvin Ridley be traded before Dec 1, 2026?",
-   "subtitle": "Calvin Ridley",
-   "first": 0.14,
-   "latest": 0.465,
-   "change": 0.325
-  },
-  {
-   "ticker": "KXNFLTRADE-26DEC01-BTHO",
-   "title": "Will Brian Thomas Jr. be traded before Dec 1, 2026?",
-   "subtitle": "Brian Thomas Jr.",
-   "first": 0.685,
-   "latest": 0.365,
-   "change": -0.32
-  },
-  {
-   "ticker": "KXNFLTRADE-26DEC01-ARIC",
-   "title": "Will Anthony Richardson Sr. be traded before Dec 1, 2026?",
-   "subtitle": "Anthony Richardson Sr.",
-   "first": 0.445,
-   "latest": 0.195,
-   "change": -0.25
+   "latest": 0.25,
+   "change": -0.26
   },
   {
    "ticker": "KXNFLTRADE-26DEC01-SBAR",
    "title": "Will Saquon Barkley be traded before Dec 1, 2026?",
    "subtitle": "Saquon Barkley",
    "first": 0.275,
-   "latest": 0.045,
-   "change": -0.23
+   "latest": 0.025,
+   "change": -0.25
+  },
+  {
+   "ticker": "KXNFLTRADE-26DEC01-ARIC",
+   "title": "Will Anthony Richardson Sr. be traded before Dec 1, 2026?",
+   "subtitle": "Anthony Richardson Sr.",
+   "first": 0.445,
+   "latest": 0.2,
+   "change": -0.245
+  },
+  {
+   "ticker": "KXNFLTRADE-26DEC01-RWOO",
+   "title": "Will Riq Woolen be traded before Dec 1, 2026?",
+   "subtitle": "Riq Woolen",
+   "first": 0.285,
+   "latest": 0.53,
+   "change": 0.245
   },
   {
    "ticker": "KXNFLTRADE-26DEC01-MCRO",
    "title": "Will Maxx Crosby be traded before Dec 1, 2026?",
    "subtitle": "Maxx Crosby",
    "first": 0.26,
-   "latest": 0.035,
-   "change": -0.225
+   "latest": 0.03,
+   "change": -0.23
+  },
+  {
+   "ticker": "KXNFLTRADE-26DEC01-CBAR",
+   "title": "Will Christian Barmore be traded before Dec 1, 2026?",
+   "subtitle": "Christian Barmore",
+   "first": 0.13,
+   "latest": 0.355,
+   "change": 0.225
   },
   {
    "ticker": "KXNFLTRADE-26DEC01-JJEU",
    "title": "Will Jerry Jeudy be traded before Dec 1, 2026?",
    "subtitle": "Jerry Jeudy",
    "first": 0.4,
-   "latest": 0.19,
-   "change": -0.21
+   "latest": 0.195,
+   "change": -0.205
   },
   {
    "ticker": "KXNFLTRADE-26DEC01-LSNE",
@@ -154,20 +147,28 @@
    "change": -0.205
   },
   {
-   "ticker": "KXNFLTRADE-26DEC01-SGARDNER1",
-   "title": "Will Sauce Gardner be traded before Dec 1, 2026?",
-   "subtitle": "Sauce Gardner",
-   "first": 0.5,
-   "latest": 0.31,
-   "change": -0.19
-  },
-  {
    "ticker": "KXNFLTRADE-26DEC01-WMCD",
    "title": "Will Will McDonald IV be traded before Dec 1, 2026?",
    "subtitle": "Will McDonald IV",
    "first": 0.5,
-   "latest": 0.31,
-   "change": -0.19
+   "latest": 0.3,
+   "change": -0.2
+  },
+  {
+   "ticker": "KXNFLTRADE-26DEC01-BTHO",
+   "title": "Will Brian Thomas Jr. be traded before Dec 1, 2026?",
+   "subtitle": "Brian Thomas Jr.",
+   "first": 0.685,
+   "latest": 0.49,
+   "change": -0.195
+  },
+  {
+   "ticker": "KXNFLTRADE-26DEC01-SGARDNER1",
+   "title": "Will Sauce Gardner be traded before Dec 1, 2026?",
+   "subtitle": "Sauce Gardner",
+   "first": 0.5,
+   "latest": 0.315,
+   "change": -0.185
   },
   {
    "ticker": "KXNFLTRADE-26DEC01-SSAN",
@@ -178,6 +179,30 @@
    "change": -0.18
   },
   {
+   "ticker": "KXNFLTRADE-26DEC01-DJONES17",
+   "title": "Will Daniel Jones be traded before Dec 1, 2026?",
+   "subtitle": "Daniel Jones",
+   "first": 0.52,
+   "latest": 0.355,
+   "change": -0.165
+  },
+  {
+   "ticker": "KXNFLTRADE-26DEC01-BHAL",
+   "title": "Will Breece Hall be traded before Dec 1, 2026?",
+   "subtitle": "Breece Hall",
+   "first": 0.235,
+   "latest": 0.09,
+   "change": -0.145
+  },
+  {
+   "ticker": "KXNFLTRADE-26DEC01-KTHI",
+   "title": "Will Kayvon Thibodeaux be traded before Dec 1, 2026?",
+   "subtitle": "Kayvon Thibodeaux",
+   "first": 0.24,
+   "latest": 0.095,
+   "change": -0.145
+  },
+  {
    "ticker": "KXNFLTRADE-26DEC01-SDIG",
    "title": "Will Stefon Diggs be traded before Dec 1, 2026?",
    "subtitle": "Stefon Diggs",
@@ -186,28 +211,20 @@
    "change": -0.135
   },
   {
-   "ticker": "KXNFLTRADE-26DEC01-KTHI",
-   "title": "Will Kayvon Thibodeaux be traded before Dec 1, 2026?",
-   "subtitle": "Kayvon Thibodeaux",
-   "first": 0.24,
-   "latest": 0.11,
-   "change": -0.13
-  },
-  {
-   "ticker": "KXNFLTRADE-26DEC01-BBAK",
-   "title": "Will Budda Baker be traded before Dec 1, 2026?",
-   "subtitle": "Budda Baker",
-   "first": 0.135,
-   "latest": 0.26,
-   "change": 0.125
+   "ticker": "KXNFLTRADE-26DEC01-JDOWNS2",
+   "title": "Will Josh Downs be traded before Dec 1, 2026?",
+   "subtitle": "Josh Downs",
+   "first": 0.775,
+   "latest": 0.905,
+   "change": 0.13
   },
   {
    "ticker": "KXNFLTRADE-26DEC01-MCAR",
    "title": "Will Michael Carter II be traded before Dec 1, 2026?",
    "subtitle": "Michael Carter II",
    "first": 0.0,
-   "latest": 0.12,
-   "change": 0.12
+   "latest": 0.125,
+   "change": 0.125
   },
   {
    "ticker": "KXNFLTRADE-26DEC01-SRAT",
@@ -218,14 +235,6 @@
    "change": -0.12
   },
   {
-   "ticker": "KXNFLTRADE-26DEC01-BHAL",
-   "title": "Will Breece Hall be traded before Dec 1, 2026?",
-   "subtitle": "Breece Hall",
-   "first": 0.235,
-   "latest": 0.12,
-   "change": -0.115
-  },
-  {
    "ticker": "KXNFLTRADE-26DEC01-TSPEARS2",
    "title": "Will Tyjae Spears be traded before Dec 1, 2026?",
    "subtitle": "Tyjae Spears",
@@ -234,12 +243,20 @@
    "change": 0.115
   },
   {
-   "ticker": "KXNFLTRADE-26DEC01-DJONES17",
-   "title": "Will Daniel Jones be traded before Dec 1, 2026?",
-   "subtitle": "Daniel Jones",
-   "first": 0.52,
-   "latest": 0.435,
-   "change": -0.085
+   "ticker": "KXNFLTRADE-26DEC01-BBAK",
+   "title": "Will Budda Baker be traded before Dec 1, 2026?",
+   "subtitle": "Budda Baker",
+   "first": 0.135,
+   "latest": 0.24,
+   "change": 0.105
+  },
+  {
+   "ticker": "KXNFLTRADE-26DEC01-RBAT",
+   "title": "Will Rashod Bateman be traded before Dec 1, 2026?",
+   "subtitle": "Rashod Bateman",
+   "first": 0.095,
+   "latest": 0.185,
+   "change": 0.09
   },
   {
    "ticker": "KXNFLTRADE-26DEC01-GWIL",
@@ -250,44 +267,28 @@
    "change": -0.085
   },
   {
-   "ticker": "KXNFLTRADE-26DEC01-JDOWNS2",
-   "title": "Will Josh Downs be traded before Dec 1, 2026?",
-   "subtitle": "Josh Downs",
-   "first": 0.775,
-   "latest": 0.69,
-   "change": -0.085
-  },
-  {
-   "ticker": "KXNFLTRADE-26DEC01-RBAT",
-   "title": "Will Rashod Bateman be traded before Dec 1, 2026?",
-   "subtitle": "Rashod Bateman",
-   "first": 0.095,
-   "latest": 0.18,
-   "change": 0.085
-  },
-  {
    "ticker": "KXNFLTRADE-26DEC01-ENEA",
    "title": "Will Evan Neal be traded before Dec 1, 2026?",
    "subtitle": "Evan Neal",
    "first": 0.16,
-   "latest": 0.09,
-   "change": -0.07
+   "latest": 0.085,
+   "change": -0.075
   },
   {
    "ticker": "KXNFLTRADE-26DEC01-JBAT",
    "title": "Will Jessie Bates III be traded before Dec 1, 2026?",
    "subtitle": "Jessie Bates III",
    "first": 0.2,
-   "latest": 0.13,
-   "change": -0.07
+   "latest": 0.135,
+   "change": -0.065
   },
   {
    "ticker": "KXNFLTRADE-26DEC01-JTAYLOR28",
    "title": "Will Jonathan Taylor be traded before Dec 1, 2026?",
    "subtitle": "Jonathan Taylor",
    "first": 0.51,
-   "latest": 0.57,
-   "change": 0.06
+   "latest": 0.445,
+   "change": -0.065
   },
   {
    "ticker": "KXNFLTRADE-26DEC01-AJON",
@@ -295,14 +296,6 @@
    "subtitle": "Aaron Jones Sr.",
    "first": 0.2,
    "latest": 0.255,
-   "change": 0.055
-  },
-  {
-   "ticker": "KXNFLTRADE-26DEC01-JCAR",
-   "title": "Will Jalen Carter be traded before Dec 1, 2026?",
-   "subtitle": "Jalen Carter",
-   "first": 0.06,
-   "latest": 0.115,
    "change": 0.055
   },
   {
@@ -314,6 +307,14 @@
    "change": -0.055
   },
   {
+   "ticker": "KXNFLTRADE-26DEC01-CSKA",
+   "title": "Will Cam Skattebo be traded before Dec 1, 2026?",
+   "subtitle": "Cam Skattebo",
+   "first": 0.07,
+   "latest": 0.12,
+   "change": 0.05
+  },
+  {
    "ticker": "KXNFLTRADE-26DEC01-DLON",
    "title": "Will Drake London be traded before Dec 1, 2026?",
    "subtitle": "Drake London",
@@ -322,20 +323,12 @@
    "change": -0.05
   },
   {
-   "ticker": "KXNFLTRADE-26DEC01-KMUR",
-   "title": "Will Kyler Murray be traded before Dec 1, 2026?",
-   "subtitle": "Kyler Murray",
-   "first": 0.03,
-   "latest": 0.08,
-   "change": 0.05
-  },
-  {
-   "ticker": "KXNFLTRADE-26DEC01-TTAG",
-   "title": "Will Tua Tagovailoa be traded before Dec 1, 2026?",
-   "subtitle": "Tua Tagovailoa",
-   "first": 0.01,
-   "latest": 0.06,
-   "change": 0.05
+   "ticker": "KXNFLTRADE-26DEC01-JELL",
+   "title": "Will Jonah Elliss be traded before Dec 1, 2026?",
+   "subtitle": "Jonah Elliss",
+   "first": 0.21,
+   "latest": 0.16,
+   "change": -0.05
   },
   {
    "ticker": "KXNFLTRADE-26DEC01-AROD",
@@ -354,20 +347,28 @@
    "change": -0.045
   },
   {
-   "ticker": "KXNFLTRADE-26DEC01-ZJOH",
-   "title": "Will Zion Johnson be traded before Dec 1, 2026?",
-   "subtitle": "Zion Johnson",
-   "first": 0.0,
-   "latest": 0.045,
-   "change": 0.045
-  },
-  {
    "ticker": "KXNFLTRADE-26DEC01-JBUR",
    "title": "Will Joe Burrow be traded before Dec 1, 2026?",
    "subtitle": "Joe Burrow",
    "first": 0.05,
    "latest": 0.01,
    "change": -0.04
+  },
+  {
+   "ticker": "KXNFLTRADE-26DEC01-TTAG",
+   "title": "Will Tua Tagovailoa be traded before Dec 1, 2026?",
+   "subtitle": "Tua Tagovailoa",
+   "first": 0.01,
+   "latest": 0.05,
+   "change": 0.04
+  },
+  {
+   "ticker": "KXNFLTRADE-26DEC01-JCAR",
+   "title": "Will Jalen Carter be traded before Dec 1, 2026?",
+   "subtitle": "Jalen Carter",
+   "first": 0.06,
+   "latest": 0.095,
+   "change": 0.035
   },
   {
    "ticker": "KXNFLTRADE-26DEC01-KCOL",
@@ -378,44 +379,44 @@
    "change": -0.035
   },
   {
+   "ticker": "KXNFLTRADE-26DEC01-EOLI",
+   "title": "Will Ed Oliver be traded before Dec 1, 2026?",
+   "subtitle": "Ed Oliver",
+   "first": 0.05,
+   "latest": 0.02,
+   "change": -0.03
+  },
+  {
+   "ticker": "KXNFLTRADE-26DEC01-KMUR",
+   "title": "Will Kyler Murray be traded before Dec 1, 2026?",
+   "subtitle": "Kyler Murray",
+   "first": 0.03,
+   "latest": 0.06,
+   "change": 0.03
+  },
+  {
    "ticker": "KXNFLTRADE-26DEC01-MJON",
    "title": "Will Mac Jones be traded before Dec 1, 2026?",
    "subtitle": "Mac Jones",
    "first": 0.11,
-   "latest": 0.075,
-   "change": -0.035
+   "latest": 0.08,
+   "change": -0.03
+  },
+  {
+   "ticker": "KXNFLTRADE-26DEC01-ZJOH",
+   "title": "Will Zion Johnson be traded before Dec 1, 2026?",
+   "subtitle": "Zion Johnson",
+   "first": 0.0,
+   "latest": 0.03,
+   "change": 0.03
   },
   {
    "ticker": "KXNFLTRADE-26DEC01-JRAM",
    "title": "Will Jalen Ramsey be traded before Dec 1, 2026?",
    "subtitle": "Jalen Ramsey",
    "first": 0.01,
-   "latest": 0.04,
-   "change": 0.03
-  },
-  {
-   "ticker": "KXNFLTRADE-26DEC01-EOLI",
-   "title": "Will Ed Oliver be traded before Dec 1, 2026?",
-   "subtitle": "Ed Oliver",
-   "first": 0.05,
-   "latest": 0.025,
-   "change": -0.025
-  },
-  {
-   "ticker": "KXNFLTRADE-26DEC01-THEN",
-   "title": "Will Trey Hendrickson be traded before Dec 1, 2026?",
-   "subtitle": "Trey Hendrickson",
-   "first": 0.04,
-   "latest": 0.015,
-   "change": -0.025
-  },
-  {
-   "ticker": "KXNFLTRADE-26DEC01-JELL",
-   "title": "Will Jonah Elliss be traded before Dec 1, 2026?",
-   "subtitle": "Jonah Elliss",
-   "first": 0.21,
-   "latest": 0.23,
-   "change": 0.02
+   "latest": 0.035,
+   "change": 0.025
   }
  ],
  "markets": {
@@ -519,6 +520,13 @@
     },
     {
      "date": "2026-11-07",
+     "mid": 0.255,
+     "bid": 0.08,
+     "ask": 0.43,
+     "volume": 898.37
+    },
+    {
+     "date": "2026-11-08",
      "mid": 0.255,
      "bid": 0.08,
      "ask": 0.43,
@@ -635,13 +643,20 @@
      "bid": 0.07,
      "ask": 0.32,
      "volume": 4557.35
+    },
+    {
+     "date": "2026-11-08",
+     "mid": 0.2,
+     "bid": 0.08,
+     "ask": 0.32,
+     "volume": 4559.69
     }
    ],
    "first": 0.445,
-   "latest": 0.195,
+   "latest": 0.2,
    "high": 0.545,
    "low": 0.175,
-   "change": -0.25
+   "change": -0.245
   },
   "KXNFLTRADE-26DEC01-AROD": {
    "series": "KXNFLTRADE",
@@ -747,6 +762,13 @@
      "bid": 0.01,
      "ask": 0.02,
      "volume": 315.91
+    },
+    {
+     "date": "2026-11-08",
+     "mid": 0.015,
+     "bid": 0.01,
+     "ask": 0.02,
+     "volume": 1664.0
     }
    ],
    "first": 0.06,
@@ -859,13 +881,20 @@
      "bid": 0.09,
      "ask": 0.1,
      "volume": 29937.5
+    },
+    {
+     "date": "2026-11-08",
+     "mid": 0.09,
+     "bid": 0.08,
+     "ask": 0.1,
+     "volume": 30654.5
     }
    ],
    "first": 0.08,
-   "latest": 0.095,
+   "latest": 0.09,
    "high": 0.38,
    "low": 0.015,
-   "change": 0.015
+   "change": 0.01
   },
   "KXNFLTRADE-26DEC01-BBAK": {
    "series": "KXNFLTRADE",
@@ -971,13 +1000,20 @@
      "bid": 0.11,
      "ask": 0.41,
      "volume": 899.84
+    },
+    {
+     "date": "2026-11-08",
+     "mid": 0.24,
+     "bid": 0.12,
+     "ask": 0.36,
+     "volume": 904.84
     }
    ],
    "first": 0.135,
-   "latest": 0.26,
+   "latest": 0.24,
    "high": 0.63,
    "low": 0.135,
-   "change": 0.125
+   "change": 0.105
   },
   "KXNFLTRADE-26DEC01-BHAL": {
    "series": "KXNFLTRADE",
@@ -1083,13 +1119,20 @@
      "bid": 0.11,
      "ask": 0.13,
      "volume": 29657.92
+    },
+    {
+     "date": "2026-11-08",
+     "mid": 0.09,
+     "bid": 0.07,
+     "ask": 0.11,
+     "volume": 30503.19
     }
    ],
    "first": 0.235,
-   "latest": 0.12,
+   "latest": 0.09,
    "high": 0.485,
-   "low": 0.12,
-   "change": -0.115
+   "low": 0.09,
+   "change": -0.145
   },
   "KXNFLTRADE-26DEC01-BTHO": {
    "series": "KXNFLTRADE",
@@ -1195,13 +1238,20 @@
      "bid": 0.36,
      "ask": 0.37,
      "volume": 47812.79
+    },
+    {
+     "date": "2026-11-08",
+     "mid": 0.49,
+     "bid": 0.48,
+     "ask": 0.5,
+     "volume": 56459.71
     }
    ],
    "first": 0.685,
-   "latest": 0.365,
+   "latest": 0.49,
    "high": 0.685,
    "low": 0.365,
-   "change": -0.32
+   "change": -0.195
   },
   "KXNFLTRADE-26DEC01-CBAR": {
    "series": "KXNFLTRADE",
@@ -1307,13 +1357,20 @@
      "bid": 0.45,
      "ask": 0.52,
      "volume": 2288.72
+    },
+    {
+     "date": "2026-11-08",
+     "mid": 0.355,
+     "bid": 0.3,
+     "ask": 0.41,
+     "volume": 2432.72
     }
    ],
    "first": 0.13,
-   "latest": 0.485,
+   "latest": 0.355,
    "high": 0.485,
    "low": 0.13,
-   "change": 0.355
+   "change": 0.225
   },
   "KXNFLTRADE-26DEC01-CRIDLEY0": {
    "series": "KXNFLTRADE",
@@ -1391,13 +1448,20 @@
      "bid": 0.24,
      "ask": 0.69,
      "volume": 444.19
+    },
+    {
+     "date": "2026-11-08",
+     "mid": 0.57,
+     "bid": 0.54,
+     "ask": 0.6,
+     "volume": 873.2
     }
    ],
    "first": 0.14,
-   "latest": 0.465,
-   "high": 0.555,
+   "latest": 0.57,
+   "high": 0.57,
    "low": 0.14,
-   "change": 0.325
+   "change": 0.43
   },
   "KXNFLTRADE-26DEC01-CSKA": {
    "series": "KXNFLTRADE",
@@ -1503,13 +1567,20 @@
      "bid": 0.04,
      "ask": 0.08,
      "volume": 881.33
+    },
+    {
+     "date": "2026-11-08",
+     "mid": 0.12,
+     "bid": 0.05,
+     "ask": 0.19,
+     "volume": 998.76
     }
    ],
    "first": 0.07,
-   "latest": 0.06,
+   "latest": 0.12,
    "high": 0.465,
    "low": 0.055,
-   "change": -0.01
+   "change": 0.05
   },
   "KXNFLTRADE-26DEC01-DACH": {
    "series": "KXNFLTRADE",
@@ -1615,6 +1686,13 @@
      "bid": 0.01,
      "ask": 0.02,
      "volume": 1337.27
+    },
+    {
+     "date": "2026-11-08",
+     "mid": 0.015,
+     "bid": 0.01,
+     "ask": 0.02,
+     "volume": 1337.27
     }
    ],
    "first": 0.02,
@@ -1657,13 +1735,20 @@
      "bid": 0.01,
      "ask": 0.19,
      "volume": 2244.85
+    },
+    {
+     "date": "2026-11-08",
+     "mid": 0.065,
+     "bid": 0.04,
+     "ask": 0.09,
+     "volume": 4306.28
     }
    ],
    "first": 0.44,
-   "latest": 0.1,
+   "latest": 0.065,
    "high": 0.44,
-   "low": 0.1,
-   "change": -0.34
+   "low": 0.065,
+   "change": -0.375
   },
   "KXNFLTRADE-26DEC01-DJONES17": {
    "series": "KXNFLTRADE",
@@ -1699,13 +1784,20 @@
      "bid": 0.24,
      "ask": 0.63,
      "volume": 4266.81
+    },
+    {
+     "date": "2026-11-08",
+     "mid": 0.355,
+     "bid": 0.3,
+     "ask": 0.41,
+     "volume": 5194.62
     }
    ],
    "first": 0.52,
-   "latest": 0.435,
+   "latest": 0.355,
    "high": 0.52,
-   "low": 0.43,
-   "change": -0.085
+   "low": 0.355,
+   "change": -0.165
   },
   "KXNFLTRADE-26DEC01-DLON": {
    "series": "KXNFLTRADE",
@@ -1807,6 +1899,13 @@
     },
     {
      "date": "2026-11-07",
+     "mid": 0.015,
+     "bid": 0.01,
+     "ask": 0.02,
+     "volume": 2091.74
+    },
+    {
+     "date": "2026-11-08",
      "mid": 0.015,
      "bid": 0.01,
      "ask": 0.02,
@@ -1923,13 +2022,20 @@
      "bid": 0.02,
      "ask": 0.16,
      "volume": 1648.14
+    },
+    {
+     "date": "2026-11-08",
+     "mid": 0.085,
+     "bid": 0.02,
+     "ask": 0.15,
+     "volume": 1648.14
     }
    ],
    "first": 0.16,
-   "latest": 0.09,
+   "latest": 0.085,
    "high": 0.175,
-   "low": 0.09,
-   "change": -0.07
+   "low": 0.085,
+   "change": -0.075
   },
   "KXNFLTRADE-26DEC01-EOLI": {
    "series": "KXNFLTRADE",
@@ -2035,13 +2141,20 @@
      "bid": 0.02,
      "ask": 0.03,
      "volume": 1010.0
+    },
+    {
+     "date": "2026-11-08",
+     "mid": 0.02,
+     "bid": 0.01,
+     "ask": 0.03,
+     "volume": 1010.0
     }
    ],
    "first": 0.05,
-   "latest": 0.025,
+   "latest": 0.02,
    "high": 0.05,
-   "low": 0.025,
-   "change": -0.025
+   "low": 0.02,
+   "change": -0.03
   },
   "KXNFLTRADE-26DEC01-FWAR": {
    "series": "KXNFLTRADE",
@@ -2147,13 +2260,20 @@
      "bid": 0.01,
      "ask": 0.02,
      "volume": 20987.92
+    },
+    {
+     "date": "2026-11-08",
+     "mid": 0.01,
+     "bid": 0.0,
+     "ask": 0.01,
+     "volume": 23987.92
     }
    ],
    "first": 0.02,
-   "latest": 0.015,
+   "latest": 0.01,
    "high": 0.075,
    "low": 0.01,
-   "change": -0.005
+   "change": -0.01
   },
   "KXNFLTRADE-26DEC01-GKIT": {
    "series": "KXNFLTRADE",
@@ -2259,13 +2379,20 @@
      "bid": 0.01,
      "ask": 0.02,
      "volume": 655.31
+    },
+    {
+     "date": "2026-11-08",
+     "mid": 0.01,
+     "bid": 0.0,
+     "ask": 0.01,
+     "volume": 2134.31
     }
    ],
    "first": 0.015,
-   "latest": 0.015,
+   "latest": 0.01,
    "high": 0.015,
-   "low": 0.015,
-   "change": 0.0
+   "low": 0.01,
+   "change": -0.005
   },
   "KXNFLTRADE-26DEC01-GWIL": {
    "series": "KXNFLTRADE",
@@ -2371,6 +2498,13 @@
      "bid": 0.07,
      "ask": 0.08,
      "volume": 31813.33
+    },
+    {
+     "date": "2026-11-08",
+     "mid": 0.075,
+     "bid": 0.07,
+     "ask": 0.08,
+     "volume": 32084.9
     }
    ],
    "first": 0.16,
@@ -2483,13 +2617,20 @@
      "bid": 0.09,
      "ask": 0.17,
      "volume": 1151.89
+    },
+    {
+     "date": "2026-11-08",
+     "mid": 0.135,
+     "bid": 0.1,
+     "ask": 0.17,
+     "volume": 1151.89
     }
    ],
    "first": 0.2,
-   "latest": 0.13,
+   "latest": 0.135,
    "high": 0.245,
    "low": 0.11,
-   "change": -0.07
+   "change": -0.065
   },
   "KXNFLTRADE-26DEC01-JBIT": {
    "series": "KXNFLTRADE",
@@ -2595,13 +2736,20 @@
      "bid": 0.01,
      "ask": 0.02,
      "volume": 2977.0
+    },
+    {
+     "date": "2026-11-08",
+     "mid": 0.01,
+     "bid": 0.0,
+     "ask": 0.02,
+     "volume": 4432.0
     }
    ],
    "first": 0.01,
-   "latest": 0.015,
+   "latest": 0.01,
    "high": 0.03,
    "low": 0.01,
-   "change": 0.005
+   "change": 0.0
   },
   "KXNFLTRADE-26DEC01-JBRO": {
    "series": "KXNFLTRADE",
@@ -2707,13 +2855,20 @@
      "bid": 0.02,
      "ask": 0.03,
      "volume": 1049.95
+    },
+    {
+     "date": "2026-11-08",
+     "mid": 0.02,
+     "bid": 0.01,
+     "ask": 0.03,
+     "volume": 1049.95
     }
    ],
    "first": 0.505,
-   "latest": 0.025,
+   "latest": 0.02,
    "high": 0.505,
-   "low": 0.025,
-   "change": -0.48
+   "low": 0.02,
+   "change": -0.485
   },
   "KXNFLTRADE-26DEC01-JBUR": {
    "series": "KXNFLTRADE",
@@ -2815,6 +2970,13 @@
     },
     {
      "date": "2026-11-07",
+     "mid": 0.01,
+     "bid": 0.0,
+     "ask": 0.01,
+     "volume": 9059.14
+    },
+    {
+     "date": "2026-11-08",
      "mid": 0.01,
      "bid": 0.0,
      "ask": 0.01,
@@ -2931,13 +3093,20 @@
      "bid": 0.11,
      "ask": 0.12,
      "volume": 9817.86
+    },
+    {
+     "date": "2026-11-08",
+     "mid": 0.095,
+     "bid": 0.08,
+     "ask": 0.11,
+     "volume": 11599.01
     }
    ],
    "first": 0.06,
-   "latest": 0.115,
+   "latest": 0.095,
    "high": 0.18,
    "low": 0.055,
-   "change": 0.055
+   "change": 0.035
   },
   "KXNFLTRADE-26DEC01-JCHA": {
    "series": "KXNFLTRADE",
@@ -3043,13 +3212,20 @@
      "bid": 0.01,
      "ask": 0.02,
      "volume": 622.67
+    },
+    {
+     "date": "2026-11-08",
+     "mid": 0.01,
+     "bid": 0.0,
+     "ask": 0.01,
+     "volume": 8948.31
     }
    ],
    "first": 0.02,
-   "latest": 0.015,
+   "latest": 0.01,
    "high": 0.025,
-   "low": 0.015,
-   "change": -0.005
+   "low": 0.01,
+   "change": -0.01
   },
   "KXNFLTRADE-26DEC01-JCON": {
    "series": "KXNFLTRADE",
@@ -3155,13 +3331,20 @@
      "bid": 0.06,
      "ask": 0.3,
      "volume": 250.0
+    },
+    {
+     "date": "2026-11-08",
+     "mid": 0.25,
+     "bid": 0.07,
+     "ask": 0.43,
+     "volume": 250.0
     }
    ],
    "first": 0.51,
-   "latest": 0.18,
+   "latest": 0.25,
    "high": 0.53,
    "low": 0.09,
-   "change": -0.33
+   "change": -0.26
   },
   "KXNFLTRADE-26DEC01-JDOWNS2": {
    "series": "KXNFLTRADE",
@@ -3197,13 +3380,20 @@
      "bid": 0.59,
      "ask": 0.79,
      "volume": 1147.82
+    },
+    {
+     "date": "2026-11-08",
+     "mid": 0.905,
+     "bid": 0.82,
+     "ask": 0.99,
+     "volume": 1784.88
     }
    ],
    "first": 0.775,
-   "latest": 0.69,
-   "high": 0.81,
+   "latest": 0.905,
+   "high": 0.905,
    "low": 0.69,
-   "change": -0.085
+   "change": 0.13
   },
   "KXNFLTRADE-26DEC01-JELL": {
    "series": "KXNFLTRADE",
@@ -3309,13 +3499,20 @@
      "bid": 0.03,
      "ask": 0.43,
      "volume": 654.38
+    },
+    {
+     "date": "2026-11-08",
+     "mid": 0.16,
+     "bid": 0.04,
+     "ask": 0.28,
+     "volume": 654.38
     }
    ],
    "first": 0.21,
-   "latest": 0.23,
+   "latest": 0.16,
    "high": 0.565,
    "low": 0.12,
-   "change": 0.02
+   "change": -0.05
   },
   "KXNFLTRADE-26DEC01-JJEF": {
    "series": "KXNFLTRADE",
@@ -3421,13 +3618,20 @@
      "bid": 0.02,
      "ask": 0.03,
      "volume": 16108.06
+    },
+    {
+     "date": "2026-11-08",
+     "mid": 0.01,
+     "bid": 0.0,
+     "ask": 0.01,
+     "volume": 21679.87
     }
    ],
    "first": 0.03,
-   "latest": 0.025,
+   "latest": 0.01,
    "high": 0.075,
-   "low": 0.015,
-   "change": -0.005
+   "low": 0.01,
+   "change": -0.02
   },
   "KXNFLTRADE-26DEC01-JJENNINGS14": {
    "series": "KXNFLTRADE",
@@ -3459,6 +3663,13 @@
     },
     {
      "date": "2026-11-07",
+     "mid": 0.505,
+     "bid": 0.03,
+     "ask": 0.98,
+     "volume": 0.0
+    },
+    {
+     "date": "2026-11-08",
      "mid": 0.505,
      "bid": 0.03,
      "ask": 0.98,
@@ -3575,13 +3786,20 @@
      "bid": 0.1,
      "ask": 0.28,
      "volume": 2150.18
+    },
+    {
+     "date": "2026-11-08",
+     "mid": 0.195,
+     "bid": 0.11,
+     "ask": 0.28,
+     "volume": 2150.18
     }
    ],
    "first": 0.4,
-   "latest": 0.19,
+   "latest": 0.195,
    "high": 0.425,
    "low": 0.19,
-   "change": -0.21
+   "change": -0.205
   },
   "KXNFLTRADE-26DEC01-JMCC": {
    "series": "KXNFLTRADE",
@@ -3683,6 +3901,13 @@
     },
     {
      "date": "2026-11-07",
+     "mid": 0.98,
+     "bid": 0.0,
+     "ask": 1.0,
+     "volume": 8416.87
+    },
+    {
+     "date": "2026-11-08",
      "mid": 0.98,
      "bid": 0.0,
      "ask": 1.0,
@@ -3799,6 +4024,13 @@
      "bid": 0.01,
      "ask": 0.02,
      "volume": 12753.29
+    },
+    {
+     "date": "2026-11-08",
+     "mid": 0.015,
+     "bid": 0.01,
+     "ask": 0.02,
+     "volume": 13054.34
     }
    ],
    "first": 0.01,
@@ -3907,6 +4139,13 @@
     },
     {
      "date": "2026-11-07",
+     "mid": 0.97,
+     "bid": 0.0,
+     "ask": 1.0,
+     "volume": 3108.11
+    },
+    {
+     "date": "2026-11-08",
      "mid": 0.97,
      "bid": 0.0,
      "ask": 1.0,
@@ -4023,13 +4262,20 @@
      "bid": 0.02,
      "ask": 0.06,
      "volume": 292.44
+    },
+    {
+     "date": "2026-11-08",
+     "mid": 0.035,
+     "bid": 0.01,
+     "ask": 0.06,
+     "volume": 292.44
     }
    ],
    "first": 0.01,
-   "latest": 0.04,
+   "latest": 0.035,
    "high": 0.51,
    "low": 0.01,
-   "change": 0.03
+   "change": 0.025
   },
   "KXNFLTRADE-26DEC01-JSWEAT10": {
    "series": "KXNFLTRADE",
@@ -4065,13 +4311,20 @@
      "bid": 0.11,
      "ask": 0.98,
      "volume": 0.0
+    },
+    {
+     "date": "2026-11-08",
+     "mid": 0.55,
+     "bid": 0.12,
+     "ask": 0.98,
+     "volume": 0.0
     }
    ],
    "first": 0.55,
-   "latest": 0.545,
+   "latest": 0.55,
    "high": 0.55,
    "low": 0.545,
-   "change": -0.005
+   "change": 0.0
   },
   "KXNFLTRADE-26DEC01-JTAYLOR28": {
    "series": "KXNFLTRADE",
@@ -4163,13 +4416,20 @@
      "bid": 0.55,
      "ask": 0.59,
      "volume": 34470.66
+    },
+    {
+     "date": "2026-11-08",
+     "mid": 0.445,
+     "bid": 0.44,
+     "ask": 0.45,
+     "volume": 45679.15
     }
    ],
    "first": 0.51,
-   "latest": 0.57,
+   "latest": 0.445,
    "high": 0.865,
-   "low": 0.51,
-   "change": 0.06
+   "low": 0.445,
+   "change": -0.065
   },
   "KXNFLTRADE-26DEC01-JWIN": {
    "series": "KXNFLTRADE",
@@ -4275,13 +4535,20 @@
      "bid": 0.03,
      "ask": 0.12,
      "volume": 2264.47
+    },
+    {
+     "date": "2026-11-08",
+     "mid": 0.065,
+     "bid": 0.04,
+     "ask": 0.09,
+     "volume": 2264.47
     }
    ],
    "first": 0.09,
-   "latest": 0.075,
+   "latest": 0.065,
    "high": 0.095,
    "low": 0.025,
-   "change": -0.015
+   "change": -0.025
   },
   "KXNFLTRADE-26DEC01-KCOL": {
    "series": "KXNFLTRADE",
@@ -4387,6 +4654,13 @@
      "bid": 0.02,
      "ask": 0.03,
      "volume": 52.0
+    },
+    {
+     "date": "2026-11-08",
+     "mid": 0.025,
+     "bid": 0.02,
+     "ask": 0.03,
+     "volume": 52.0
     }
    ],
    "first": 0.06,
@@ -4429,13 +4703,20 @@
      "bid": 0.05,
      "ask": 0.2,
      "volume": 1205.36
+    },
+    {
+     "date": "2026-11-08",
+     "mid": 0.13,
+     "bid": 0.05,
+     "ask": 0.21,
+     "volume": 1209.87
     }
    ],
    "first": 0.62,
-   "latest": 0.125,
+   "latest": 0.13,
    "high": 0.62,
    "low": 0.125,
-   "change": -0.495
+   "change": -0.49
   },
   "KXNFLTRADE-26DEC01-KMUR": {
    "series": "KXNFLTRADE",
@@ -4541,13 +4822,20 @@
      "bid": 0.04,
      "ask": 0.12,
      "volume": 17918.58
+    },
+    {
+     "date": "2026-11-08",
+     "mid": 0.06,
+     "bid": 0.01,
+     "ask": 0.11,
+     "volume": 17925.32
     }
    ],
    "first": 0.03,
-   "latest": 0.08,
+   "latest": 0.06,
    "high": 0.215,
    "low": 0.015,
-   "change": 0.05
+   "change": 0.03
   },
   "KXNFLTRADE-26DEC01-KTHI": {
    "series": "KXNFLTRADE",
@@ -4653,13 +4941,20 @@
      "bid": 0.07,
      "ask": 0.15,
      "volume": 5353.98
+    },
+    {
+     "date": "2026-11-08",
+     "mid": 0.095,
+     "bid": 0.09,
+     "ask": 0.1,
+     "volume": 5353.98
     }
    ],
    "first": 0.24,
-   "latest": 0.11,
+   "latest": 0.095,
    "high": 0.385,
    "low": 0.075,
-   "change": -0.13
+   "change": -0.145
   },
   "KXNFLTRADE-26DEC01-KWIL": {
    "series": "KXNFLTRADE",
@@ -4765,6 +5060,13 @@
      "bid": 0.01,
      "ask": 0.04,
      "volume": 1027.36
+    },
+    {
+     "date": "2026-11-08",
+     "mid": 0.025,
+     "bid": 0.01,
+     "ask": 0.04,
+     "volume": 1050.78
     }
    ],
    "first": 0.07,
@@ -4873,6 +5175,13 @@
     },
     {
      "date": "2026-11-07",
+     "mid": 0.055,
+     "bid": 0.05,
+     "ask": 0.06,
+     "volume": 1317.19
+    },
+    {
+     "date": "2026-11-08",
      "mid": 0.055,
      "bid": 0.05,
      "ask": 0.06,
@@ -4989,6 +5298,13 @@
      "bid": 0.01,
      "ask": 0.02,
      "volume": 312.77
+    },
+    {
+     "date": "2026-11-08",
+     "mid": 0.015,
+     "bid": 0.01,
+     "ask": 0.02,
+     "volume": 312.77
     }
    ],
    "first": 0.22,
@@ -5101,13 +5417,20 @@
      "bid": 0.05,
      "ask": 0.19,
      "volume": 0.0
+    },
+    {
+     "date": "2026-11-08",
+     "mid": 0.125,
+     "bid": 0.06,
+     "ask": 0.19,
+     "volume": 0.0
     }
    ],
    "first": 0.0,
-   "latest": 0.12,
-   "high": 0.12,
+   "latest": 0.125,
+   "high": 0.125,
    "low": 0.0,
-   "change": 0.12
+   "change": 0.125
   },
   "KXNFLTRADE-26DEC01-MCRO": {
    "series": "KXNFLTRADE",
@@ -5213,13 +5536,20 @@
      "bid": 0.03,
      "ask": 0.04,
      "volume": 34558.75
+    },
+    {
+     "date": "2026-11-08",
+     "mid": 0.03,
+     "bid": 0.02,
+     "ask": 0.04,
+     "volume": 34849.23
     }
    ],
    "first": 0.26,
-   "latest": 0.035,
+   "latest": 0.03,
    "high": 0.29,
-   "low": 0.035,
-   "change": -0.225
+   "low": 0.03,
+   "change": -0.23
   },
   "KXNFLTRADE-26DEC01-MHAR": {
    "series": "KXNFLTRADE",
@@ -5321,6 +5651,13 @@
     },
     {
      "date": "2026-11-07",
+     "mid": 0.98,
+     "bid": 0.0,
+     "ask": 1.0,
+     "volume": 10706.43
+    },
+    {
+     "date": "2026-11-08",
      "mid": 0.98,
      "bid": 0.0,
      "ask": 1.0,
@@ -5437,13 +5774,20 @@
      "bid": 0.05,
      "ask": 0.1,
      "volume": 10824.17
+    },
+    {
+     "date": "2026-11-08",
+     "mid": 0.08,
+     "bid": 0.06,
+     "ask": 0.1,
+     "volume": 10824.17
     }
    ],
    "first": 0.11,
-   "latest": 0.075,
+   "latest": 0.08,
    "high": 0.36,
    "low": 0.05,
-   "change": -0.035
+   "change": -0.03
   },
   "KXNFLTRADE-26DEC01-MLAT": {
    "series": "KXNFLTRADE",
@@ -5549,13 +5893,20 @@
      "bid": 0.02,
      "ask": 0.03,
      "volume": 479.0
+    },
+    {
+     "date": "2026-11-08",
+     "mid": 0.055,
+     "bid": 0.01,
+     "ask": 0.1,
+     "volume": 479.0
     }
    ],
    "first": 0.455,
-   "latest": 0.025,
+   "latest": 0.055,
    "high": 0.505,
    "low": 0.01,
-   "change": -0.43
+   "change": -0.4
   },
   "KXNFLTRADE-26DEC01-NCOL": {
    "series": "KXNFLTRADE",
@@ -5661,6 +6012,13 @@
      "bid": 0.01,
      "ask": 0.03,
      "volume": 7822.52
+    },
+    {
+     "date": "2026-11-08",
+     "mid": 0.02,
+     "bid": 0.01,
+     "ask": 0.03,
+     "volume": 7839.06
     }
    ],
    "first": 0.03,
@@ -5769,6 +6127,13 @@
     },
     {
      "date": "2026-11-07",
+     "mid": 0.015,
+     "bid": 0.01,
+     "ask": 0.02,
+     "volume": 3068.64
+    },
+    {
+     "date": "2026-11-08",
      "mid": 0.015,
      "bid": 0.01,
      "ask": 0.02,
@@ -5885,13 +6250,20 @@
      "bid": 0.05,
      "ask": 0.11,
      "volume": 70.0
+    },
+    {
+     "date": "2026-11-08",
+     "mid": 0.085,
+     "bid": 0.06,
+     "ask": 0.11,
+     "volume": 70.0
     }
    ],
    "first": 0.07,
-   "latest": 0.08,
+   "latest": 0.085,
    "high": 0.105,
    "low": 0.07,
-   "change": 0.01
+   "change": 0.015
   },
   "KXNFLTRADE-26DEC01-RBAT": {
    "series": "KXNFLTRADE",
@@ -5997,13 +6369,20 @@
      "bid": 0.13,
      "ask": 0.23,
      "volume": 1462.14
+    },
+    {
+     "date": "2026-11-08",
+     "mid": 0.185,
+     "bid": 0.14,
+     "ask": 0.23,
+     "volume": 1462.14
     }
    ],
    "first": 0.095,
-   "latest": 0.18,
+   "latest": 0.185,
    "high": 0.525,
    "low": 0.09,
-   "change": 0.085
+   "change": 0.09
   },
   "KXNFLTRADE-26DEC01-RDOW": {
    "series": "KXNFLTRADE",
@@ -6109,6 +6488,13 @@
      "bid": 0.01,
      "ask": 0.04,
      "volume": 1148.33
+    },
+    {
+     "date": "2026-11-08",
+     "mid": 0.025,
+     "bid": 0.01,
+     "ask": 0.04,
+     "volume": 1159.67
     }
    ],
    "first": 0.5,
@@ -6217,6 +6603,13 @@
     },
     {
      "date": "2026-11-07",
+     "mid": 0.07,
+     "bid": 0.05,
+     "ask": 0.09,
+     "volume": 1071.01
+    },
+    {
+     "date": "2026-11-08",
      "mid": 0.07,
      "bid": 0.05,
      "ask": 0.09,
@@ -6333,13 +6726,20 @@
      "bid": 0.57,
      "ask": 0.81,
      "volume": 5079.02
+    },
+    {
+     "date": "2026-11-08",
+     "mid": 0.53,
+     "bid": 0.48,
+     "ask": 0.58,
+     "volume": 5605.49
     }
    ],
    "first": 0.285,
-   "latest": 0.69,
+   "latest": 0.53,
    "high": 0.69,
    "low": 0.245,
-   "change": 0.405
+   "change": 0.245
   },
   "KXNFLTRADE-26DEC01-SBAR": {
    "series": "KXNFLTRADE",
@@ -6445,13 +6845,20 @@
      "bid": 0.04,
      "ask": 0.05,
      "volume": 31996.68
+    },
+    {
+     "date": "2026-11-08",
+     "mid": 0.025,
+     "bid": 0.02,
+     "ask": 0.03,
+     "volume": 32799.68
     }
    ],
    "first": 0.275,
-   "latest": 0.045,
+   "latest": 0.025,
    "high": 0.275,
    "low": 0.025,
-   "change": -0.23
+   "change": -0.25
   },
   "KXNFLTRADE-26DEC01-SDIG": {
    "series": "KXNFLTRADE",
@@ -6557,6 +6964,13 @@
      "bid": 0.03,
      "ask": 0.2,
      "volume": 5991.63
+    },
+    {
+     "date": "2026-11-08",
+     "mid": 0.115,
+     "bid": 0.04,
+     "ask": 0.19,
+     "volume": 5991.63
     }
    ],
    "first": 0.25,
@@ -6655,13 +7069,20 @@
      "bid": 0.07,
      "ask": 0.55,
      "volume": 23.84
+    },
+    {
+     "date": "2026-11-08",
+     "mid": 0.315,
+     "bid": 0.08,
+     "ask": 0.55,
+     "volume": 23.84
     }
    ],
    "first": 0.5,
-   "latest": 0.31,
+   "latest": 0.315,
    "high": 0.5,
    "low": 0.0,
-   "change": -0.19
+   "change": -0.185
   },
   "KXNFLTRADE-26DEC01-SRAT": {
    "series": "KXNFLTRADE",
@@ -6763,6 +7184,13 @@
     },
     {
      "date": "2026-11-07",
+     "mid": 0.415,
+     "bid": 0.08,
+     "ask": 0.75,
+     "volume": 790.48
+    },
+    {
+     "date": "2026-11-08",
      "mid": 0.415,
      "bid": 0.08,
      "ask": 0.75,
@@ -6879,6 +7307,13 @@
      "bid": 0.02,
      "ask": 0.03,
      "volume": 5074.87
+    },
+    {
+     "date": "2026-11-08",
+     "mid": 0.025,
+     "bid": 0.01,
+     "ask": 0.04,
+     "volume": 5117.87
     }
    ],
    "first": 0.205,
@@ -6991,6 +7426,13 @@
      "bid": 0.01,
      "ask": 0.02,
      "volume": 4642.0
+    },
+    {
+     "date": "2026-11-08",
+     "mid": 0.015,
+     "bid": 0.01,
+     "ask": 0.02,
+     "volume": 4676.61
     }
    ],
    "first": 0.04,
@@ -7022,6 +7464,13 @@
     },
     {
      "date": "2026-11-07",
+     "mid": 0.025,
+     "bid": 0.02,
+     "ask": 0.03,
+     "volume": 4587.02
+    },
+    {
+     "date": "2026-11-08",
      "mid": 0.025,
      "bid": 0.02,
      "ask": 0.03,
@@ -7138,6 +7587,13 @@
      "bid": 0.01,
      "ask": 0.02,
      "volume": 1028.65
+    },
+    {
+     "date": "2026-11-08",
+     "mid": 0.015,
+     "bid": 0.01,
+     "ask": 0.02,
+     "volume": 1028.65
     }
    ],
    "first": 0.02,
@@ -7222,13 +7678,20 @@
      "bid": 0.25,
      "ask": 0.27,
      "volume": 9376.03
+    },
+    {
+     "date": "2026-11-08",
+     "mid": 0.05,
+     "bid": 0.04,
+     "ask": 0.06,
+     "volume": 16872.83
     }
    ],
    "first": 0.705,
-   "latest": 0.26,
+   "latest": 0.05,
    "high": 0.75,
-   "low": 0.26,
-   "change": -0.445
+   "low": 0.05,
+   "change": -0.655
   },
   "KXNFLTRADE-26DEC01-TSPEARS2": {
    "series": "KXNFLTRADE",
@@ -7302,6 +7765,13 @@
     },
     {
      "date": "2026-11-07",
+     "mid": 0.24,
+     "bid": 0.03,
+     "ask": 0.45,
+     "volume": 0.0
+    },
+    {
+     "date": "2026-11-08",
      "mid": 0.24,
      "bid": 0.03,
      "ask": 0.45,
@@ -7418,13 +7888,20 @@
      "bid": 0.02,
      "ask": 0.1,
      "volume": 13190.41
+    },
+    {
+     "date": "2026-11-08",
+     "mid": 0.05,
+     "bid": 0.01,
+     "ask": 0.09,
+     "volume": 13195.41
     }
    ],
    "first": 0.01,
-   "latest": 0.06,
+   "latest": 0.05,
    "high": 0.13,
    "low": 0.01,
-   "change": 0.05
+   "change": 0.04
   },
   "KXNFLTRADE-26DEC01-WMCD": {
    "series": "KXNFLTRADE",
@@ -7530,13 +8007,20 @@
      "bid": 0.05,
      "ask": 0.57,
      "volume": 1882.33
+    },
+    {
+     "date": "2026-11-08",
+     "mid": 0.3,
+     "bid": 0.07,
+     "ask": 0.53,
+     "volume": 1882.33
     }
    ],
    "first": 0.5,
-   "latest": 0.31,
+   "latest": 0.3,
    "high": 0.65,
    "low": 0.22,
-   "change": -0.19
+   "change": -0.2
   },
   "KXNFLTRADE-26DEC01-YDIABY0": {
    "series": "KXNFLTRADE",
@@ -7568,6 +8052,13 @@
     },
     {
      "date": "2026-11-07",
+     "mid": 0.505,
+     "bid": 0.02,
+     "ask": 0.99,
+     "volume": 0.0
+    },
+    {
+     "date": "2026-11-08",
      "mid": 0.505,
      "bid": 0.02,
      "ask": 0.99,
@@ -7684,13 +8175,20 @@
      "bid": 0.04,
      "ask": 0.05,
      "volume": 460.0
+    },
+    {
+     "date": "2026-11-08",
+     "mid": 0.03,
+     "bid": 0.01,
+     "ask": 0.05,
+     "volume": 475.0
     }
    ],
    "first": 0.0,
-   "latest": 0.045,
+   "latest": 0.03,
    "high": 0.535,
    "low": 0.0,
-   "change": 0.045
+   "change": 0.03
   },
   "KXNFLTRADE-26DEC01-ZWHI": {
    "series": "KXNFLTRADE",
