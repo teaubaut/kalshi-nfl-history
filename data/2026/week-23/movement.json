@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11",
+ "updated": "2026-11-12",
  "days": [
   "2026-10-25",
   "2026-10-26",
@@ -18,7 +18,8 @@
   "2026-11-08",
   "2026-11-09",
   "2026-11-10",
-  "2026-11-11"
+  "2026-11-11",
+  "2026-11-12"
  ],
  "top_movers": [
   {
@@ -26,8 +27,8 @@
    "title": "Tony Romo to perform as an on-air analyst in a CBS NFL broadcast before Feb 15, 2027",
    "subtitle": "Before Feb 15, 2027",
    "first": 0.045,
-   "latest": 0.05,
-   "change": 0.005
+   "latest": 0.04,
+   "change": -0.005
   }
  ],
  "markets": {
@@ -163,13 +164,20 @@
      "bid": 0.03,
      "ask": 0.07,
      "volume": 5778.2
+    },
+    {
+     "date": "2026-11-12",
+     "mid": 0.04,
+     "bid": 0.02,
+     "ask": 0.06,
+     "volume": 5778.2
     }
    ],
    "first": 0.045,
-   "latest": 0.05,
+   "latest": 0.04,
    "high": 0.05,
-   "low": 0.045,
-   "change": 0.005
+   "low": 0.04,
+   "change": -0.005
   }
  }
 }
