@@ -1,57 +1,58 @@
 {
- "updated": "2026-11-12",
+ "updated": "2026-11-13",
  "days": [
   "2026-11-10",
   "2026-11-11",
-  "2026-11-12"
+  "2026-11-12",
+  "2026-11-13"
  ],
  "top_movers": [
+  {
+   "ticker": "KXNFLDELAY-26NOV23CINWAS-Y",
+   "title": "Cincinnati vs Washington game to be delayed due to weather",
+   "subtitle": "Game to be delayed due to weather",
+   "first": 0.0,
+   "latest": 0.09,
+   "change": 0.09
+  },
   {
    "ticker": "KXNFLGAME-26NOV22TBDET-DET",
    "title": "Detroit wins",
    "subtitle": "Detroit",
    "first": 0.65,
-   "latest": 0.605,
-   "change": -0.045
-  },
-  {
-   "ticker": "KXNFLGAME-26NOV22ARIKC-ARI",
-   "title": "Arizona wins",
-   "subtitle": "Arizona",
-   "first": 0.135,
-   "latest": 0.1,
-   "change": -0.035
+   "latest": 0.61,
+   "change": -0.04
   },
   {
    "ticker": "KXNFLGAME-26NOV22LVDEN-DEN",
    "title": "Denver wins",
    "subtitle": "Denver",
    "first": 0.775,
-   "latest": 0.805,
-   "change": 0.03
+   "latest": 0.81,
+   "change": 0.035
   },
   {
    "ticker": "KXNFLGAME-26NOV22LVDEN-LV",
    "title": "Las Vegas wins",
    "subtitle": "Las Vegas",
    "first": 0.23,
-   "latest": 0.2,
-   "change": -0.03
+   "latest": 0.205,
+   "change": -0.025
   },
   {
    "ticker": "KXNFLGAME-26NOV22TBDET-TB",
    "title": "Tampa Bay wins",
    "subtitle": "Tampa Bay",
    "first": 0.365,
-   "latest": 0.395,
-   "change": 0.03
+   "latest": 0.39,
+   "change": 0.025
   },
   {
-   "ticker": "KXNFLGAME-26NOV22ARIKC-KC",
-   "title": "Kansas City wins",
-   "subtitle": "Kansas City",
-   "first": 0.875,
-   "latest": 0.895,
+   "ticker": "KXNFLGAME-26NOV19INDHOU-IND",
+   "title": "Indianapolis wins",
+   "subtitle": "Indianapolis",
+   "first": 0.175,
+   "latest": 0.195,
    "change": 0.02
   },
   {
@@ -63,22 +64,6 @@
    "change": -0.015
   },
   {
-   "ticker": "KXNFLGAME-26NOV19INDHOU-IND",
-   "title": "Indianapolis wins",
-   "subtitle": "Indianapolis",
-   "first": 0.175,
-   "latest": 0.19,
-   "change": 0.015
-  },
-  {
-   "ticker": "KXNFLGAME-26NOV22NOCHI-CHI",
-   "title": "Chicago wins",
-   "subtitle": "Chicago",
-   "first": 0.815,
-   "latest": 0.83,
-   "change": 0.015
-  },
-  {
    "ticker": "KXNFLGAME-26NOV22PITPHI-PIT",
    "title": "Pittsburgh wins",
    "subtitle": "Pittsburgh",
@@ -87,11 +72,27 @@
    "change": -0.015
   },
   {
+   "ticker": "KXNFLGAME-26NOV23CINWAS-WAS",
+   "title": "Washington wins",
+   "subtitle": "Washington",
+   "first": 0.35,
+   "latest": 0.365,
+   "change": 0.015
+  },
+  {
    "ticker": "KXNFLGAME-26NOV22MIABUF-BUF",
    "title": "Buffalo wins",
    "subtitle": "Buffalo",
    "first": 0.915,
-   "latest": 0.925,
+   "latest": 0.905,
+   "change": -0.01
+  },
+  {
+   "ticker": "KXNFLGAME-26NOV22MIABUF-MIA",
+   "title": "Miami wins",
+   "subtitle": "Miami",
+   "first": 0.085,
+   "latest": 0.095,
    "change": 0.01
   },
   {
@@ -111,36 +112,60 @@
    "change": 0.01
   },
   {
-   "ticker": "KXNFLGAME-26NOV22BALCAR-CAR",
-   "title": "Carolina wins",
-   "subtitle": "Carolina",
-   "first": 0.53,
-   "latest": 0.535,
-   "change": 0.005
-  },
-  {
-   "ticker": "KXNFLGAME-26NOV22JACNYG-NYG",
-   "title": "New York G wins",
-   "subtitle": "New York G",
-   "first": 0.305,
-   "latest": 0.3,
-   "change": -0.005
-  },
-  {
-   "ticker": "KXNFLGAME-26NOV22NOCHI-NO",
-   "title": "New Orleans wins",
-   "subtitle": "New Orleans",
-   "first": 0.175,
-   "latest": 0.18,
-   "change": 0.005
+   "ticker": "KXNFLGAME-26NOV22NOCHI-CHI",
+   "title": "Chicago wins",
+   "subtitle": "Chicago",
+   "first": 0.815,
+   "latest": 0.825,
+   "change": 0.01
   },
   {
    "ticker": "KXNFLGAME-26NOV22NYJLAC-LAC",
    "title": "Los Angeles C wins",
    "subtitle": "Los Angeles C",
    "first": 0.54,
-   "latest": 0.535,
+   "latest": 0.53,
+   "change": -0.01
+  },
+  {
+   "ticker": "KXNFLGAME-26NOV22ARIKC-ARI",
+   "title": "Arizona wins",
+   "subtitle": "Arizona",
+   "first": 0.135,
+   "latest": 0.13,
    "change": -0.005
+  },
+  {
+   "ticker": "KXNFLGAME-26NOV22ARIKC-KC",
+   "title": "Kansas City wins",
+   "subtitle": "Kansas City",
+   "first": 0.875,
+   "latest": 0.87,
+   "change": -0.005
+  },
+  {
+   "ticker": "KXNFLGAME-26NOV22BALCAR-BAL",
+   "title": "Baltimore wins",
+   "subtitle": "Baltimore",
+   "first": 0.46,
+   "latest": 0.465,
+   "change": 0.005
+  },
+  {
+   "ticker": "KXNFLGAME-26NOV22JACNYG-JAC",
+   "title": "Jacksonville wins",
+   "subtitle": "Jacksonville",
+   "first": 0.695,
+   "latest": 0.69,
+   "change": -0.005
+  },
+  {
+   "ticker": "KXNFLGAME-26NOV22JACNYG-NYG",
+   "title": "New York G wins",
+   "subtitle": "New York G",
+   "first": 0.305,
+   "latest": 0.31,
+   "change": 0.005
   },
   {
    "ticker": "KXNFLGAME-26NOV22PITPHI-PHI",
@@ -155,27 +180,439 @@
    "title": "Tennessee wins",
    "subtitle": "Tennessee",
    "first": 0.2,
-   "latest": 0.195,
-   "change": -0.005
+   "latest": 0.205,
+   "change": 0.005
   },
   {
    "ticker": "KXNFLGAME-26NOV23CINWAS-CIN",
    "title": "Cincinnati wins",
    "subtitle": "Cincinnati",
    "first": 0.65,
-   "latest": 0.655,
-   "change": 0.005
-  },
-  {
-   "ticker": "KXNFLGAME-26NOV23CINWAS-WAS",
-   "title": "Washington wins",
-   "subtitle": "Washington",
-   "first": 0.35,
-   "latest": 0.345,
+   "latest": 0.645,
    "change": -0.005
   }
  ],
  "markets": {
+  "KXNFL1HTEAMTOTAL-26NOV19INDHOU-HOU10": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Indianapolis vs Houston: 1st Half Team Total",
+   "game_date": "2026-11-19",
+   "title": "Houston over 9.5 1H points scored",
+   "subtitle": "Houston over 9.5 points",
+   "path": [
+    {
+     "date": "2026-11-13",
+     "mid": 0.63,
+     "bid": 0.31,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.63,
+   "latest": 0.63,
+   "high": 0.63,
+   "low": 0.63,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV19INDHOU-HOU14": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Indianapolis vs Houston: 1st Half Team Total",
+   "game_date": "2026-11-19",
+   "title": "Houston over 13.5 1H points scored",
+   "subtitle": "Houston over 13.5 points",
+   "path": [
+    {
+     "date": "2026-11-13",
+     "mid": 0.535,
+     "bid": 0.21,
+     "ask": 0.86,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.535,
+   "latest": 0.535,
+   "high": 0.535,
+   "low": 0.535,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV19INDHOU-HOU17": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Indianapolis vs Houston: 1st Half Team Total",
+   "game_date": "2026-11-19",
+   "title": "Houston over 16.5 1H points scored",
+   "subtitle": "Houston over 16.5 points",
+   "path": [
+    {
+     "date": "2026-11-13",
+     "mid": 0.415,
+     "bid": 0.07,
+     "ask": 0.76,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.415,
+   "latest": 0.415,
+   "high": 0.415,
+   "low": 0.415,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV19INDHOU-HOU20": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Indianapolis vs Houston: 1st Half Team Total",
+   "game_date": "2026-11-19",
+   "title": "Houston over 19.5 1H points scored",
+   "subtitle": "Houston over 19.5 points",
+   "path": [
+    {
+     "date": "2026-11-13",
+     "mid": 0.335,
+     "bid": 0.01,
+     "ask": 0.66,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.335,
+   "latest": 0.335,
+   "high": 0.335,
+   "low": 0.335,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV19INDHOU-HOU21": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Indianapolis vs Houston: 1st Half Team Total",
+   "game_date": "2026-11-19",
+   "title": "Houston over 20.5 1H points scored",
+   "subtitle": "Houston over 20.5 points",
+   "path": [
+    {
+     "date": "2026-11-13",
+     "mid": 0.315,
+     "bid": 0.01,
+     "ask": 0.62,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.315,
+   "latest": 0.315,
+   "high": 0.315,
+   "low": 0.315,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV19INDHOU-HOU24": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Indianapolis vs Houston: 1st Half Team Total",
+   "game_date": "2026-11-19",
+   "title": "Houston over 23.5 1H points scored",
+   "subtitle": "Houston over 23.5 points",
+   "path": [
+    {
+     "date": "2026-11-13",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.43,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV19INDHOU-HOU28": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Indianapolis vs Houston: 1st Half Team Total",
+   "game_date": "2026-11-19",
+   "title": "Houston over 27.5 1H points scored",
+   "subtitle": "Houston over 27.5 points",
+   "path": [
+    {
+     "date": "2026-11-13",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.35,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV19INDHOU-HOU3": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Indianapolis vs Houston: 1st Half Team Total",
+   "game_date": "2026-11-19",
+   "title": "Houston over 2.5 1H points scored",
+   "subtitle": "Houston over 2.5 points",
+   "path": [
+    {
+     "date": "2026-11-13",
+     "mid": 0.79,
+     "bid": 0.63,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.79,
+   "latest": 0.79,
+   "high": 0.79,
+   "low": 0.79,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV19INDHOU-HOU31": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Indianapolis vs Houston: 1st Half Team Total",
+   "game_date": "2026-11-19",
+   "title": "Houston over 30.5 1H points scored",
+   "subtitle": "Houston over 30.5 points",
+   "path": [
+    {
+     "date": "2026-11-13",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.3,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV19INDHOU-HOU7": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Indianapolis vs Houston: 1st Half Team Total",
+   "game_date": "2026-11-19",
+   "title": "Houston over 6.5 1H points scored",
+   "subtitle": "Houston over 6.5 points",
+   "path": [
+    {
+     "date": "2026-11-13",
+     "mid": 0.74,
+     "bid": 0.53,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.74,
+   "latest": 0.74,
+   "high": 0.74,
+   "low": 0.74,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV19INDHOU-IND10": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Indianapolis vs Houston: 1st Half Team Total",
+   "game_date": "2026-11-19",
+   "title": "Indianapolis over 9.5 1H points scored",
+   "subtitle": "Indianapolis over 9.5 points",
+   "path": [
+    {
+     "date": "2026-11-13",
+     "mid": 0.465,
+     "bid": 0.14,
+     "ask": 0.79,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.465,
+   "latest": 0.465,
+   "high": 0.465,
+   "low": 0.465,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV19INDHOU-IND14": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Indianapolis vs Houston: 1st Half Team Total",
+   "game_date": "2026-11-19",
+   "title": "Indianapolis over 13.5 1H points scored",
+   "subtitle": "Indianapolis over 13.5 points",
+   "path": [
+    {
+     "date": "2026-11-13",
+     "mid": 0.355,
+     "bid": 0.03,
+     "ask": 0.68,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.355,
+   "latest": 0.355,
+   "high": 0.355,
+   "low": 0.355,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV19INDHOU-IND17": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Indianapolis vs Houston: 1st Half Team Total",
+   "game_date": "2026-11-19",
+   "title": "Indianapolis over 16.5 1H points scored",
+   "subtitle": "Indianapolis over 16.5 points",
+   "path": [
+    {
+     "date": "2026-11-13",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.47,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV19INDHOU-IND20": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Indianapolis vs Houston: 1st Half Team Total",
+   "game_date": "2026-11-19",
+   "title": "Indianapolis over 19.5 1H points scored",
+   "subtitle": "Indianapolis over 19.5 points",
+   "path": [
+    {
+     "date": "2026-11-13",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.38,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV19INDHOU-IND21": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Indianapolis vs Houston: 1st Half Team Total",
+   "game_date": "2026-11-19",
+   "title": "Indianapolis over 20.5 1H points scored",
+   "subtitle": "Indianapolis over 20.5 points",
+   "path": [
+    {
+     "date": "2026-11-13",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.37,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV19INDHOU-IND24": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Indianapolis vs Houston: 1st Half Team Total",
+   "game_date": "2026-11-19",
+   "title": "Indianapolis over 23.5 1H points scored",
+   "subtitle": "Indianapolis over 23.5 points",
+   "path": [
+    {
+     "date": "2026-11-13",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.32,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV19INDHOU-IND28": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Indianapolis vs Houston: 1st Half Team Total",
+   "game_date": "2026-11-19",
+   "title": "Indianapolis over 27.5 1H points scored",
+   "subtitle": "Indianapolis over 27.5 points",
+   "path": [
+    {
+     "date": "2026-11-13",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.22,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV19INDHOU-IND3": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Indianapolis vs Houston: 1st Half Team Total",
+   "game_date": "2026-11-19",
+   "title": "Indianapolis over 2.5 1H points scored",
+   "subtitle": "Indianapolis over 2.5 points",
+   "path": [
+    {
+     "date": "2026-11-13",
+     "mid": 0.675,
+     "bid": 0.4,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.675,
+   "latest": 0.675,
+   "high": 0.675,
+   "low": 0.675,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV19INDHOU-IND31": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Indianapolis vs Houston: 1st Half Team Total",
+   "game_date": "2026-11-19",
+   "title": "Indianapolis over 30.5 1H points scored",
+   "subtitle": "Indianapolis over 30.5 points",
+   "path": [
+    {
+     "date": "2026-11-13",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.22,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV19INDHOU-IND7": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Indianapolis vs Houston: 1st Half Team Total",
+   "game_date": "2026-11-19",
+   "title": "Indianapolis over 6.5 1H points scored",
+   "subtitle": "Indianapolis over 6.5 points",
+   "path": [
+    {
+     "date": "2026-11-13",
+     "mid": 0.6,
+     "bid": 0.25,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.6,
+   "latest": 0.6,
+   "high": 0.6,
+   "low": 0.6,
+   "change": 0.0
+  },
   "KXNFLDELAY-26NOV22ARIKC-Y": {
    "series": "KXNFLDELAY",
    "event": "Arizona vs Kansas City: Weather Delay",
@@ -199,6 +636,13 @@
     },
     {
      "date": "2026-11-12",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    },
+    {
+     "date": "2026-11-13",
      "mid": 0.0,
      "bid": 0.0,
      "ask": 0.95,
@@ -238,6 +682,13 @@
      "bid": 0.0,
      "ask": 0.95,
      "volume": 0.0
+    },
+    {
+     "date": "2026-11-13",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
     }
    ],
    "first": 0.0,
@@ -269,6 +720,13 @@
     },
     {
      "date": "2026-11-12",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    },
+    {
+     "date": "2026-11-13",
      "mid": 0.0,
      "bid": 0.0,
      "ask": 0.95,
@@ -308,6 +766,13 @@
      "bid": 0.0,
      "ask": 0.95,
      "volume": 0.0
+    },
+    {
+     "date": "2026-11-13",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
     }
    ],
    "first": 0.0,
@@ -339,6 +804,13 @@
     },
     {
      "date": "2026-11-12",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    },
+    {
+     "date": "2026-11-13",
      "mid": 0.0,
      "bid": 0.0,
      "ask": 0.95,
@@ -378,6 +850,13 @@
      "bid": 0.0,
      "ask": 0.95,
      "volume": 0.0
+    },
+    {
+     "date": "2026-11-13",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
     }
    ],
    "first": 0.0,
@@ -409,6 +888,13 @@
     },
     {
      "date": "2026-11-12",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    },
+    {
+     "date": "2026-11-13",
      "mid": 0.0,
      "bid": 0.0,
      "ask": 0.95,
@@ -448,6 +934,13 @@
      "bid": 0.0,
      "ask": 0.95,
      "volume": 0.0
+    },
+    {
+     "date": "2026-11-13",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
     }
    ],
    "first": 0.0,
@@ -483,13 +976,20 @@
      "bid": 0.0,
      "ask": 0.95,
      "volume": 0.0
+    },
+    {
+     "date": "2026-11-13",
+     "mid": 0.09,
+     "bid": 0.0,
+     "ask": 0.91,
+     "volume": 1.04
     }
    ],
    "first": 0.0,
-   "latest": 0.0,
-   "high": 0.0,
+   "latest": 0.09,
+   "high": 0.09,
    "low": 0.0,
-   "change": 0.0
+   "change": 0.09
   },
   "KXNFLGAME-26NOV19INDHOU-HOU": {
    "series": "KXNFLGAME",
@@ -518,6 +1018,13 @@
      "bid": 0.8,
      "ask": 0.82,
      "volume": 1758.52
+    },
+    {
+     "date": "2026-11-13",
+     "mid": 0.81,
+     "bid": 0.8,
+     "ask": 0.82,
+     "volume": 2171.7
     }
    ],
    "first": 0.825,
@@ -553,13 +1060,20 @@
      "bid": 0.18,
      "ask": 0.2,
      "volume": 5367.38
+    },
+    {
+     "date": "2026-11-13",
+     "mid": 0.195,
+     "bid": 0.19,
+     "ask": 0.2,
+     "volume": 8098.25
     }
    ],
    "first": 0.175,
-   "latest": 0.19,
-   "high": 0.19,
+   "latest": 0.195,
+   "high": 0.195,
    "low": 0.175,
-   "change": 0.015
+   "change": 0.02
   },
   "KXNFLGAME-26NOV22ARIKC-ARI": {
    "series": "KXNFLGAME",
@@ -588,13 +1102,20 @@
      "bid": 0.09,
      "ask": 0.11,
      "volume": 6283.08
+    },
+    {
+     "date": "2026-11-13",
+     "mid": 0.13,
+     "bid": 0.12,
+     "ask": 0.14,
+     "volume": 8040.33
     }
    ],
    "first": 0.135,
-   "latest": 0.1,
+   "latest": 0.13,
    "high": 0.135,
    "low": 0.1,
-   "change": -0.035
+   "change": -0.005
   },
   "KXNFLGAME-26NOV22ARIKC-KC": {
    "series": "KXNFLGAME",
@@ -623,13 +1144,20 @@
      "bid": 0.89,
      "ask": 0.9,
      "volume": 8110.51
+    },
+    {
+     "date": "2026-11-13",
+     "mid": 0.87,
+     "bid": 0.86,
+     "ask": 0.88,
+     "volume": 8709.52
     }
    ],
    "first": 0.875,
-   "latest": 0.895,
+   "latest": 0.87,
    "high": 0.895,
-   "low": 0.875,
-   "change": 0.02
+   "low": 0.87,
+   "change": -0.005
   },
   "KXNFLGAME-26NOV22BALCAR-BAL": {
    "series": "KXNFLGAME",
@@ -658,13 +1186,20 @@
      "bid": 0.44,
      "ask": 0.48,
      "volume": 172.88
+    },
+    {
+     "date": "2026-11-13",
+     "mid": 0.465,
+     "bid": 0.45,
+     "ask": 0.48,
+     "volume": 268.63
     }
    ],
    "first": 0.46,
-   "latest": 0.46,
+   "latest": 0.465,
    "high": 0.47,
    "low": 0.46,
-   "change": 0.0
+   "change": 0.005
   },
   "KXNFLGAME-26NOV22BALCAR-CAR": {
    "series": "KXNFLGAME",
@@ -693,13 +1228,20 @@
      "bid": 0.52,
      "ask": 0.55,
      "volume": 708.71
+    },
+    {
+     "date": "2026-11-13",
+     "mid": 0.53,
+     "bid": 0.51,
+     "ask": 0.55,
+     "volume": 795.38
     }
    ],
    "first": 0.53,
-   "latest": 0.535,
+   "latest": 0.53,
    "high": 0.535,
    "low": 0.525,
-   "change": 0.005
+   "change": 0.0
   },
   "KXNFLGAME-26NOV22JACNYG-JAC": {
    "series": "KXNFLGAME",
@@ -728,13 +1270,20 @@
      "bid": 0.68,
      "ask": 0.71,
      "volume": 831.74
+    },
+    {
+     "date": "2026-11-13",
+     "mid": 0.69,
+     "bid": 0.68,
+     "ask": 0.7,
+     "volume": 1446.04
     }
    ],
    "first": 0.695,
-   "latest": 0.695,
+   "latest": 0.69,
    "high": 0.7,
-   "low": 0.695,
-   "change": 0.0
+   "low": 0.69,
+   "change": -0.005
   },
   "KXNFLGAME-26NOV22JACNYG-NYG": {
    "series": "KXNFLGAME",
@@ -763,13 +1312,20 @@
      "bid": 0.29,
      "ask": 0.31,
      "volume": 4136.71
+    },
+    {
+     "date": "2026-11-13",
+     "mid": 0.31,
+     "bid": 0.3,
+     "ask": 0.32,
+     "volume": 5916.44
     }
    ],
    "first": 0.305,
-   "latest": 0.3,
-   "high": 0.305,
+   "latest": 0.31,
+   "high": 0.31,
    "low": 0.295,
-   "change": -0.005
+   "change": 0.005
   },
   "KXNFLGAME-26NOV22LVDEN-DEN": {
    "series": "KXNFLGAME",
@@ -798,13 +1354,20 @@
      "bid": 0.8,
      "ask": 0.81,
      "volume": 6134.7
+    },
+    {
+     "date": "2026-11-13",
+     "mid": 0.81,
+     "bid": 0.8,
+     "ask": 0.82,
+     "volume": 7877.79
     }
    ],
    "first": 0.775,
-   "latest": 0.805,
-   "high": 0.805,
+   "latest": 0.81,
+   "high": 0.81,
    "low": 0.775,
-   "change": 0.03
+   "change": 0.035
   },
   "KXNFLGAME-26NOV22LVDEN-LV": {
    "series": "KXNFLGAME",
@@ -833,13 +1396,20 @@
      "bid": 0.19,
      "ask": 0.21,
      "volume": 3069.85
+    },
+    {
+     "date": "2026-11-13",
+     "mid": 0.205,
+     "bid": 0.2,
+     "ask": 0.21,
+     "volume": 4274.53
     }
    ],
    "first": 0.23,
-   "latest": 0.2,
+   "latest": 0.205,
    "high": 0.23,
    "low": 0.2,
-   "change": -0.03
+   "change": -0.025
   },
   "KXNFLGAME-26NOV22MIABUF-BUF": {
    "series": "KXNFLGAME",
@@ -868,13 +1438,20 @@
      "bid": 0.92,
      "ask": 0.93,
      "volume": 3799.96
+    },
+    {
+     "date": "2026-11-13",
+     "mid": 0.905,
+     "bid": 0.89,
+     "ask": 0.92,
+     "volume": 4961.67
     }
    ],
    "first": 0.915,
-   "latest": 0.925,
+   "latest": 0.905,
    "high": 0.925,
-   "low": 0.915,
-   "change": 0.01
+   "low": 0.905,
+   "change": -0.01
   },
   "KXNFLGAME-26NOV22MIABUF-MIA": {
    "series": "KXNFLGAME",
@@ -903,13 +1480,20 @@
      "bid": 0.08,
      "ask": 0.09,
      "volume": 6620.59
+    },
+    {
+     "date": "2026-11-13",
+     "mid": 0.095,
+     "bid": 0.09,
+     "ask": 0.1,
+     "volume": 18347.43
     }
    ],
    "first": 0.085,
-   "latest": 0.085,
-   "high": 0.085,
+   "latest": 0.095,
+   "high": 0.095,
    "low": 0.075,
-   "change": 0.0
+   "change": 0.01
   },
   "KXNFLGAME-26NOV22MINSF-MIN": {
    "series": "KXNFLGAME",
@@ -938,6 +1522,13 @@
      "bid": 0.32,
      "ask": 0.33,
      "volume": 4121.62
+    },
+    {
+     "date": "2026-11-13",
+     "mid": 0.325,
+     "bid": 0.31,
+     "ask": 0.34,
+     "volume": 6248.96
     }
    ],
    "first": 0.335,
@@ -973,6 +1564,13 @@
      "bid": 0.67,
      "ask": 0.68,
      "volume": 3379.96
+    },
+    {
+     "date": "2026-11-13",
+     "mid": 0.675,
+     "bid": 0.66,
+     "ask": 0.69,
+     "volume": 5847.73
     }
    ],
    "first": 0.665,
@@ -1008,13 +1606,20 @@
      "bid": 0.82,
      "ask": 0.84,
      "volume": 10471.39
+    },
+    {
+     "date": "2026-11-13",
+     "mid": 0.825,
+     "bid": 0.82,
+     "ask": 0.83,
+     "volume": 13181.9
     }
    ],
    "first": 0.815,
-   "latest": 0.83,
+   "latest": 0.825,
    "high": 0.83,
    "low": 0.815,
-   "change": 0.015
+   "change": 0.01
   },
   "KXNFLGAME-26NOV22NOCHI-NO": {
    "series": "KXNFLGAME",
@@ -1043,13 +1648,20 @@
      "bid": 0.17,
      "ask": 0.19,
      "volume": 5207.21
+    },
+    {
+     "date": "2026-11-13",
+     "mid": 0.175,
+     "bid": 0.17,
+     "ask": 0.18,
+     "volume": 6758.82
     }
    ],
    "first": 0.175,
-   "latest": 0.18,
+   "latest": 0.175,
    "high": 0.18,
    "low": 0.175,
-   "change": 0.005
+   "change": 0.0
   },
   "KXNFLGAME-26NOV22NYJLAC-LAC": {
    "series": "KXNFLGAME",
@@ -1078,13 +1690,20 @@
      "bid": 0.52,
      "ask": 0.55,
      "volume": 1146.87
+    },
+    {
+     "date": "2026-11-13",
+     "mid": 0.53,
+     "bid": 0.52,
+     "ask": 0.54,
+     "volume": 1324.97
     }
    ],
    "first": 0.54,
-   "latest": 0.535,
+   "latest": 0.53,
    "high": 0.54,
    "low": 0.53,
-   "change": -0.005
+   "change": -0.01
   },
   "KXNFLGAME-26NOV22NYJLAC-NYJ": {
    "series": "KXNFLGAME",
@@ -1113,6 +1732,13 @@
      "bid": 0.45,
      "ask": 0.48,
      "volume": 1265.77
+    },
+    {
+     "date": "2026-11-13",
+     "mid": 0.465,
+     "bid": 0.45,
+     "ask": 0.48,
+     "volume": 1480.17
     }
    ],
    "first": 0.465,
@@ -1148,6 +1774,13 @@
      "bid": 0.34,
      "ask": 0.36,
      "volume": 489.71
+    },
+    {
+     "date": "2026-11-13",
+     "mid": 0.35,
+     "bid": 0.34,
+     "ask": 0.36,
+     "volume": 1127.25
     }
    ],
    "first": 0.345,
@@ -1183,6 +1816,13 @@
      "bid": 0.64,
      "ask": 0.67,
      "volume": 6944.52
+    },
+    {
+     "date": "2026-11-13",
+     "mid": 0.655,
+     "bid": 0.65,
+     "ask": 0.66,
+     "volume": 7541.08
     }
    ],
    "first": 0.67,
@@ -1218,13 +1858,20 @@
      "bid": 0.6,
      "ask": 0.61,
      "volume": 2026.08
+    },
+    {
+     "date": "2026-11-13",
+     "mid": 0.61,
+     "bid": 0.6,
+     "ask": 0.62,
+     "volume": 2586.67
     }
    ],
    "first": 0.65,
-   "latest": 0.605,
+   "latest": 0.61,
    "high": 0.65,
    "low": 0.605,
-   "change": -0.045
+   "change": -0.04
   },
   "KXNFLGAME-26NOV22TBDET-TB": {
    "series": "KXNFLGAME",
@@ -1253,13 +1900,20 @@
      "bid": 0.39,
      "ask": 0.4,
      "volume": 846.28
+    },
+    {
+     "date": "2026-11-13",
+     "mid": 0.39,
+     "bid": 0.38,
+     "ask": 0.4,
+     "volume": 984.97
     }
    ],
    "first": 0.365,
-   "latest": 0.395,
+   "latest": 0.39,
    "high": 0.395,
    "low": 0.365,
-   "change": 0.03
+   "change": 0.025
   },
   "KXNFLGAME-26NOV22TENDAL-DAL": {
    "series": "KXNFLGAME",
@@ -1288,6 +1942,13 @@
      "bid": 0.79,
      "ask": 0.81,
      "volume": 669.56
+    },
+    {
+     "date": "2026-11-13",
+     "mid": 0.8,
+     "bid": 0.79,
+     "ask": 0.81,
+     "volume": 954.05
     }
    ],
    "first": 0.8,
@@ -1323,13 +1984,20 @@
      "bid": 0.18,
      "ask": 0.21,
      "volume": 828.82
+    },
+    {
+     "date": "2026-11-13",
+     "mid": 0.205,
+     "bid": 0.19,
+     "ask": 0.22,
+     "volume": 1126.11
     }
    ],
    "first": 0.2,
-   "latest": 0.195,
-   "high": 0.2,
+   "latest": 0.205,
+   "high": 0.205,
    "low": 0.195,
-   "change": -0.005
+   "change": 0.005
   },
   "KXNFLGAME-26NOV23CINWAS-CIN": {
    "series": "KXNFLGAME",
@@ -1358,13 +2026,20 @@
      "bid": 0.64,
      "ask": 0.67,
      "volume": 338.97
+    },
+    {
+     "date": "2026-11-13",
+     "mid": 0.645,
+     "bid": 0.63,
+     "ask": 0.66,
+     "volume": 555.47
     }
    ],
    "first": 0.65,
-   "latest": 0.655,
+   "latest": 0.645,
    "high": 0.655,
-   "low": 0.65,
-   "change": 0.005
+   "low": 0.645,
+   "change": -0.005
   },
   "KXNFLGAME-26NOV23CINWAS-WAS": {
    "series": "KXNFLGAME",
@@ -1393,13 +2068,965 @@
      "bid": 0.33,
      "ask": 0.36,
      "volume": 132.93
+    },
+    {
+     "date": "2026-11-13",
+     "mid": 0.365,
+     "bid": 0.35,
+     "ask": 0.38,
+     "volume": 1905.34
     }
    ],
    "first": 0.35,
-   "latest": 0.345,
-   "high": 0.35,
+   "latest": 0.365,
+   "high": 0.365,
    "low": 0.345,
-   "change": -0.005
+   "change": 0.015
+  },
+  "KXNFLSPREAD-26NOV19INDHOU-HOU10": {
+   "series": "KXNFLSPREAD",
+   "event": "Indianapolis vs Houston: Spread",
+   "game_date": "2026-11-19",
+   "title": "Houston wins by over 9.5 points?",
+   "subtitle": "Houston wins by over 9.5 points",
+   "path": [
+    {
+     "date": "2026-11-13",
+     "mid": 0.505,
+     "bid": 0.49,
+     "ask": 0.52,
+     "volume": 19.21
+    }
+   ],
+   "first": 0.505,
+   "latest": 0.505,
+   "high": 0.505,
+   "low": 0.505,
+   "change": 0.0
+  },
+  "KXNFLSPREAD-26NOV19INDHOU-HOU11": {
+   "series": "KXNFLSPREAD",
+   "event": "Indianapolis vs Houston: Spread",
+   "game_date": "2026-11-19",
+   "title": "Houston wins by over 10.5 points?",
+   "subtitle": "Houston wins by over 10.5 points",
+   "path": [
+    {
+     "date": "2026-11-13",
+     "mid": 0.48,
+     "bid": 0.44,
+     "ask": 0.52,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.48,
+   "latest": 0.48,
+   "high": 0.48,
+   "low": 0.48,
+   "change": 0.0
+  },
+  "KXNFLSPREAD-26NOV19INDHOU-HOU14": {
+   "series": "KXNFLSPREAD",
+   "event": "Indianapolis vs Houston: Spread",
+   "game_date": "2026-11-19",
+   "title": "Houston wins by over 13.5 points?",
+   "subtitle": "Houston wins by over 13.5 points",
+   "path": [
+    {
+     "date": "2026-11-13",
+     "mid": 0.415,
+     "bid": 0.38,
+     "ask": 0.45,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.415,
+   "latest": 0.415,
+   "high": 0.415,
+   "low": 0.415,
+   "change": 0.0
+  },
+  "KXNFLSPREAD-26NOV19INDHOU-HOU15": {
+   "series": "KXNFLSPREAD",
+   "event": "Indianapolis vs Houston: Spread",
+   "game_date": "2026-11-19",
+   "title": "Houston wins by over 14.5 points?",
+   "subtitle": "Houston wins by over 14.5 points",
+   "path": [
+    {
+     "date": "2026-11-13",
+     "mid": 0.375,
+     "bid": 0.34,
+     "ask": 0.41,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.375,
+   "latest": 0.375,
+   "high": 0.375,
+   "low": 0.375,
+   "change": 0.0
+  },
+  "KXNFLSPREAD-26NOV19INDHOU-HOU17": {
+   "series": "KXNFLSPREAD",
+   "event": "Indianapolis vs Houston: Spread",
+   "game_date": "2026-11-19",
+   "title": "Houston wins by over 16.5 points?",
+   "subtitle": "Houston wins by over 16.5 points",
+   "path": [
+    {
+     "date": "2026-11-13",
+     "mid": 0.335,
+     "bid": 0.3,
+     "ask": 0.37,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.335,
+   "latest": 0.335,
+   "high": 0.335,
+   "low": 0.335,
+   "change": 0.0
+  },
+  "KXNFLSPREAD-26NOV19INDHOU-HOU18": {
+   "series": "KXNFLSPREAD",
+   "event": "Indianapolis vs Houston: Spread",
+   "game_date": "2026-11-19",
+   "title": "Houston wins by over 17.5 points?",
+   "subtitle": "Houston wins by over 17.5 points",
+   "path": [
+    {
+     "date": "2026-11-13",
+     "mid": 0.305,
+     "bid": 0.27,
+     "ask": 0.34,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.305,
+   "latest": 0.305,
+   "high": 0.305,
+   "low": 0.305,
+   "change": 0.0
+  },
+  "KXNFLSPREAD-26NOV19INDHOU-HOU2": {
+   "series": "KXNFLSPREAD",
+   "event": "Indianapolis vs Houston: Spread",
+   "game_date": "2026-11-19",
+   "title": "Houston wins by over 1.5 points?",
+   "subtitle": "Houston wins by over 1.5 points",
+   "path": [
+    {
+     "date": "2026-11-13",
+     "mid": 0.78,
+     "bid": 0.76,
+     "ask": 0.8,
+     "volume": 1.3
+    }
+   ],
+   "first": 0.78,
+   "latest": 0.78,
+   "high": 0.78,
+   "low": 0.78,
+   "change": 0.0
+  },
+  "KXNFLSPREAD-26NOV19INDHOU-HOU21": {
+   "series": "KXNFLSPREAD",
+   "event": "Indianapolis vs Houston: Spread",
+   "game_date": "2026-11-19",
+   "title": "Houston wins by over 20.5 points?",
+   "subtitle": "Houston wins by over 20.5 points",
+   "path": [
+    {
+     "date": "2026-11-13",
+     "mid": 0.235,
+     "bid": 0.2,
+     "ask": 0.27,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.235,
+   "latest": 0.235,
+   "high": 0.235,
+   "low": 0.235,
+   "change": 0.0
+  },
+  "KXNFLSPREAD-26NOV19INDHOU-HOU24": {
+   "series": "KXNFLSPREAD",
+   "event": "Indianapolis vs Houston: Spread",
+   "game_date": "2026-11-19",
+   "title": "Houston wins by over 23.5 points?",
+   "subtitle": "Houston wins by over 23.5 points",
+   "path": [
+    {
+     "date": "2026-11-13",
+     "mid": 0.175,
+     "bid": 0.14,
+     "ask": 0.21,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.175,
+   "latest": 0.175,
+   "high": 0.175,
+   "low": 0.175,
+   "change": 0.0
+  },
+  "KXNFLSPREAD-26NOV19INDHOU-HOU28": {
+   "series": "KXNFLSPREAD",
+   "event": "Indianapolis vs Houston: Spread",
+   "game_date": "2026-11-19",
+   "title": "Houston wins by over 27.5 points?",
+   "subtitle": "Houston wins by over 27.5 points",
+   "path": [
+    {
+     "date": "2026-11-13",
+     "mid": 0.105,
+     "bid": 0.07,
+     "ask": 0.14,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.105,
+   "latest": 0.105,
+   "high": 0.105,
+   "low": 0.105,
+   "change": 0.0
+  },
+  "KXNFLSPREAD-26NOV19INDHOU-HOU3": {
+   "series": "KXNFLSPREAD",
+   "event": "Indianapolis vs Houston: Spread",
+   "game_date": "2026-11-19",
+   "title": "Houston wins by over 2.5 points?",
+   "subtitle": "Houston wins by over 2.5 points",
+   "path": [
+    {
+     "date": "2026-11-13",
+     "mid": 0.77,
+     "bid": 0.74,
+     "ask": 0.8,
+     "volume": 1.0
+    }
+   ],
+   "first": 0.77,
+   "latest": 0.77,
+   "high": 0.77,
+   "low": 0.77,
+   "change": 0.0
+  },
+  "KXNFLSPREAD-26NOV19INDHOU-HOU31": {
+   "series": "KXNFLSPREAD",
+   "event": "Indianapolis vs Houston: Spread",
+   "game_date": "2026-11-19",
+   "title": "Houston wins by over 30.5 points?",
+   "subtitle": "Houston wins by over 30.5 points",
+   "path": [
+    {
+     "date": "2026-11-13",
+     "mid": 0.075,
+     "bid": 0.04,
+     "ask": 0.11,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.075,
+   "latest": 0.075,
+   "high": 0.075,
+   "low": 0.075,
+   "change": 0.0
+  },
+  "KXNFLSPREAD-26NOV19INDHOU-HOU4": {
+   "series": "KXNFLSPREAD",
+   "event": "Indianapolis vs Houston: Spread",
+   "game_date": "2026-11-19",
+   "title": "Houston wins by over 3.5 points?",
+   "subtitle": "Houston wins by over 3.5 points",
+   "path": [
+    {
+     "date": "2026-11-13",
+     "mid": 0.705,
+     "bid": 0.67,
+     "ask": 0.74,
+     "volume": 1.0
+    }
+   ],
+   "first": 0.705,
+   "latest": 0.705,
+   "high": 0.705,
+   "low": 0.705,
+   "change": 0.0
+  },
+  "KXNFLSPREAD-26NOV19INDHOU-HOU5": {
+   "series": "KXNFLSPREAD",
+   "event": "Indianapolis vs Houston: Spread",
+   "game_date": "2026-11-19",
+   "title": "Houston wins by over 4.5 points?",
+   "subtitle": "Houston wins by over 4.5 points",
+   "path": [
+    {
+     "date": "2026-11-13",
+     "mid": 0.67,
+     "bid": 0.64,
+     "ask": 0.7,
+     "volume": 1.0
+    }
+   ],
+   "first": 0.67,
+   "latest": 0.67,
+   "high": 0.67,
+   "low": 0.67,
+   "change": 0.0
+  },
+  "KXNFLSPREAD-26NOV19INDHOU-HOU6": {
+   "series": "KXNFLSPREAD",
+   "event": "Indianapolis vs Houston: Spread",
+   "game_date": "2026-11-19",
+   "title": "Houston wins by over 5.5 points?",
+   "subtitle": "Houston wins by over 5.5 points",
+   "path": [
+    {
+     "date": "2026-11-13",
+     "mid": 0.61,
+     "bid": 0.57,
+     "ask": 0.65,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.61,
+   "latest": 0.61,
+   "high": 0.61,
+   "low": 0.61,
+   "change": 0.0
+  },
+  "KXNFLSPREAD-26NOV19INDHOU-HOU7": {
+   "series": "KXNFLSPREAD",
+   "event": "Indianapolis vs Houston: Spread",
+   "game_date": "2026-11-19",
+   "title": "Houston wins by over 6.5 points?",
+   "subtitle": "Houston wins by over 6.5 points",
+   "path": [
+    {
+     "date": "2026-11-13",
+     "mid": 0.585,
+     "bid": 0.53,
+     "ask": 0.64,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.585,
+   "latest": 0.585,
+   "high": 0.585,
+   "low": 0.585,
+   "change": 0.0
+  },
+  "KXNFLSPREAD-26NOV19INDHOU-HOU8": {
+   "series": "KXNFLSPREAD",
+   "event": "Indianapolis vs Houston: Spread",
+   "game_date": "2026-11-19",
+   "title": "Houston wins by over 7.5 points?",
+   "subtitle": "Houston wins by over 7.5 points",
+   "path": [
+    {
+     "date": "2026-11-13",
+     "mid": 0.565,
+     "bid": 0.53,
+     "ask": 0.6,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.565,
+   "latest": 0.565,
+   "high": 0.565,
+   "low": 0.565,
+   "change": 0.0
+  },
+  "KXNFLSPREAD-26NOV19INDHOU-IND10": {
+   "series": "KXNFLSPREAD",
+   "event": "Indianapolis vs Houston: Spread",
+   "game_date": "2026-11-19",
+   "title": "Indianapolis wins by over 9.5 points?",
+   "subtitle": "Indianapolis wins by over 9.5 points",
+   "path": [
+    {
+     "date": "2026-11-13",
+     "mid": 0.065,
+     "bid": 0.02,
+     "ask": 0.11,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.065,
+   "latest": 0.065,
+   "high": 0.065,
+   "low": 0.065,
+   "change": 0.0
+  },
+  "KXNFLSPREAD-26NOV19INDHOU-IND11": {
+   "series": "KXNFLSPREAD",
+   "event": "Indianapolis vs Houston: Spread",
+   "game_date": "2026-11-19",
+   "title": "Indianapolis wins by over 10.5 points?",
+   "subtitle": "Indianapolis wins by over 10.5 points",
+   "path": [
+    {
+     "date": "2026-11-13",
+     "mid": 0.065,
+     "bid": 0.02,
+     "ask": 0.11,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.065,
+   "latest": 0.065,
+   "high": 0.065,
+   "low": 0.065,
+   "change": 0.0
+  },
+  "KXNFLSPREAD-26NOV19INDHOU-IND2": {
+   "series": "KXNFLSPREAD",
+   "event": "Indianapolis vs Houston: Spread",
+   "game_date": "2026-11-19",
+   "title": "Indianapolis wins by over 1.5 points?",
+   "subtitle": "Indianapolis wins by over 1.5 points",
+   "path": [
+    {
+     "date": "2026-11-13",
+     "mid": 0.155,
+     "bid": 0.08,
+     "ask": 0.23,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.155,
+   "latest": 0.155,
+   "high": 0.155,
+   "low": 0.155,
+   "change": 0.0
+  },
+  "KXNFLSPREAD-26NOV19INDHOU-IND3": {
+   "series": "KXNFLSPREAD",
+   "event": "Indianapolis vs Houston: Spread",
+   "game_date": "2026-11-19",
+   "title": "Indianapolis wins by over 2.5 points?",
+   "subtitle": "Indianapolis wins by over 2.5 points",
+   "path": [
+    {
+     "date": "2026-11-13",
+     "mid": 0.13,
+     "bid": 0.07,
+     "ask": 0.19,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.13,
+   "latest": 0.13,
+   "high": 0.13,
+   "low": 0.13,
+   "change": 0.0
+  },
+  "KXNFLSPREAD-26NOV19INDHOU-IND4": {
+   "series": "KXNFLSPREAD",
+   "event": "Indianapolis vs Houston: Spread",
+   "game_date": "2026-11-19",
+   "title": "Indianapolis wins by over 3.5 points?",
+   "subtitle": "Indianapolis wins by over 3.5 points",
+   "path": [
+    {
+     "date": "2026-11-13",
+     "mid": 0.105,
+     "bid": 0.03,
+     "ask": 0.18,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.105,
+   "latest": 0.105,
+   "high": 0.105,
+   "low": 0.105,
+   "change": 0.0
+  },
+  "KXNFLSPREAD-26NOV19INDHOU-IND5": {
+   "series": "KXNFLSPREAD",
+   "event": "Indianapolis vs Houston: Spread",
+   "game_date": "2026-11-19",
+   "title": "Indianapolis wins by over 4.5 points?",
+   "subtitle": "Indianapolis wins by over 4.5 points",
+   "path": [
+    {
+     "date": "2026-11-13",
+     "mid": 0.09,
+     "bid": 0.03,
+     "ask": 0.15,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.09,
+   "latest": 0.09,
+   "high": 0.09,
+   "low": 0.09,
+   "change": 0.0
+  },
+  "KXNFLSPREAD-26NOV19INDHOU-IND6": {
+   "series": "KXNFLSPREAD",
+   "event": "Indianapolis vs Houston: Spread",
+   "game_date": "2026-11-19",
+   "title": "Indianapolis wins by over 5.5 points?",
+   "subtitle": "Indianapolis wins by over 5.5 points",
+   "path": [
+    {
+     "date": "2026-11-13",
+     "mid": 0.085,
+     "bid": 0.03,
+     "ask": 0.14,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.085,
+   "latest": 0.085,
+   "high": 0.085,
+   "low": 0.085,
+   "change": 0.0
+  },
+  "KXNFLSPREAD-26NOV19INDHOU-IND7": {
+   "series": "KXNFLSPREAD",
+   "event": "Indianapolis vs Houston: Spread",
+   "game_date": "2026-11-19",
+   "title": "Indianapolis wins by over 6.5 points?",
+   "subtitle": "Indianapolis wins by over 6.5 points",
+   "path": [
+    {
+     "date": "2026-11-13",
+     "mid": 0.085,
+     "bid": 0.03,
+     "ask": 0.14,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.085,
+   "latest": 0.085,
+   "high": 0.085,
+   "low": 0.085,
+   "change": 0.0
+  },
+  "KXNFLSPREAD-26NOV19INDHOU-IND8": {
+   "series": "KXNFLSPREAD",
+   "event": "Indianapolis vs Houston: Spread",
+   "game_date": "2026-11-19",
+   "title": "Indianapolis wins by over 7.5 points?",
+   "subtitle": "Indianapolis wins by over 7.5 points",
+   "path": [
+    {
+     "date": "2026-11-13",
+     "mid": 0.065,
+     "bid": 0.02,
+     "ask": 0.11,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.065,
+   "latest": 0.065,
+   "high": 0.065,
+   "low": 0.065,
+   "change": 0.0
+  },
+  "KXNFLTOTAL-26NOV19INDHOU-24": {
+   "series": "KXNFLTOTAL",
+   "event": "Indianapolis vs Houston: Total Points",
+   "game_date": "2026-11-19",
+   "title": "Full Game: over 23.5 points scored?",
+   "subtitle": "Over 23.5 points",
+   "path": [
+    {
+     "date": "2026-11-13",
+     "mid": 0.86,
+     "bid": 0.77,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.86,
+   "latest": 0.86,
+   "high": 0.86,
+   "low": 0.86,
+   "change": 0.0
+  },
+  "KXNFLTOTAL-26NOV19INDHOU-27": {
+   "series": "KXNFLTOTAL",
+   "event": "Indianapolis vs Houston: Total Points",
+   "game_date": "2026-11-19",
+   "title": "Full Game: over 26.5 points scored?",
+   "subtitle": "Over 26.5 points",
+   "path": [
+    {
+     "date": "2026-11-13",
+     "mid": 0.845,
+     "bid": 0.74,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.845,
+   "latest": 0.845,
+   "high": 0.845,
+   "low": 0.845,
+   "change": 0.0
+  },
+  "KXNFLTOTAL-26NOV19INDHOU-30": {
+   "series": "KXNFLTOTAL",
+   "event": "Indianapolis vs Houston: Total Points",
+   "game_date": "2026-11-19",
+   "title": "Full Game: over 29.5 points scored?",
+   "subtitle": "Over 29.5 points",
+   "path": [
+    {
+     "date": "2026-11-13",
+     "mid": 0.825,
+     "bid": 0.71,
+     "ask": 0.94,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.825,
+   "latest": 0.825,
+   "high": 0.825,
+   "low": 0.825,
+   "change": 0.0
+  },
+  "KXNFLTOTAL-26NOV19INDHOU-33": {
+   "series": "KXNFLTOTAL",
+   "event": "Indianapolis vs Houston: Total Points",
+   "game_date": "2026-11-19",
+   "title": "Full Game: over 32.5 points scored?",
+   "subtitle": "Over 32.5 points",
+   "path": [
+    {
+     "date": "2026-11-13",
+     "mid": 0.775,
+     "bid": 0.65,
+     "ask": 0.9,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.775,
+   "latest": 0.775,
+   "high": 0.775,
+   "low": 0.775,
+   "change": 0.0
+  },
+  "KXNFLTOTAL-26NOV19INDHOU-36": {
+   "series": "KXNFLTOTAL",
+   "event": "Indianapolis vs Houston: Total Points",
+   "game_date": "2026-11-19",
+   "title": "Full Game: over 35.5 points scored?",
+   "subtitle": "Over 35.5 points",
+   "path": [
+    {
+     "date": "2026-11-13",
+     "mid": 0.71,
+     "bid": 0.59,
+     "ask": 0.83,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.71,
+   "latest": 0.71,
+   "high": 0.71,
+   "low": 0.71,
+   "change": 0.0
+  },
+  "KXNFLTOTAL-26NOV19INDHOU-39": {
+   "series": "KXNFLTOTAL",
+   "event": "Indianapolis vs Houston: Total Points",
+   "game_date": "2026-11-19",
+   "title": "Full Game: over 38.5 points scored?",
+   "subtitle": "Over 38.5 points",
+   "path": [
+    {
+     "date": "2026-11-13",
+     "mid": 0.64,
+     "bid": 0.51,
+     "ask": 0.77,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.64,
+   "latest": 0.64,
+   "high": 0.64,
+   "low": 0.64,
+   "change": 0.0
+  },
+  "KXNFLTOTAL-26NOV19INDHOU-42": {
+   "series": "KXNFLTOTAL",
+   "event": "Indianapolis vs Houston: Total Points",
+   "game_date": "2026-11-19",
+   "title": "Full Game: over 41.5 points scored?",
+   "subtitle": "Over 41.5 points",
+   "path": [
+    {
+     "date": "2026-11-13",
+     "mid": 0.58,
+     "bid": 0.49,
+     "ask": 0.67,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.58,
+   "latest": 0.58,
+   "high": 0.58,
+   "low": 0.58,
+   "change": 0.0
+  },
+  "KXNFLTOTAL-26NOV19INDHOU-43": {
+   "series": "KXNFLTOTAL",
+   "event": "Indianapolis vs Houston: Total Points",
+   "game_date": "2026-11-19",
+   "title": "Full Game: over 42.5 points scored?",
+   "subtitle": "Over 42.5 points",
+   "path": [
+    {
+     "date": "2026-11-13",
+     "mid": 0.57,
+     "bid": 0.48,
+     "ask": 0.66,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.57,
+   "latest": 0.57,
+   "high": 0.57,
+   "low": 0.57,
+   "change": 0.0
+  },
+  "KXNFLTOTAL-26NOV19INDHOU-44": {
+   "series": "KXNFLTOTAL",
+   "event": "Indianapolis vs Houston: Total Points",
+   "game_date": "2026-11-19",
+   "title": "Full Game: over 43.5 points scored?",
+   "subtitle": "Over 43.5 points",
+   "path": [
+    {
+     "date": "2026-11-13",
+     "mid": 0.48,
+     "bid": 0.47,
+     "ask": 0.49,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.48,
+   "latest": 0.48,
+   "high": 0.48,
+   "low": 0.48,
+   "change": 0.0
+  },
+  "KXNFLTOTAL-26NOV19INDHOU-45": {
+   "series": "KXNFLTOTAL",
+   "event": "Indianapolis vs Houston: Total Points",
+   "game_date": "2026-11-19",
+   "title": "Full Game: over 44.5 points scored?",
+   "subtitle": "Over 44.5 points",
+   "path": [
+    {
+     "date": "2026-11-13",
+     "mid": 0.445,
+     "bid": 0.37,
+     "ask": 0.52,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.445,
+   "latest": 0.445,
+   "high": 0.445,
+   "low": 0.445,
+   "change": 0.0
+  },
+  "KXNFLTOTAL-26NOV19INDHOU-46": {
+   "series": "KXNFLTOTAL",
+   "event": "Indianapolis vs Houston: Total Points",
+   "game_date": "2026-11-19",
+   "title": "Full Game: over 45.5 points scored?",
+   "subtitle": "Over 45.5 points",
+   "path": [
+    {
+     "date": "2026-11-13",
+     "mid": 0.42,
+     "bid": 0.33,
+     "ask": 0.51,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.42,
+   "latest": 0.42,
+   "high": 0.42,
+   "low": 0.42,
+   "change": 0.0
+  },
+  "KXNFLTOTAL-26NOV19INDHOU-47": {
+   "series": "KXNFLTOTAL",
+   "event": "Indianapolis vs Houston: Total Points",
+   "game_date": "2026-11-19",
+   "title": "Full Game: over 46.5 points scored?",
+   "subtitle": "Over 46.5 points",
+   "path": [
+    {
+     "date": "2026-11-13",
+     "mid": 0.4,
+     "bid": 0.32,
+     "ask": 0.48,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.4,
+   "latest": 0.4,
+   "high": 0.4,
+   "low": 0.4,
+   "change": 0.0
+  },
+  "KXNFLTOTAL-26NOV19INDHOU-48": {
+   "series": "KXNFLTOTAL",
+   "event": "Indianapolis vs Houston: Total Points",
+   "game_date": "2026-11-19",
+   "title": "Full Game: over 47.5 points scored?",
+   "subtitle": "Over 47.5 points",
+   "path": [
+    {
+     "date": "2026-11-13",
+     "mid": 0.37,
+     "bid": 0.27,
+     "ask": 0.47,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.37,
+   "latest": 0.37,
+   "high": 0.37,
+   "low": 0.37,
+   "change": 0.0
+  },
+  "KXNFLTOTAL-26NOV19INDHOU-51": {
+   "series": "KXNFLTOTAL",
+   "event": "Indianapolis vs Houston: Total Points",
+   "game_date": "2026-11-19",
+   "title": "Full Game: over 50.5 points scored?",
+   "subtitle": "Over 50.5 points",
+   "path": [
+    {
+     "date": "2026-11-13",
+     "mid": 0.32,
+     "bid": 0.2,
+     "ask": 0.44,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.32,
+   "latest": 0.32,
+   "high": 0.32,
+   "low": 0.32,
+   "change": 0.0
+  },
+  "KXNFLTOTAL-26NOV19INDHOU-54": {
+   "series": "KXNFLTOTAL",
+   "event": "Indianapolis vs Houston: Total Points",
+   "game_date": "2026-11-19",
+   "title": "Full Game: over 53.5 points scored?",
+   "subtitle": "Over 53.5 points",
+   "path": [
+    {
+     "date": "2026-11-13",
+     "mid": 0.265,
+     "bid": 0.14,
+     "ask": 0.39,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.265,
+   "latest": 0.265,
+   "high": 0.265,
+   "low": 0.265,
+   "change": 0.0
+  },
+  "KXNFLTOTAL-26NOV19INDHOU-57": {
+   "series": "KXNFLTOTAL",
+   "event": "Indianapolis vs Houston: Total Points",
+   "game_date": "2026-11-19",
+   "title": "Full Game: over 56.5 points scored?",
+   "subtitle": "Over 56.5 points",
+   "path": [
+    {
+     "date": "2026-11-13",
+     "mid": 0.2,
+     "bid": 0.09,
+     "ask": 0.31,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.2,
+   "latest": 0.2,
+   "high": 0.2,
+   "low": 0.2,
+   "change": 0.0
+  },
+  "KXNFLTOTAL-26NOV19INDHOU-60": {
+   "series": "KXNFLTOTAL",
+   "event": "Indianapolis vs Houston: Total Points",
+   "game_date": "2026-11-19",
+   "title": "Full Game: over 59.5 points scored?",
+   "subtitle": "Over 59.5 points",
+   "path": [
+    {
+     "date": "2026-11-13",
+     "mid": 0.145,
+     "bid": 0.02,
+     "ask": 0.27,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.145,
+   "latest": 0.145,
+   "high": 0.145,
+   "low": 0.145,
+   "change": 0.0
+  },
+  "KXNFLTOTAL-26NOV19INDHOU-63": {
+   "series": "KXNFLTOTAL",
+   "event": "Indianapolis vs Houston: Total Points",
+   "game_date": "2026-11-19",
+   "title": "Full Game: over 62.5 points scored?",
+   "subtitle": "Over 62.5 points",
+   "path": [
+    {
+     "date": "2026-11-13",
+     "mid": 0.13,
+     "bid": 0.03,
+     "ask": 0.23,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.13,
+   "latest": 0.13,
+   "high": 0.13,
+   "low": 0.13,
+   "change": 0.0
+  },
+  "KXNFLTOTAL-26NOV19INDHOU-66": {
+   "series": "KXNFLTOTAL",
+   "event": "Indianapolis vs Houston: Total Points",
+   "game_date": "2026-11-19",
+   "title": "Full Game: over 65.5 points scored?",
+   "subtitle": "Over 65.5 points",
+   "path": [
+    {
+     "date": "2026-11-13",
+     "mid": 0.115,
+     "bid": 0.02,
+     "ask": 0.21,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.115,
+   "latest": 0.115,
+   "high": 0.115,
+   "low": 0.115,
+   "change": 0.0
   }
  }
 }
