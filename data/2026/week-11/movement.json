@@ -1,11 +1,12 @@
 {
- "updated": "2026-11-14",
+ "updated": "2026-11-15",
  "days": [
   "2026-11-10",
   "2026-11-11",
   "2026-11-12",
   "2026-11-13",
-  "2026-11-14"
+  "2026-11-14",
+  "2026-11-15"
  ],
  "top_movers": [
   {
@@ -13,48 +14,64 @@
    "title": "Indianapolis over 2.5 1H points scored",
    "subtitle": "Indianapolis over 2.5 points",
    "first": 0.675,
-   "latest": 0.88,
-   "change": 0.205
+   "latest": 0.87,
+   "change": 0.195
   },
   {
    "ticker": "KXNFL1HTEAMTOTAL-26NOV19INDHOU-IND14",
    "title": "Indianapolis over 13.5 1H points scored",
    "subtitle": "Indianapolis over 13.5 points",
    "first": 0.355,
-   "latest": 0.19,
-   "change": -0.165
+   "latest": 0.205,
+   "change": -0.15
+  },
+  {
+   "ticker": "KXNFLGAME-26NOV22TENDAL-DAL",
+   "title": "Dallas wins",
+   "subtitle": "Dallas",
+   "first": 0.8,
+   "latest": 0.66,
+   "change": -0.14
+  },
+  {
+   "ticker": "KXNFLGAME-26NOV22TENDAL-TEN",
+   "title": "Tennessee wins",
+   "subtitle": "Tennessee",
+   "first": 0.2,
+   "latest": 0.34,
+   "change": 0.14
   },
   {
    "ticker": "KXNFL1HTEAMTOTAL-26NOV19INDHOU-HOU10",
    "title": "Houston over 9.5 1H points scored",
    "subtitle": "Houston over 9.5 points",
    "first": 0.63,
-   "latest": 0.77,
-   "change": 0.14
+   "latest": 0.76,
+   "change": 0.13
   },
   {
    "ticker": "KXNFL1HTEAMTOTAL-26NOV19INDHOU-HOU3",
    "title": "Houston over 2.5 1H points scored",
    "subtitle": "Houston over 2.5 points",
    "first": 0.79,
-   "latest": 0.925,
-   "change": 0.135
+   "latest": 0.92,
+   "change": 0.13
   },
   {
    "ticker": "KXNFL1HTEAMTOTAL-26NOV19INDHOU-HOU7",
    "title": "Houston over 6.5 1H points scored",
    "subtitle": "Houston over 6.5 points",
    "first": 0.74,
-   "latest": 0.875,
-   "change": 0.135
+   "latest": 0.87,
+   "change": 0.13
   },
   {
    "ticker": "KXNFL1HTEAMTOTAL-26NOV19INDHOU-HOU24",
    "title": "Houston over 23.5 1H points scored",
    "subtitle": "Houston over 23.5 points",
    "first": 0.0,
-   "latest": 0.115,
-   "change": 0.115
+   "latest": 0.12,
+   "change": 0.12
   },
   {
    "ticker": "KXNFL1HTEAMTOTAL-26NOV19INDHOU-IND17",
@@ -65,6 +82,14 @@
    "change": 0.105
   },
   {
+   "ticker": "KXNFL1HTEAMTOTAL-26NOV19INDHOU-HOU21",
+   "title": "Houston over 20.5 1H points scored",
+   "subtitle": "Houston over 20.5 points",
+   "first": 0.315,
+   "latest": 0.22,
+   "change": -0.095
+  },
+  {
    "ticker": "KXNFLDELAY-26NOV23CINWAS-Y",
    "title": "Cincinnati vs Washington game to be delayed due to weather",
    "subtitle": "Game to be delayed due to weather",
@@ -73,27 +98,35 @@
    "change": 0.09
   },
   {
-   "ticker": "KXNFL1HTEAMTOTAL-26NOV19INDHOU-HOU21",
-   "title": "Houston over 20.5 1H points scored",
-   "subtitle": "Houston over 20.5 points",
-   "first": 0.315,
-   "latest": 0.23,
-   "change": -0.085
-  },
-  {
    "ticker": "KXNFLTOTAL-26NOV19INDHOU-27",
    "title": "Full Game: over 26.5 points scored?",
    "subtitle": "Over 26.5 points",
    "first": 0.845,
-   "latest": 0.915,
-   "change": 0.07
+   "latest": 0.925,
+   "change": 0.08
   },
   {
    "ticker": "KXNFLTOTAL-26NOV19INDHOU-24",
    "title": "Full Game: over 23.5 points scored?",
    "subtitle": "Over 23.5 points",
    "first": 0.86,
-   "latest": 0.92,
+   "latest": 0.935,
+   "change": 0.075
+  },
+  {
+   "ticker": "KXNFLTOTAL-26NOV19INDHOU-30",
+   "title": "Full Game: over 29.5 points scored?",
+   "subtitle": "Over 29.5 points",
+   "first": 0.825,
+   "latest": 0.885,
+   "change": 0.06
+  },
+  {
+   "ticker": "KXNFLTOTAL-26NOV19INDHOU-33",
+   "title": "Full Game: over 32.5 points scored?",
+   "subtitle": "Over 32.5 points",
+   "first": 0.775,
+   "latest": 0.835,
    "change": 0.06
   },
   {
@@ -121,19 +154,19 @@
    "change": 0.055
   },
   {
-   "ticker": "KXNFLTOTAL-26NOV19INDHOU-63",
-   "title": "Full Game: over 62.5 points scored?",
-   "subtitle": "Over 62.5 points",
-   "first": 0.13,
-   "latest": 0.075,
-   "change": -0.055
-  },
-  {
    "ticker": "KXNFLTOTAL-26NOV19INDHOU-66",
    "title": "Full Game: over 65.5 points scored?",
    "subtitle": "Over 65.5 points",
    "first": 0.115,
-   "latest": 0.065,
+   "latest": 0.06,
+   "change": -0.055
+  },
+  {
+   "ticker": "KXNFLGAME-26NOV22TBDET-TB",
+   "title": "Tampa Bay wins",
+   "subtitle": "Tampa Bay",
+   "first": 0.365,
+   "latest": 0.315,
    "change": -0.05
   },
   {
@@ -145,20 +178,12 @@
    "change": 0.045
   },
   {
-   "ticker": "KXNFLSPREAD-26NOV19INDHOU-HOU6",
-   "title": "Houston wins by over 5.5 points?",
-   "subtitle": "Houston wins by over 5.5 points",
-   "first": 0.61,
-   "latest": 0.655,
-   "change": 0.045
-  },
-  {
-   "ticker": "KXNFLSPREAD-26NOV19INDHOU-HOU7",
-   "title": "Houston wins by over 6.5 points?",
-   "subtitle": "Houston wins by over 6.5 points",
-   "first": 0.585,
-   "latest": 0.63,
-   "change": 0.045
+   "ticker": "KXNFLTOTAL-26NOV19INDHOU-43",
+   "title": "Full Game: over 42.5 points scored?",
+   "subtitle": "Over 42.5 points",
+   "first": 0.57,
+   "latest": 0.525,
+   "change": -0.045
   },
   {
    "ticker": "KXNFL1HTEAMTOTAL-26NOV19INDHOU-HOU31",
@@ -169,35 +194,51 @@
    "change": 0.04
   },
   {
+   "ticker": "KXNFLTOTAL-26NOV19INDHOU-42",
+   "title": "Full Game: over 41.5 points scored?",
+   "subtitle": "Over 41.5 points",
+   "first": 0.58,
+   "latest": 0.54,
+   "change": -0.04
+  },
+  {
+   "ticker": "KXNFLGAME-26NOV19INDHOU-IND",
+   "title": "Indianapolis wins",
+   "subtitle": "Indianapolis",
+   "first": 0.175,
+   "latest": 0.21,
+   "change": 0.035
+  },
+  {
    "ticker": "KXNFLGAME-26NOV22TBDET-DET",
    "title": "Detroit wins",
    "subtitle": "Detroit",
    "first": 0.65,
-   "latest": 0.61,
-   "change": -0.04
+   "latest": 0.685,
+   "change": 0.035
   },
   {
-   "ticker": "KXNFLTOTAL-26NOV19INDHOU-57",
-   "title": "Full Game: over 56.5 points scored?",
-   "subtitle": "Over 56.5 points",
-   "first": 0.2,
-   "latest": 0.16,
-   "change": -0.04
+   "ticker": "KXNFLSPREAD-26NOV19INDHOU-HOU6",
+   "title": "Houston wins by over 5.5 points?",
+   "subtitle": "Houston wins by over 5.5 points",
+   "first": 0.61,
+   "latest": 0.645,
+   "change": 0.035
   },
   {
-   "ticker": "KXNFLTOTAL-26NOV19INDHOU-43",
-   "title": "Full Game: over 42.5 points scored?",
-   "subtitle": "Over 42.5 points",
-   "first": 0.57,
-   "latest": 0.535,
-   "change": -0.035
+   "ticker": "KXNFLSPREAD-26NOV19INDHOU-HOU7",
+   "title": "Houston wins by over 6.5 points?",
+   "subtitle": "Houston wins by over 6.5 points",
+   "first": 0.585,
+   "latest": 0.62,
+   "change": 0.035
   },
   {
-   "ticker": "KXNFLTOTAL-26NOV19INDHOU-60",
-   "title": "Full Game: over 59.5 points scored?",
-   "subtitle": "Over 59.5 points",
-   "first": 0.145,
-   "latest": 0.11,
+   "ticker": "KXNFLTOTAL-26NOV19INDHOU-63",
+   "title": "Full Game: over 62.5 points scored?",
+   "subtitle": "Over 62.5 points",
+   "first": 0.13,
+   "latest": 0.095,
    "change": -0.035
   },
   {
@@ -209,76 +250,76 @@
    "change": 0.03
   },
   {
-   "ticker": "KXNFLGAME-26NOV19INDHOU-IND",
-   "title": "Indianapolis wins",
-   "subtitle": "Indianapolis",
-   "first": 0.175,
-   "latest": 0.205,
-   "change": 0.03
-  },
-  {
-   "ticker": "KXNFLGAME-26NOV22LVDEN-DEN",
-   "title": "Denver wins",
-   "subtitle": "Denver",
-   "first": 0.775,
-   "latest": 0.805,
-   "change": 0.03
-  },
-  {
-   "ticker": "KXNFLGAME-26NOV22MINSF-SF",
-   "title": "San Francisco wins",
-   "subtitle": "San Francisco",
-   "first": 0.665,
-   "latest": 0.69,
-   "change": 0.025
-  },
-  {
-   "ticker": "KXNFLGAME-26NOV22TBDET-TB",
-   "title": "Tampa Bay wins",
-   "subtitle": "Tampa Bay",
-   "first": 0.365,
-   "latest": 0.39,
-   "change": 0.025
-  },
-  {
-   "ticker": "KXNFLTOTAL-26NOV19INDHOU-42",
-   "title": "Full Game: over 41.5 points scored?",
-   "subtitle": "Over 41.5 points",
-   "first": 0.58,
-   "latest": 0.555,
-   "change": -0.025
-  },
-  {
-   "ticker": "KXNFLTOTAL-26NOV19INDHOU-48",
-   "title": "Full Game: over 47.5 points scored?",
-   "subtitle": "Over 47.5 points",
-   "first": 0.37,
-   "latest": 0.395,
-   "change": 0.025
-  },
-  {
    "ticker": "KXNFLGAME-26NOV19INDHOU-HOU",
    "title": "Houston wins",
    "subtitle": "Houston",
    "first": 0.825,
-   "latest": 0.805,
-   "change": -0.02
+   "latest": 0.8,
+   "change": -0.025
   },
   {
-   "ticker": "KXNFLGAME-26NOV22LVDEN-LV",
-   "title": "Las Vegas wins",
-   "subtitle": "Las Vegas",
-   "first": 0.23,
-   "latest": 0.21,
-   "change": -0.02
+   "ticker": "KXNFLGAME-26NOV22JACNYG-NYG",
+   "title": "New York G wins",
+   "subtitle": "New York G",
+   "first": 0.305,
+   "latest": 0.33,
+   "change": 0.025
   },
   {
-   "ticker": "KXNFLSPREAD-26NOV19INDHOU-HOU10",
-   "title": "Houston wins by over 9.5 points?",
-   "subtitle": "Houston wins by over 9.5 points",
-   "first": 0.505,
-   "latest": 0.525,
+   "ticker": "KXNFLSPREAD-26NOV19INDHOU-IND3",
+   "title": "Indianapolis wins by over 2.5 points?",
+   "subtitle": "Indianapolis wins by over 2.5 points",
+   "first": 0.13,
+   "latest": 0.155,
+   "change": 0.025
+  },
+  {
+   "ticker": "KXNFLTOTAL-26NOV19INDHOU-45",
+   "title": "Full Game: over 44.5 points scored?",
+   "subtitle": "Over 44.5 points",
+   "first": 0.445,
+   "latest": 0.47,
+   "change": 0.025
+  },
+  {
+   "ticker": "KXNFLTOTAL-26NOV19INDHOU-46",
+   "title": "Full Game: over 45.5 points scored?",
+   "subtitle": "Over 45.5 points",
+   "first": 0.42,
+   "latest": 0.445,
+   "change": 0.025
+  },
+  {
+   "ticker": "KXNFLGAME-26NOV22MINSF-MIN",
+   "title": "Minnesota wins",
+   "subtitle": "Minnesota",
+   "first": 0.335,
+   "latest": 0.355,
    "change": 0.02
+  },
+  {
+   "ticker": "KXNFLTOTAL-26NOV19INDHOU-47",
+   "title": "Full Game: over 46.5 points scored?",
+   "subtitle": "Over 46.5 points",
+   "first": 0.4,
+   "latest": 0.42,
+   "change": 0.02
+  },
+  {
+   "ticker": "KXNFLTOTAL-26NOV19INDHOU-57",
+   "title": "Full Game: over 56.5 points scored?",
+   "subtitle": "Over 56.5 points",
+   "first": 0.2,
+   "latest": 0.18,
+   "change": -0.02
+  },
+  {
+   "ticker": "KXNFLTOTAL-26NOV19INDHOU-60",
+   "title": "Full Game: over 59.5 points scored?",
+   "subtitle": "Over 59.5 points",
+   "first": 0.145,
+   "latest": 0.125,
+   "change": -0.02
   },
   {
    "ticker": "KXNFL1HTEAMTOTAL-26NOV19INDHOU-HOU14",
@@ -289,68 +330,28 @@
    "change": 0.015
   },
   {
-   "ticker": "KXNFLGAME-26NOV22NOCHI-CHI",
-   "title": "Chicago wins",
-   "subtitle": "Chicago",
-   "first": 0.815,
-   "latest": 0.83,
-   "change": 0.015
-  },
-  {
-   "ticker": "KXNFLGAME-26NOV22NYJLAC-NYJ",
-   "title": "New York J wins",
-   "subtitle": "New York J",
+   "ticker": "KXNFL1HTEAMTOTAL-26NOV19INDHOU-IND10",
+   "title": "Indianapolis over 9.5 1H points scored",
+   "subtitle": "Indianapolis over 9.5 points",
    "first": 0.465,
-   "latest": 0.48,
-   "change": 0.015
-  },
-  {
-   "ticker": "KXNFLSPREAD-26NOV19INDHOU-HOU4",
-   "title": "Houston wins by over 3.5 points?",
-   "subtitle": "Houston wins by over 3.5 points",
-   "first": 0.705,
-   "latest": 0.72,
-   "change": 0.015
-  },
-  {
-   "ticker": "KXNFLSPREAD-26NOV19INDHOU-HOU5",
-   "title": "Houston wins by over 4.5 points?",
-   "subtitle": "Houston wins by over 4.5 points",
-   "first": 0.67,
-   "latest": 0.685,
-   "change": 0.015
-  },
-  {
-   "ticker": "KXNFLSPREAD-26NOV19INDHOU-HOU8",
-   "title": "Houston wins by over 7.5 points?",
-   "subtitle": "Houston wins by over 7.5 points",
-   "first": 0.565,
-   "latest": 0.58,
-   "change": 0.015
-  },
-  {
-   "ticker": "KXNFLSPREAD-26NOV19INDHOU-IND3",
-   "title": "Indianapolis wins by over 2.5 points?",
-   "subtitle": "Indianapolis wins by over 2.5 points",
-   "first": 0.13,
-   "latest": 0.145,
-   "change": 0.015
-  },
-  {
-   "ticker": "KXNFLSPREAD-26NOV19INDHOU-IND7",
-   "title": "Indianapolis wins by over 6.5 points?",
-   "subtitle": "Indianapolis wins by over 6.5 points",
-   "first": 0.085,
-   "latest": 0.07,
+   "latest": 0.45,
    "change": -0.015
   },
   {
-   "ticker": "KXNFLTOTAL-26NOV19INDHOU-33",
-   "title": "Full Game: over 32.5 points scored?",
-   "subtitle": "Over 32.5 points",
-   "first": 0.775,
-   "latest": 0.79,
-   "change": 0.015
+   "ticker": "KXNFLGAME-26NOV22JACNYG-JAC",
+   "title": "Jacksonville wins",
+   "subtitle": "Jacksonville",
+   "first": 0.695,
+   "latest": 0.68,
+   "change": -0.015
+  },
+  {
+   "ticker": "KXNFLSPREAD-26NOV19INDHOU-HOU3",
+   "title": "Houston wins by over 2.5 points?",
+   "subtitle": "Houston wins by over 2.5 points",
+   "first": 0.77,
+   "latest": 0.755,
+   "change": -0.015
   },
   {
    "ticker": "KXNFLTOTAL-26NOV19INDHOU-36",
@@ -361,20 +362,36 @@
    "change": 0.015
   },
   {
-   "ticker": "KXNFLTOTAL-26NOV19INDHOU-46",
-   "title": "Full Game: over 45.5 points scored?",
-   "subtitle": "Over 45.5 points",
-   "first": 0.42,
-   "latest": 0.435,
+   "ticker": "KXNFLTOTAL-26NOV19INDHOU-44",
+   "title": "Full Game: over 43.5 points scored?",
+   "subtitle": "Over 43.5 points",
+   "first": 0.48,
+   "latest": 0.495,
    "change": 0.015
   },
   {
-   "ticker": "KXNFLTOTAL-26NOV19INDHOU-47",
-   "title": "Full Game: over 46.5 points scored?",
-   "subtitle": "Over 46.5 points",
-   "first": 0.4,
-   "latest": 0.415,
+   "ticker": "KXNFLTOTAL-26NOV19INDHOU-48",
+   "title": "Full Game: over 47.5 points scored?",
+   "subtitle": "Over 47.5 points",
+   "first": 0.37,
+   "latest": 0.385,
    "change": 0.015
+  },
+  {
+   "ticker": "KXNFLGAME-26NOV22ARIKC-ARI",
+   "title": "Arizona wins",
+   "subtitle": "Arizona",
+   "first": 0.135,
+   "latest": 0.125,
+   "change": -0.01
+  },
+  {
+   "ticker": "KXNFLGAME-26NOV22BALCAR-BAL",
+   "title": "Baltimore wins",
+   "subtitle": "Baltimore",
+   "first": 0.46,
+   "latest": 0.47,
+   "change": 0.01
   },
   {
    "ticker": "KXNFLGAME-26NOV22BALCAR-CAR",
@@ -385,31 +402,204 @@
    "change": 0.01
   },
   {
-   "ticker": "KXNFLGAME-26NOV22NYJLAC-LAC",
-   "title": "Los Angeles C wins",
-   "subtitle": "Los Angeles C",
-   "first": 0.54,
-   "latest": 0.53,
-   "change": -0.01
-  },
-  {
-   "ticker": "KXNFLGAME-26NOV22PITPHI-PIT",
-   "title": "Pittsburgh wins",
-   "subtitle": "Pittsburgh",
-   "first": 0.67,
-   "latest": 0.66,
-   "change": -0.01
-  },
-  {
-   "ticker": "KXNFLGAME-26NOV23CINWAS-CIN",
-   "title": "Cincinnati wins",
-   "subtitle": "Cincinnati",
-   "first": 0.65,
-   "latest": 0.66,
+   "ticker": "KXNFLGAME-26NOV22MIABUF-BUF",
+   "title": "Buffalo wins",
+   "subtitle": "Buffalo",
+   "first": 0.915,
+   "latest": 0.925,
    "change": 0.01
   }
  ],
  "markets": {
+  "KXNFL1HFT-26NOV19INDHOU-HOUHOU": {
+   "series": "KXNFL1HFT",
+   "event": "Indianapolis vs Houston: 1st Half / Fulltime Result",
+   "game_date": "2026-11-19",
+   "title": "Houston wins 1st Half / Houston wins game",
+   "subtitle": "Houston 1H / Houston game",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.55,
+     "bid": 0.5,
+     "ask": 0.6,
+     "volume": 48.35
+    }
+   ],
+   "first": 0.55,
+   "latest": 0.55,
+   "high": 0.55,
+   "low": 0.55,
+   "change": 0.0
+  },
+  "KXNFL1HFT-26NOV19INDHOU-HOUIND": {
+   "series": "KXNFL1HFT",
+   "event": "Indianapolis vs Houston: 1st Half / Fulltime Result",
+   "game_date": "2026-11-19",
+   "title": "Houston wins 1st Half / Indianapolis wins game",
+   "subtitle": "Houston 1H / Indianapolis game",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.035,
+     "bid": 0.01,
+     "ask": 0.06,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.035,
+   "latest": 0.035,
+   "high": 0.035,
+   "low": 0.035,
+   "change": 0.0
+  },
+  "KXNFL1HFT-26NOV19INDHOU-HOUTIE": {
+   "series": "KXNFL1HFT",
+   "event": "Indianapolis vs Houston: 1st Half / Fulltime Result",
+   "game_date": "2026-11-19",
+   "title": "Houston wins 1st Half / Game ends in a tie",
+   "subtitle": "Houston 1H / Tie game",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.01,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HFT-26NOV19INDHOU-INDHOU": {
+   "series": "KXNFL1HFT",
+   "event": "Indianapolis vs Houston: 1st Half / Fulltime Result",
+   "game_date": "2026-11-19",
+   "title": "Indianapolis wins 1st Half / Houston wins game",
+   "subtitle": "Indianapolis 1H / Houston game",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.075,
+     "bid": 0.04,
+     "ask": 0.11,
+     "volume": 15.0
+    }
+   ],
+   "first": 0.075,
+   "latest": 0.075,
+   "high": 0.075,
+   "low": 0.075,
+   "change": 0.0
+  },
+  "KXNFL1HFT-26NOV19INDHOU-INDIND": {
+   "series": "KXNFL1HFT",
+   "event": "Indianapolis vs Houston: 1st Half / Fulltime Result",
+   "game_date": "2026-11-19",
+   "title": "Indianapolis wins 1st Half / Indianapolis wins game",
+   "subtitle": "Indianapolis 1H / Indianapolis game",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.09,
+     "bid": 0.06,
+     "ask": 0.12,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.09,
+   "latest": 0.09,
+   "high": 0.09,
+   "low": 0.09,
+   "change": 0.0
+  },
+  "KXNFL1HFT-26NOV19INDHOU-INDTIE": {
+   "series": "KXNFL1HFT",
+   "event": "Indianapolis vs Houston: 1st Half / Fulltime Result",
+   "game_date": "2026-11-19",
+   "title": "Indianapolis wins 1st Half / Game ends in a tie",
+   "subtitle": "Indianapolis 1H / Tie game",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.01,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HFT-26NOV19INDHOU-TIEHOU": {
+   "series": "KXNFL1HFT",
+   "event": "Indianapolis vs Houston: 1st Half / Fulltime Result",
+   "game_date": "2026-11-19",
+   "title": "Tie in 1st Half / Houston wins game",
+   "subtitle": "Tie 1H / Houston game",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.035,
+     "bid": 0.01,
+     "ask": 0.06,
+     "volume": 15.0
+    }
+   ],
+   "first": 0.035,
+   "latest": 0.035,
+   "high": 0.035,
+   "low": 0.035,
+   "change": 0.0
+  },
+  "KXNFL1HFT-26NOV19INDHOU-TIEIND": {
+   "series": "KXNFL1HFT",
+   "event": "Indianapolis vs Houston: 1st Half / Fulltime Result",
+   "game_date": "2026-11-19",
+   "title": "Tie in 1st Half / Indianapolis wins game",
+   "subtitle": "Tie 1H / Indianapolis game",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.04,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HFT-26NOV19INDHOU-TIETIE": {
+   "series": "KXNFL1HFT",
+   "event": "Indianapolis vs Houston: 1st Half / Fulltime Result",
+   "game_date": "2026-11-19",
+   "title": "Tie in 1st Half / Game ends in a tie",
+   "subtitle": "Tie 1H / Tie game",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.01,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
   "KXNFL1HTEAMTOTAL-26NOV19INDHOU-HOU10": {
    "series": "KXNFL1HTEAMTOTAL",
    "event": "Indianapolis vs Houston: 1st Half Team Total",
@@ -430,13 +620,20 @@
      "bid": 0.7,
      "ask": 0.84,
      "volume": 0.0
+    },
+    {
+     "date": "2026-11-15",
+     "mid": 0.76,
+     "bid": 0.69,
+     "ask": 0.83,
+     "volume": 0.0
     }
    ],
    "first": 0.63,
-   "latest": 0.77,
+   "latest": 0.76,
    "high": 0.77,
    "low": 0.63,
-   "change": 0.14
+   "change": 0.13
   },
   "KXNFL1HTEAMTOTAL-26NOV19INDHOU-HOU14": {
    "series": "KXNFL1HTEAMTOTAL",
@@ -458,6 +655,13 @@
      "bid": 0.48,
      "ask": 0.62,
      "volume": 0.0
+    },
+    {
+     "date": "2026-11-15",
+     "mid": 0.55,
+     "bid": 0.48,
+     "ask": 0.62,
+     "volume": 39.89
     }
    ],
    "first": 0.535,
@@ -486,6 +690,13 @@
      "bid": 0.35,
      "ask": 0.49,
      "volume": 0.0
+    },
+    {
+     "date": "2026-11-15",
+     "mid": 0.42,
+     "bid": 0.35,
+     "ask": 0.49,
+     "volume": 20.1
     }
    ],
    "first": 0.415,
@@ -510,6 +721,13 @@
     },
     {
      "date": "2026-11-14",
+     "mid": 0.28,
+     "bid": 0.21,
+     "ask": 0.35,
+     "volume": 0.0
+    },
+    {
+     "date": "2026-11-15",
      "mid": 0.28,
      "bid": 0.21,
      "ask": 0.35,
@@ -542,13 +760,20 @@
      "bid": 0.16,
      "ask": 0.3,
      "volume": 0.0
+    },
+    {
+     "date": "2026-11-15",
+     "mid": 0.22,
+     "bid": 0.15,
+     "ask": 0.29,
+     "volume": 0.0
     }
    ],
    "first": 0.315,
-   "latest": 0.23,
+   "latest": 0.22,
    "high": 0.315,
-   "low": 0.23,
-   "change": -0.085
+   "low": 0.22,
+   "change": -0.095
   },
   "KXNFL1HTEAMTOTAL-26NOV19INDHOU-HOU24": {
    "series": "KXNFL1HTEAMTOTAL",
@@ -570,13 +795,20 @@
      "bid": 0.07,
      "ask": 0.16,
      "volume": 0.52
+    },
+    {
+     "date": "2026-11-15",
+     "mid": 0.12,
+     "bid": 0.07,
+     "ask": 0.17,
+     "volume": 0.52
     }
    ],
    "first": 0.0,
-   "latest": 0.115,
-   "high": 0.115,
+   "latest": 0.12,
+   "high": 0.12,
    "low": 0.0,
-   "change": 0.115
+   "change": 0.12
   },
   "KXNFL1HTEAMTOTAL-26NOV19INDHOU-HOU28": {
    "series": "KXNFL1HTEAMTOTAL",
@@ -594,6 +826,13 @@
     },
     {
      "date": "2026-11-14",
+     "mid": 0.055,
+     "bid": 0.01,
+     "ask": 0.1,
+     "volume": 0.0
+    },
+    {
+     "date": "2026-11-15",
      "mid": 0.055,
      "bid": 0.01,
      "ask": 0.1,
@@ -626,13 +865,20 @@
      "bid": 0.9,
      "ask": 0.95,
      "volume": 0.0
+    },
+    {
+     "date": "2026-11-15",
+     "mid": 0.92,
+     "bid": 0.89,
+     "ask": 0.95,
+     "volume": 0.0
     }
    ],
    "first": 0.79,
-   "latest": 0.925,
+   "latest": 0.92,
    "high": 0.925,
    "low": 0.79,
-   "change": 0.135
+   "change": 0.13
   },
   "KXNFL1HTEAMTOTAL-26NOV19INDHOU-HOU31": {
    "series": "KXNFL1HTEAMTOTAL",
@@ -650,6 +896,13 @@
     },
     {
      "date": "2026-11-14",
+     "mid": 0.04,
+     "bid": 0.01,
+     "ask": 0.07,
+     "volume": 0.0
+    },
+    {
+     "date": "2026-11-15",
      "mid": 0.04,
      "bid": 0.01,
      "ask": 0.07,
@@ -682,13 +935,20 @@
      "bid": 0.81,
      "ask": 0.94,
      "volume": 0.0
+    },
+    {
+     "date": "2026-11-15",
+     "mid": 0.87,
+     "bid": 0.8,
+     "ask": 0.94,
+     "volume": 0.0
     }
    ],
    "first": 0.74,
-   "latest": 0.875,
+   "latest": 0.87,
    "high": 0.875,
    "low": 0.74,
-   "change": 0.135
+   "change": 0.13
   },
   "KXNFL1HTEAMTOTAL-26NOV19INDHOU-IND10": {
    "series": "KXNFL1HTEAMTOTAL",
@@ -710,13 +970,20 @@
      "bid": 0.39,
      "ask": 0.53,
      "volume": 0.0
+    },
+    {
+     "date": "2026-11-15",
+     "mid": 0.45,
+     "bid": 0.38,
+     "ask": 0.52,
+     "volume": 7.73
     }
    ],
    "first": 0.465,
-   "latest": 0.46,
+   "latest": 0.45,
    "high": 0.465,
-   "low": 0.46,
-   "change": -0.005
+   "low": 0.45,
+   "change": -0.015
   },
   "KXNFL1HTEAMTOTAL-26NOV19INDHOU-IND14": {
    "series": "KXNFL1HTEAMTOTAL",
@@ -738,13 +1005,20 @@
      "bid": 0.14,
      "ask": 0.24,
      "volume": 1.9
+    },
+    {
+     "date": "2026-11-15",
+     "mid": 0.205,
+     "bid": 0.16,
+     "ask": 0.25,
+     "volume": 1.9
     }
    ],
    "first": 0.355,
-   "latest": 0.19,
+   "latest": 0.205,
    "high": 0.355,
    "low": 0.19,
-   "change": -0.165
+   "change": -0.15
   },
   "KXNFL1HTEAMTOTAL-26NOV19INDHOU-IND17": {
    "series": "KXNFL1HTEAMTOTAL",
@@ -762,6 +1036,13 @@
     },
     {
      "date": "2026-11-14",
+     "mid": 0.105,
+     "bid": 0.06,
+     "ask": 0.15,
+     "volume": 0.0
+    },
+    {
+     "date": "2026-11-15",
      "mid": 0.105,
      "bid": 0.06,
      "ask": 0.15,
@@ -794,6 +1075,13 @@
      "bid": 0.01,
      "ask": 0.1,
      "volume": 0.0
+    },
+    {
+     "date": "2026-11-15",
+     "mid": 0.055,
+     "bid": 0.01,
+     "ask": 0.1,
+     "volume": 0.0
     }
    ],
    "first": 0.0,
@@ -818,6 +1106,13 @@
     },
     {
      "date": "2026-11-14",
+     "mid": 0.045,
+     "bid": 0.01,
+     "ask": 0.08,
+     "volume": 0.0
+    },
+    {
+     "date": "2026-11-15",
      "mid": 0.045,
      "bid": 0.01,
      "ask": 0.08,
@@ -850,6 +1145,13 @@
      "bid": 0.0,
      "ask": 0.06,
      "volume": 0.0
+    },
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.06,
+     "volume": 0.0
     }
    ],
    "first": 0.0,
@@ -874,6 +1176,13 @@
     },
     {
      "date": "2026-11-14",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.05,
+     "volume": 0.0
+    },
+    {
+     "date": "2026-11-15",
      "mid": 0.0,
      "bid": 0.0,
      "ask": 0.05,
@@ -906,13 +1215,20 @@
      "bid": 0.82,
      "ask": 0.94,
      "volume": 0.0
+    },
+    {
+     "date": "2026-11-15",
+     "mid": 0.87,
+     "bid": 0.8,
+     "ask": 0.94,
+     "volume": 0.0
     }
    ],
    "first": 0.675,
-   "latest": 0.88,
+   "latest": 0.87,
    "high": 0.88,
    "low": 0.675,
-   "change": 0.205
+   "change": 0.195
   },
   "KXNFL1HTEAMTOTAL-26NOV19INDHOU-IND31": {
    "series": "KXNFL1HTEAMTOTAL",
@@ -930,6 +1246,13 @@
     },
     {
      "date": "2026-11-14",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.05,
+     "volume": 0.0
+    },
+    {
+     "date": "2026-11-15",
      "mid": 0.0,
      "bid": 0.0,
      "ask": 0.05,
@@ -962,6 +1285,13 @@
      "bid": 0.56,
      "ask": 0.7,
      "volume": 0.0
+    },
+    {
+     "date": "2026-11-15",
+     "mid": 0.63,
+     "bid": 0.56,
+     "ask": 0.7,
+     "volume": 0.0
     }
    ],
    "first": 0.6,
@@ -969,6 +1299,2946 @@
    "high": 0.63,
    "low": 0.6,
    "change": 0.03
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22ARIKC-ARI10": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Arizona vs Kansas City: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "Arizona over 9.5 1H points scored",
+   "subtitle": "Arizona over 9.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22ARIKC-ARI14": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Arizona vs Kansas City: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "Arizona over 13.5 1H points scored",
+   "subtitle": "Arizona over 13.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22ARIKC-ARI17": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Arizona vs Kansas City: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "Arizona over 16.5 1H points scored",
+   "subtitle": "Arizona over 16.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22ARIKC-ARI20": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Arizona vs Kansas City: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "Arizona over 19.5 1H points scored",
+   "subtitle": "Arizona over 19.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22ARIKC-ARI21": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Arizona vs Kansas City: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "Arizona over 20.5 1H points scored",
+   "subtitle": "Arizona over 20.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22ARIKC-ARI24": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Arizona vs Kansas City: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "Arizona over 23.5 1H points scored",
+   "subtitle": "Arizona over 23.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22ARIKC-ARI28": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Arizona vs Kansas City: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "Arizona over 27.5 1H points scored",
+   "subtitle": "Arizona over 27.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22ARIKC-ARI3": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Arizona vs Kansas City: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "Arizona over 2.5 1H points scored",
+   "subtitle": "Arizona over 2.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22ARIKC-ARI31": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Arizona vs Kansas City: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "Arizona over 30.5 1H points scored",
+   "subtitle": "Arizona over 30.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22ARIKC-ARI7": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Arizona vs Kansas City: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "Arizona over 6.5 1H points scored",
+   "subtitle": "Arizona over 6.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22ARIKC-KC10": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Arizona vs Kansas City: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "Kansas City over 9.5 1H points scored",
+   "subtitle": "Kansas City over 9.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22ARIKC-KC14": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Arizona vs Kansas City: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "Kansas City over 13.5 1H points scored",
+   "subtitle": "Kansas City over 13.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22ARIKC-KC17": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Arizona vs Kansas City: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "Kansas City over 16.5 1H points scored",
+   "subtitle": "Kansas City over 16.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22ARIKC-KC20": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Arizona vs Kansas City: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "Kansas City over 19.5 1H points scored",
+   "subtitle": "Kansas City over 19.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22ARIKC-KC21": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Arizona vs Kansas City: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "Kansas City over 20.5 1H points scored",
+   "subtitle": "Kansas City over 20.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22ARIKC-KC24": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Arizona vs Kansas City: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "Kansas City over 23.5 1H points scored",
+   "subtitle": "Kansas City over 23.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22ARIKC-KC28": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Arizona vs Kansas City: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "Kansas City over 27.5 1H points scored",
+   "subtitle": "Kansas City over 27.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22ARIKC-KC3": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Arizona vs Kansas City: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "Kansas City over 2.5 1H points scored",
+   "subtitle": "Kansas City over 2.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22ARIKC-KC31": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Arizona vs Kansas City: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "Kansas City over 30.5 1H points scored",
+   "subtitle": "Kansas City over 30.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22ARIKC-KC7": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Arizona vs Kansas City: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "Kansas City over 6.5 1H points scored",
+   "subtitle": "Kansas City over 6.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22BALCAR-BAL10": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Baltimore vs Carolina: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "Baltimore over 9.5 1H points scored",
+   "subtitle": "Baltimore over 9.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22BALCAR-BAL14": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Baltimore vs Carolina: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "Baltimore over 13.5 1H points scored",
+   "subtitle": "Baltimore over 13.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22BALCAR-BAL17": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Baltimore vs Carolina: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "Baltimore over 16.5 1H points scored",
+   "subtitle": "Baltimore over 16.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22BALCAR-BAL20": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Baltimore vs Carolina: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "Baltimore over 19.5 1H points scored",
+   "subtitle": "Baltimore over 19.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22BALCAR-BAL21": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Baltimore vs Carolina: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "Baltimore over 20.5 1H points scored",
+   "subtitle": "Baltimore over 20.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22BALCAR-BAL24": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Baltimore vs Carolina: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "Baltimore over 23.5 1H points scored",
+   "subtitle": "Baltimore over 23.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22BALCAR-BAL28": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Baltimore vs Carolina: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "Baltimore over 27.5 1H points scored",
+   "subtitle": "Baltimore over 27.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22BALCAR-BAL3": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Baltimore vs Carolina: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "Baltimore over 2.5 1H points scored",
+   "subtitle": "Baltimore over 2.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22BALCAR-BAL31": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Baltimore vs Carolina: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "Baltimore over 30.5 1H points scored",
+   "subtitle": "Baltimore over 30.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22BALCAR-BAL7": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Baltimore vs Carolina: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "Baltimore over 6.5 1H points scored",
+   "subtitle": "Baltimore over 6.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22BALCAR-CAR10": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Baltimore vs Carolina: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "Carolina over 9.5 1H points scored",
+   "subtitle": "Carolina over 9.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22BALCAR-CAR14": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Baltimore vs Carolina: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "Carolina over 13.5 1H points scored",
+   "subtitle": "Carolina over 13.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22BALCAR-CAR17": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Baltimore vs Carolina: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "Carolina over 16.5 1H points scored",
+   "subtitle": "Carolina over 16.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22BALCAR-CAR20": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Baltimore vs Carolina: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "Carolina over 19.5 1H points scored",
+   "subtitle": "Carolina over 19.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22BALCAR-CAR21": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Baltimore vs Carolina: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "Carolina over 20.5 1H points scored",
+   "subtitle": "Carolina over 20.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22BALCAR-CAR24": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Baltimore vs Carolina: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "Carolina over 23.5 1H points scored",
+   "subtitle": "Carolina over 23.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22BALCAR-CAR28": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Baltimore vs Carolina: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "Carolina over 27.5 1H points scored",
+   "subtitle": "Carolina over 27.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22BALCAR-CAR3": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Baltimore vs Carolina: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "Carolina over 2.5 1H points scored",
+   "subtitle": "Carolina over 2.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22BALCAR-CAR31": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Baltimore vs Carolina: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "Carolina over 30.5 1H points scored",
+   "subtitle": "Carolina over 30.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22BALCAR-CAR7": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Baltimore vs Carolina: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "Carolina over 6.5 1H points scored",
+   "subtitle": "Carolina over 6.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22MIABUF-BUF10": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Miami vs Buffalo: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "Buffalo over 9.5 1H points scored",
+   "subtitle": "Buffalo over 9.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22MIABUF-BUF14": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Miami vs Buffalo: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "Buffalo over 13.5 1H points scored",
+   "subtitle": "Buffalo over 13.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22MIABUF-BUF17": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Miami vs Buffalo: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "Buffalo over 16.5 1H points scored",
+   "subtitle": "Buffalo over 16.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22MIABUF-BUF20": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Miami vs Buffalo: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "Buffalo over 19.5 1H points scored",
+   "subtitle": "Buffalo over 19.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22MIABUF-BUF21": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Miami vs Buffalo: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "Buffalo over 20.5 1H points scored",
+   "subtitle": "Buffalo over 20.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22MIABUF-BUF24": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Miami vs Buffalo: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "Buffalo over 23.5 1H points scored",
+   "subtitle": "Buffalo over 23.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22MIABUF-BUF28": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Miami vs Buffalo: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "Buffalo over 27.5 1H points scored",
+   "subtitle": "Buffalo over 27.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22MIABUF-BUF3": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Miami vs Buffalo: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "Buffalo over 2.5 1H points scored",
+   "subtitle": "Buffalo over 2.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22MIABUF-BUF31": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Miami vs Buffalo: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "Buffalo over 30.5 1H points scored",
+   "subtitle": "Buffalo over 30.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22MIABUF-BUF7": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Miami vs Buffalo: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "Buffalo over 6.5 1H points scored",
+   "subtitle": "Buffalo over 6.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22MIABUF-MIA10": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Miami vs Buffalo: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "Miami over 9.5 1H points scored",
+   "subtitle": "Miami over 9.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22MIABUF-MIA14": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Miami vs Buffalo: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "Miami over 13.5 1H points scored",
+   "subtitle": "Miami over 13.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22MIABUF-MIA17": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Miami vs Buffalo: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "Miami over 16.5 1H points scored",
+   "subtitle": "Miami over 16.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22MIABUF-MIA20": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Miami vs Buffalo: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "Miami over 19.5 1H points scored",
+   "subtitle": "Miami over 19.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22MIABUF-MIA21": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Miami vs Buffalo: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "Miami over 20.5 1H points scored",
+   "subtitle": "Miami over 20.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22MIABUF-MIA24": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Miami vs Buffalo: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "Miami over 23.5 1H points scored",
+   "subtitle": "Miami over 23.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22MIABUF-MIA28": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Miami vs Buffalo: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "Miami over 27.5 1H points scored",
+   "subtitle": "Miami over 27.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22MIABUF-MIA3": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Miami vs Buffalo: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "Miami over 2.5 1H points scored",
+   "subtitle": "Miami over 2.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22MIABUF-MIA31": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Miami vs Buffalo: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "Miami over 30.5 1H points scored",
+   "subtitle": "Miami over 30.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22MIABUF-MIA7": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Miami vs Buffalo: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "Miami over 6.5 1H points scored",
+   "subtitle": "Miami over 6.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22NOCHI-CHI10": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "New Orleans vs Chicago: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "Chicago over 9.5 1H points scored",
+   "subtitle": "Chicago over 9.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22NOCHI-CHI14": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "New Orleans vs Chicago: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "Chicago over 13.5 1H points scored",
+   "subtitle": "Chicago over 13.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22NOCHI-CHI17": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "New Orleans vs Chicago: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "Chicago over 16.5 1H points scored",
+   "subtitle": "Chicago over 16.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22NOCHI-CHI20": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "New Orleans vs Chicago: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "Chicago over 19.5 1H points scored",
+   "subtitle": "Chicago over 19.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22NOCHI-CHI21": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "New Orleans vs Chicago: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "Chicago over 20.5 1H points scored",
+   "subtitle": "Chicago over 20.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22NOCHI-CHI24": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "New Orleans vs Chicago: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "Chicago over 23.5 1H points scored",
+   "subtitle": "Chicago over 23.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22NOCHI-CHI28": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "New Orleans vs Chicago: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "Chicago over 27.5 1H points scored",
+   "subtitle": "Chicago over 27.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22NOCHI-CHI3": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "New Orleans vs Chicago: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "Chicago over 2.5 1H points scored",
+   "subtitle": "Chicago over 2.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22NOCHI-CHI31": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "New Orleans vs Chicago: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "Chicago over 30.5 1H points scored",
+   "subtitle": "Chicago over 30.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22NOCHI-CHI7": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "New Orleans vs Chicago: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "Chicago over 6.5 1H points scored",
+   "subtitle": "Chicago over 6.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22NOCHI-NO10": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "New Orleans vs Chicago: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "New Orleans over 9.5 1H points scored",
+   "subtitle": "New Orleans over 9.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22NOCHI-NO14": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "New Orleans vs Chicago: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "New Orleans over 13.5 1H points scored",
+   "subtitle": "New Orleans over 13.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22NOCHI-NO17": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "New Orleans vs Chicago: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "New Orleans over 16.5 1H points scored",
+   "subtitle": "New Orleans over 16.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22NOCHI-NO20": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "New Orleans vs Chicago: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "New Orleans over 19.5 1H points scored",
+   "subtitle": "New Orleans over 19.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22NOCHI-NO21": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "New Orleans vs Chicago: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "New Orleans over 20.5 1H points scored",
+   "subtitle": "New Orleans over 20.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22NOCHI-NO24": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "New Orleans vs Chicago: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "New Orleans over 23.5 1H points scored",
+   "subtitle": "New Orleans over 23.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22NOCHI-NO28": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "New Orleans vs Chicago: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "New Orleans over 27.5 1H points scored",
+   "subtitle": "New Orleans over 27.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22NOCHI-NO3": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "New Orleans vs Chicago: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "New Orleans over 2.5 1H points scored",
+   "subtitle": "New Orleans over 2.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22NOCHI-NO31": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "New Orleans vs Chicago: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "New Orleans over 30.5 1H points scored",
+   "subtitle": "New Orleans over 30.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22NOCHI-NO7": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "New Orleans vs Chicago: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "New Orleans over 6.5 1H points scored",
+   "subtitle": "New Orleans over 6.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22PITPHI-PHI10": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Pittsburgh vs Philadelphia: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "Philadelphia over 9.5 1H points scored",
+   "subtitle": "Philadelphia over 9.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22PITPHI-PHI14": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Pittsburgh vs Philadelphia: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "Philadelphia over 13.5 1H points scored",
+   "subtitle": "Philadelphia over 13.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22PITPHI-PHI17": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Pittsburgh vs Philadelphia: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "Philadelphia over 16.5 1H points scored",
+   "subtitle": "Philadelphia over 16.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22PITPHI-PHI20": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Pittsburgh vs Philadelphia: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "Philadelphia over 19.5 1H points scored",
+   "subtitle": "Philadelphia over 19.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22PITPHI-PHI21": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Pittsburgh vs Philadelphia: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "Philadelphia over 20.5 1H points scored",
+   "subtitle": "Philadelphia over 20.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22PITPHI-PHI24": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Pittsburgh vs Philadelphia: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "Philadelphia over 23.5 1H points scored",
+   "subtitle": "Philadelphia over 23.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22PITPHI-PHI28": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Pittsburgh vs Philadelphia: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "Philadelphia over 27.5 1H points scored",
+   "subtitle": "Philadelphia over 27.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22PITPHI-PHI3": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Pittsburgh vs Philadelphia: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "Philadelphia over 2.5 1H points scored",
+   "subtitle": "Philadelphia over 2.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22PITPHI-PHI31": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Pittsburgh vs Philadelphia: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "Philadelphia over 30.5 1H points scored",
+   "subtitle": "Philadelphia over 30.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22PITPHI-PHI7": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Pittsburgh vs Philadelphia: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "Philadelphia over 6.5 1H points scored",
+   "subtitle": "Philadelphia over 6.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22PITPHI-PIT10": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Pittsburgh vs Philadelphia: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "Pittsburgh over 9.5 1H points scored",
+   "subtitle": "Pittsburgh over 9.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22PITPHI-PIT14": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Pittsburgh vs Philadelphia: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "Pittsburgh over 13.5 1H points scored",
+   "subtitle": "Pittsburgh over 13.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22PITPHI-PIT17": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Pittsburgh vs Philadelphia: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "Pittsburgh over 16.5 1H points scored",
+   "subtitle": "Pittsburgh over 16.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22PITPHI-PIT20": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Pittsburgh vs Philadelphia: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "Pittsburgh over 19.5 1H points scored",
+   "subtitle": "Pittsburgh over 19.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22PITPHI-PIT21": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Pittsburgh vs Philadelphia: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "Pittsburgh over 20.5 1H points scored",
+   "subtitle": "Pittsburgh over 20.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22PITPHI-PIT24": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Pittsburgh vs Philadelphia: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "Pittsburgh over 23.5 1H points scored",
+   "subtitle": "Pittsburgh over 23.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22PITPHI-PIT28": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Pittsburgh vs Philadelphia: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "Pittsburgh over 27.5 1H points scored",
+   "subtitle": "Pittsburgh over 27.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22PITPHI-PIT3": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Pittsburgh vs Philadelphia: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "Pittsburgh over 2.5 1H points scored",
+   "subtitle": "Pittsburgh over 2.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22PITPHI-PIT31": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Pittsburgh vs Philadelphia: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "Pittsburgh over 30.5 1H points scored",
+   "subtitle": "Pittsburgh over 30.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22PITPHI-PIT7": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Pittsburgh vs Philadelphia: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "Pittsburgh over 6.5 1H points scored",
+   "subtitle": "Pittsburgh over 6.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22TBDET-DET10": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Tampa Bay vs Detroit: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "Detroit over 9.5 1H points scored",
+   "subtitle": "Detroit over 9.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22TBDET-DET14": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Tampa Bay vs Detroit: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "Detroit over 13.5 1H points scored",
+   "subtitle": "Detroit over 13.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22TBDET-DET17": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Tampa Bay vs Detroit: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "Detroit over 16.5 1H points scored",
+   "subtitle": "Detroit over 16.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22TBDET-DET20": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Tampa Bay vs Detroit: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "Detroit over 19.5 1H points scored",
+   "subtitle": "Detroit over 19.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22TBDET-DET21": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Tampa Bay vs Detroit: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "Detroit over 20.5 1H points scored",
+   "subtitle": "Detroit over 20.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22TBDET-DET24": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Tampa Bay vs Detroit: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "Detroit over 23.5 1H points scored",
+   "subtitle": "Detroit over 23.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22TBDET-DET28": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Tampa Bay vs Detroit: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "Detroit over 27.5 1H points scored",
+   "subtitle": "Detroit over 27.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22TBDET-DET3": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Tampa Bay vs Detroit: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "Detroit over 2.5 1H points scored",
+   "subtitle": "Detroit over 2.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22TBDET-DET31": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Tampa Bay vs Detroit: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "Detroit over 30.5 1H points scored",
+   "subtitle": "Detroit over 30.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22TBDET-DET7": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Tampa Bay vs Detroit: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "Detroit over 6.5 1H points scored",
+   "subtitle": "Detroit over 6.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22TBDET-TB10": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Tampa Bay vs Detroit: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "Tampa Bay over 9.5 1H points scored",
+   "subtitle": "Tampa Bay over 9.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22TBDET-TB14": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Tampa Bay vs Detroit: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "Tampa Bay over 13.5 1H points scored",
+   "subtitle": "Tampa Bay over 13.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22TBDET-TB17": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Tampa Bay vs Detroit: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "Tampa Bay over 16.5 1H points scored",
+   "subtitle": "Tampa Bay over 16.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22TBDET-TB20": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Tampa Bay vs Detroit: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "Tampa Bay over 19.5 1H points scored",
+   "subtitle": "Tampa Bay over 19.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22TBDET-TB21": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Tampa Bay vs Detroit: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "Tampa Bay over 20.5 1H points scored",
+   "subtitle": "Tampa Bay over 20.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22TBDET-TB24": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Tampa Bay vs Detroit: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "Tampa Bay over 23.5 1H points scored",
+   "subtitle": "Tampa Bay over 23.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22TBDET-TB28": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Tampa Bay vs Detroit: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "Tampa Bay over 27.5 1H points scored",
+   "subtitle": "Tampa Bay over 27.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22TBDET-TB3": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Tampa Bay vs Detroit: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "Tampa Bay over 2.5 1H points scored",
+   "subtitle": "Tampa Bay over 2.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22TBDET-TB31": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Tampa Bay vs Detroit: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "Tampa Bay over 30.5 1H points scored",
+   "subtitle": "Tampa Bay over 30.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22TBDET-TB7": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Tampa Bay vs Detroit: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "Tampa Bay over 6.5 1H points scored",
+   "subtitle": "Tampa Bay over 6.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22TENDAL-DAL10": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Tennessee vs Dallas: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "Dallas over 9.5 1H points scored",
+   "subtitle": "Dallas over 9.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22TENDAL-DAL14": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Tennessee vs Dallas: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "Dallas over 13.5 1H points scored",
+   "subtitle": "Dallas over 13.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22TENDAL-DAL17": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Tennessee vs Dallas: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "Dallas over 16.5 1H points scored",
+   "subtitle": "Dallas over 16.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22TENDAL-DAL20": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Tennessee vs Dallas: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "Dallas over 19.5 1H points scored",
+   "subtitle": "Dallas over 19.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22TENDAL-DAL21": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Tennessee vs Dallas: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "Dallas over 20.5 1H points scored",
+   "subtitle": "Dallas over 20.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22TENDAL-DAL24": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Tennessee vs Dallas: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "Dallas over 23.5 1H points scored",
+   "subtitle": "Dallas over 23.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22TENDAL-DAL28": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Tennessee vs Dallas: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "Dallas over 27.5 1H points scored",
+   "subtitle": "Dallas over 27.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22TENDAL-DAL3": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Tennessee vs Dallas: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "Dallas over 2.5 1H points scored",
+   "subtitle": "Dallas over 2.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22TENDAL-DAL31": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Tennessee vs Dallas: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "Dallas over 30.5 1H points scored",
+   "subtitle": "Dallas over 30.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22TENDAL-DAL7": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Tennessee vs Dallas: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "Dallas over 6.5 1H points scored",
+   "subtitle": "Dallas over 6.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22TENDAL-TEN10": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Tennessee vs Dallas: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "Tennessee over 9.5 1H points scored",
+   "subtitle": "Tennessee over 9.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22TENDAL-TEN14": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Tennessee vs Dallas: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "Tennessee over 13.5 1H points scored",
+   "subtitle": "Tennessee over 13.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22TENDAL-TEN17": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Tennessee vs Dallas: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "Tennessee over 16.5 1H points scored",
+   "subtitle": "Tennessee over 16.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22TENDAL-TEN20": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Tennessee vs Dallas: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "Tennessee over 19.5 1H points scored",
+   "subtitle": "Tennessee over 19.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22TENDAL-TEN21": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Tennessee vs Dallas: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "Tennessee over 20.5 1H points scored",
+   "subtitle": "Tennessee over 20.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22TENDAL-TEN24": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Tennessee vs Dallas: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "Tennessee over 23.5 1H points scored",
+   "subtitle": "Tennessee over 23.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22TENDAL-TEN28": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Tennessee vs Dallas: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "Tennessee over 27.5 1H points scored",
+   "subtitle": "Tennessee over 27.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22TENDAL-TEN3": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Tennessee vs Dallas: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "Tennessee over 2.5 1H points scored",
+   "subtitle": "Tennessee over 2.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22TENDAL-TEN31": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Tennessee vs Dallas: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "Tennessee over 30.5 1H points scored",
+   "subtitle": "Tennessee over 30.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26NOV22TENDAL-TEN7": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Tennessee vs Dallas: 1st Half Team Total",
+   "game_date": "2026-11-22",
+   "title": "Tennessee over 6.5 1H points scored",
+   "subtitle": "Tennessee over 6.5 points",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
   },
   "KXNFLDELAY-26NOV22ARIKC-Y": {
    "series": "KXNFLDELAY",
@@ -1007,6 +4277,13 @@
     },
     {
      "date": "2026-11-14",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    },
+    {
+     "date": "2026-11-15",
      "mid": 0.0,
      "bid": 0.0,
      "ask": 0.95,
@@ -1060,6 +4337,13 @@
      "bid": 0.0,
      "ask": 0.95,
      "volume": 0.0
+    },
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
     }
    ],
    "first": 0.0,
@@ -1105,6 +4389,13 @@
     },
     {
      "date": "2026-11-14",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    },
+    {
+     "date": "2026-11-15",
      "mid": 0.0,
      "bid": 0.0,
      "ask": 0.95,
@@ -1158,6 +4449,13 @@
      "bid": 0.0,
      "ask": 0.95,
      "volume": 0.0
+    },
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
     }
    ],
    "first": 0.0,
@@ -1203,6 +4501,13 @@
     },
     {
      "date": "2026-11-14",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    },
+    {
+     "date": "2026-11-15",
      "mid": 0.0,
      "bid": 0.0,
      "ask": 0.95,
@@ -1256,6 +4561,13 @@
      "bid": 0.0,
      "ask": 0.95,
      "volume": 0.0
+    },
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
     }
    ],
    "first": 0.0,
@@ -1301,6 +4613,13 @@
     },
     {
      "date": "2026-11-14",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    },
+    {
+     "date": "2026-11-15",
      "mid": 0.0,
      "bid": 0.0,
      "ask": 0.95,
@@ -1354,6 +4673,13 @@
      "bid": 0.0,
      "ask": 0.95,
      "volume": 0.0
+    },
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
     }
    ],
    "first": 0.0,
@@ -1403,6 +4729,13 @@
      "bid": 0.0,
      "ask": 0.95,
      "volume": 1.04
+    },
+    {
+     "date": "2026-11-15",
+     "mid": 0.09,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 1.04
     }
    ],
    "first": 0.0,
@@ -1410,6 +4743,69 @@
    "high": 0.09,
    "low": 0.0,
    "change": 0.09
+  },
+  "KXNFLFIRSTTD-26NOV19INDHOU-HOUHOUDST": {
+   "series": "KXNFLFIRSTTD",
+   "event": "Indianapolis vs Houston: 1st Touchdown",
+   "game_date": "2026-11-19",
+   "title": "HOU Texans D/ST: 1st Touchdown",
+   "subtitle": "HOU Texans D/ST",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.05,
+     "bid": 0.0,
+     "ask": 0.05,
+     "volume": 18.75
+    }
+   ],
+   "first": 0.05,
+   "latest": 0.05,
+   "high": 0.05,
+   "low": 0.05,
+   "change": 0.0
+  },
+  "KXNFLFIRSTTD-26NOV19INDHOU-INDINDDST": {
+   "series": "KXNFLFIRSTTD",
+   "event": "Indianapolis vs Houston: 1st Touchdown",
+   "game_date": "2026-11-19",
+   "title": "IND Colts D/ST: 1st Touchdown",
+   "subtitle": "IND Colts D/ST",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.06,
+     "bid": 0.0,
+     "ask": 0.05,
+     "volume": 91.41
+    }
+   ],
+   "first": 0.06,
+   "latest": 0.06,
+   "high": 0.06,
+   "low": 0.06,
+   "change": 0.0
+  },
+  "KXNFLFIRSTTD-26NOV19INDHOU-NONE": {
+   "series": "KXNFLFIRSTTD",
+   "event": "Indianapolis vs Houston: 1st Touchdown",
+   "game_date": "2026-11-19",
+   "title": "No Touchdown: 1st Touchdown",
+   "subtitle": "No Touchdown",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.04,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
   },
   "KXNFLGAME-26NOV19INDHOU-HOU": {
    "series": "KXNFLGAME",
@@ -1452,13 +4848,20 @@
      "bid": 0.8,
      "ask": 0.81,
      "volume": 2972.3
+    },
+    {
+     "date": "2026-11-15",
+     "mid": 0.8,
+     "bid": 0.79,
+     "ask": 0.81,
+     "volume": 5722.0
     }
    ],
    "first": 0.825,
-   "latest": 0.805,
+   "latest": 0.8,
    "high": 0.825,
-   "low": 0.805,
-   "change": -0.02
+   "low": 0.8,
+   "change": -0.025
   },
   "KXNFLGAME-26NOV19INDHOU-IND": {
    "series": "KXNFLGAME",
@@ -1501,13 +4904,20 @@
      "bid": 0.2,
      "ask": 0.21,
      "volume": 9969.95
+    },
+    {
+     "date": "2026-11-15",
+     "mid": 0.21,
+     "bid": 0.2,
+     "ask": 0.22,
+     "volume": 24089.34
     }
    ],
    "first": 0.175,
-   "latest": 0.205,
-   "high": 0.205,
+   "latest": 0.21,
+   "high": 0.21,
    "low": 0.175,
-   "change": 0.03
+   "change": 0.035
   },
   "KXNFLGAME-26NOV22ARIKC-ARI": {
    "series": "KXNFLGAME",
@@ -1550,13 +4960,20 @@
      "bid": 0.12,
      "ask": 0.16,
      "volume": 9762.47
+    },
+    {
+     "date": "2026-11-15",
+     "mid": 0.125,
+     "bid": 0.12,
+     "ask": 0.13,
+     "volume": 18530.06
     }
    ],
    "first": 0.135,
-   "latest": 0.14,
+   "latest": 0.125,
    "high": 0.14,
    "low": 0.1,
-   "change": 0.005
+   "change": -0.01
   },
   "KXNFLGAME-26NOV22ARIKC-KC": {
    "series": "KXNFLGAME",
@@ -1599,13 +5016,20 @@
      "bid": 0.85,
      "ask": 0.89,
      "volume": 9159.0
+    },
+    {
+     "date": "2026-11-15",
+     "mid": 0.875,
+     "bid": 0.87,
+     "ask": 0.88,
+     "volume": 11543.75
     }
    ],
    "first": 0.875,
-   "latest": 0.87,
+   "latest": 0.875,
    "high": 0.895,
    "low": 0.87,
-   "change": -0.005
+   "change": 0.0
   },
   "KXNFLGAME-26NOV22BALCAR-BAL": {
    "series": "KXNFLGAME",
@@ -1648,13 +5072,20 @@
      "bid": 0.45,
      "ask": 0.48,
      "volume": 729.37
+    },
+    {
+     "date": "2026-11-15",
+     "mid": 0.47,
+     "bid": 0.46,
+     "ask": 0.48,
+     "volume": 1394.25
     }
    ],
    "first": 0.46,
-   "latest": 0.465,
+   "latest": 0.47,
    "high": 0.47,
    "low": 0.46,
-   "change": 0.005
+   "change": 0.01
   },
   "KXNFLGAME-26NOV22BALCAR-CAR": {
    "series": "KXNFLGAME",
@@ -1697,6 +5128,13 @@
      "bid": 0.53,
      "ask": 0.55,
      "volume": 895.05
+    },
+    {
+     "date": "2026-11-15",
+     "mid": 0.54,
+     "bid": 0.53,
+     "ask": 0.55,
+     "volume": 1684.72
     }
    ],
    "first": 0.53,
@@ -1746,13 +5184,20 @@
      "bid": 0.68,
      "ask": 0.72,
      "volume": 1909.32
+    },
+    {
+     "date": "2026-11-15",
+     "mid": 0.68,
+     "bid": 0.65,
+     "ask": 0.71,
+     "volume": 4436.43
     }
    ],
    "first": 0.695,
-   "latest": 0.7,
+   "latest": 0.68,
    "high": 0.7,
-   "low": 0.69,
-   "change": 0.005
+   "low": 0.68,
+   "change": -0.015
   },
   "KXNFLGAME-26NOV22JACNYG-NYG": {
    "series": "KXNFLGAME",
@@ -1795,13 +5240,20 @@
      "bid": 0.3,
      "ask": 0.31,
      "volume": 8404.89
+    },
+    {
+     "date": "2026-11-15",
+     "mid": 0.33,
+     "bid": 0.32,
+     "ask": 0.34,
+     "volume": 14502.1
     }
    ],
    "first": 0.305,
-   "latest": 0.305,
-   "high": 0.31,
+   "latest": 0.33,
+   "high": 0.33,
    "low": 0.295,
-   "change": 0.0
+   "change": 0.025
   },
   "KXNFLGAME-26NOV22LVDEN-DEN": {
    "series": "KXNFLGAME",
@@ -1844,13 +5296,20 @@
      "bid": 0.79,
      "ask": 0.82,
      "volume": 10050.05
+    },
+    {
+     "date": "2026-11-15",
+     "mid": 0.775,
+     "bid": 0.76,
+     "ask": 0.79,
+     "volume": 14164.53
     }
    ],
    "first": 0.775,
-   "latest": 0.805,
+   "latest": 0.775,
    "high": 0.81,
    "low": 0.775,
-   "change": 0.03
+   "change": 0.0
   },
   "KXNFLGAME-26NOV22LVDEN-LV": {
    "series": "KXNFLGAME",
@@ -1893,13 +5352,20 @@
      "bid": 0.19,
      "ask": 0.23,
      "volume": 5805.81
+    },
+    {
+     "date": "2026-11-15",
+     "mid": 0.225,
+     "bid": 0.21,
+     "ask": 0.24,
+     "volume": 16684.12
     }
    ],
    "first": 0.23,
-   "latest": 0.21,
+   "latest": 0.225,
    "high": 0.23,
    "low": 0.2,
-   "change": -0.02
+   "change": -0.005
   },
   "KXNFLGAME-26NOV22MIABUF-BUF": {
    "series": "KXNFLGAME",
@@ -1942,13 +5408,20 @@
      "bid": 0.91,
      "ask": 0.93,
      "volume": 6355.78
+    },
+    {
+     "date": "2026-11-15",
+     "mid": 0.925,
+     "bid": 0.92,
+     "ask": 0.93,
+     "volume": 9713.86
     }
    ],
    "first": 0.915,
-   "latest": 0.92,
+   "latest": 0.925,
    "high": 0.925,
    "low": 0.905,
-   "change": 0.005
+   "change": 0.01
   },
   "KXNFLGAME-26NOV22MIABUF-MIA": {
    "series": "KXNFLGAME",
@@ -1991,13 +5464,20 @@
      "bid": 0.08,
      "ask": 0.1,
      "volume": 21099.22
+    },
+    {
+     "date": "2026-11-15",
+     "mid": 0.085,
+     "bid": 0.08,
+     "ask": 0.09,
+     "volume": 36084.51
     }
    ],
    "first": 0.085,
-   "latest": 0.09,
+   "latest": 0.085,
    "high": 0.095,
    "low": 0.075,
-   "change": 0.005
+   "change": 0.0
   },
   "KXNFLGAME-26NOV22MINSF-MIN": {
    "series": "KXNFLGAME",
@@ -2040,13 +5520,20 @@
      "bid": 0.32,
      "ask": 0.34,
      "volume": 8519.93
+    },
+    {
+     "date": "2026-11-15",
+     "mid": 0.355,
+     "bid": 0.34,
+     "ask": 0.37,
+     "volume": 15039.56
     }
    ],
    "first": 0.335,
-   "latest": 0.33,
-   "high": 0.34,
+   "latest": 0.355,
+   "high": 0.355,
    "low": 0.325,
-   "change": -0.005
+   "change": 0.02
   },
   "KXNFLGAME-26NOV22MINSF-SF": {
    "series": "KXNFLGAME",
@@ -2089,13 +5576,20 @@
      "bid": 0.68,
      "ask": 0.7,
      "volume": 6826.74
+    },
+    {
+     "date": "2026-11-15",
+     "mid": 0.655,
+     "bid": 0.65,
+     "ask": 0.66,
+     "volume": 8854.65
     }
    ],
    "first": 0.665,
-   "latest": 0.69,
+   "latest": 0.655,
    "high": 0.69,
    "low": 0.655,
-   "change": 0.025
+   "change": -0.01
   },
   "KXNFLGAME-26NOV22NOCHI-CHI": {
    "series": "KXNFLGAME",
@@ -2138,13 +5632,20 @@
      "bid": 0.82,
      "ask": 0.84,
      "volume": 15652.21
+    },
+    {
+     "date": "2026-11-15",
+     "mid": 0.815,
+     "bid": 0.81,
+     "ask": 0.82,
+     "volume": 22369.22
     }
    ],
    "first": 0.815,
-   "latest": 0.83,
+   "latest": 0.815,
    "high": 0.83,
    "low": 0.815,
-   "change": 0.015
+   "change": 0.0
   },
   "KXNFLGAME-26NOV22NOCHI-NO": {
    "series": "KXNFLGAME",
@@ -2187,6 +5688,13 @@
      "bid": 0.17,
      "ask": 0.18,
      "volume": 7803.87
+    },
+    {
+     "date": "2026-11-15",
+     "mid": 0.175,
+     "bid": 0.17,
+     "ask": 0.18,
+     "volume": 12975.1
     }
    ],
    "first": 0.175,
@@ -2236,13 +5744,20 @@
      "bid": 0.51,
      "ask": 0.55,
      "volume": 1478.02
+    },
+    {
+     "date": "2026-11-15",
+     "mid": 0.545,
+     "bid": 0.53,
+     "ask": 0.56,
+     "volume": 2238.35
     }
    ],
    "first": 0.54,
-   "latest": 0.53,
-   "high": 0.54,
+   "latest": 0.545,
+   "high": 0.545,
    "low": 0.53,
-   "change": -0.01
+   "change": 0.005
   },
   "KXNFLGAME-26NOV22NYJLAC-NYJ": {
    "series": "KXNFLGAME",
@@ -2285,13 +5800,20 @@
      "bid": 0.47,
      "ask": 0.49,
      "volume": 1753.69
+    },
+    {
+     "date": "2026-11-15",
+     "mid": 0.46,
+     "bid": 0.44,
+     "ask": 0.48,
+     "volume": 2683.92
     }
    ],
    "first": 0.465,
-   "latest": 0.48,
+   "latest": 0.46,
    "high": 0.48,
    "low": 0.46,
-   "change": 0.015
+   "change": -0.005
   },
   "KXNFLGAME-26NOV22PITPHI-PHI": {
    "series": "KXNFLGAME",
@@ -2334,13 +5856,20 @@
      "bid": 0.34,
      "ask": 0.36,
      "volume": 2025.93
+    },
+    {
+     "date": "2026-11-15",
+     "mid": 0.335,
+     "bid": 0.32,
+     "ask": 0.35,
+     "volume": 3046.79
     }
    ],
    "first": 0.345,
-   "latest": 0.35,
+   "latest": 0.335,
    "high": 0.35,
-   "low": 0.345,
-   "change": 0.005
+   "low": 0.335,
+   "change": -0.01
   },
   "KXNFLGAME-26NOV22PITPHI-PIT": {
    "series": "KXNFLGAME",
@@ -2383,6 +5912,13 @@
      "bid": 0.65,
      "ask": 0.67,
      "volume": 8686.58
+    },
+    {
+     "date": "2026-11-15",
+     "mid": 0.66,
+     "bid": 0.65,
+     "ask": 0.67,
+     "volume": 13566.37
     }
    ],
    "first": 0.67,
@@ -2432,13 +5968,20 @@
      "bid": 0.6,
      "ask": 0.62,
      "volume": 4137.76
+    },
+    {
+     "date": "2026-11-15",
+     "mid": 0.685,
+     "bid": 0.68,
+     "ask": 0.69,
+     "volume": 10113.8
     }
    ],
    "first": 0.65,
-   "latest": 0.61,
-   "high": 0.65,
+   "latest": 0.685,
+   "high": 0.685,
    "low": 0.605,
-   "change": -0.04
+   "change": 0.035
   },
   "KXNFLGAME-26NOV22TBDET-TB": {
    "series": "KXNFLGAME",
@@ -2481,13 +6024,20 @@
      "bid": 0.38,
      "ask": 0.4,
      "volume": 1573.24
+    },
+    {
+     "date": "2026-11-15",
+     "mid": 0.315,
+     "bid": 0.3,
+     "ask": 0.33,
+     "volume": 5827.43
     }
    ],
    "first": 0.365,
-   "latest": 0.39,
+   "latest": 0.315,
    "high": 0.395,
-   "low": 0.365,
-   "change": 0.025
+   "low": 0.315,
+   "change": -0.05
   },
   "KXNFLGAME-26NOV22TENDAL-DAL": {
    "series": "KXNFLGAME",
@@ -2530,13 +6080,20 @@
      "bid": 0.78,
      "ask": 0.82,
      "volume": 1180.5
+    },
+    {
+     "date": "2026-11-15",
+     "mid": 0.66,
+     "bid": 0.64,
+     "ask": 0.68,
+     "volume": 2325.68
     }
    ],
    "first": 0.8,
-   "latest": 0.8,
+   "latest": 0.66,
    "high": 0.8,
-   "low": 0.795,
-   "change": 0.0
+   "low": 0.66,
+   "change": -0.14
   },
   "KXNFLGAME-26NOV22TENDAL-TEN": {
    "series": "KXNFLGAME",
@@ -2579,13 +6136,20 @@
      "bid": 0.19,
      "ask": 0.21,
      "volume": 1467.89
+    },
+    {
+     "date": "2026-11-15",
+     "mid": 0.34,
+     "bid": 0.32,
+     "ask": 0.36,
+     "volume": 4044.76
     }
    ],
    "first": 0.2,
-   "latest": 0.2,
-   "high": 0.205,
+   "latest": 0.34,
+   "high": 0.34,
    "low": 0.195,
-   "change": 0.0
+   "change": 0.14
   },
   "KXNFLGAME-26NOV23CINWAS-CIN": {
    "series": "KXNFLGAME",
@@ -2628,6 +6192,13 @@
      "bid": 0.64,
      "ask": 0.68,
      "volume": 756.86
+    },
+    {
+     "date": "2026-11-15",
+     "mid": 0.66,
+     "bid": 0.64,
+     "ask": 0.68,
+     "volume": 1556.01
     }
    ],
    "first": 0.65,
@@ -2677,6 +6248,13 @@
      "bid": 0.35,
      "ask": 0.36,
      "volume": 2862.87
+    },
+    {
+     "date": "2026-11-15",
+     "mid": 0.355,
+     "bid": 0.34,
+     "ask": 0.37,
+     "volume": 4616.7
     }
    ],
    "first": 0.35,
@@ -2684,6 +6262,27 @@
    "high": 0.365,
    "low": 0.345,
    "change": 0.005
+  },
+  "KXNFLOT-26NOV19INDHOU-Y": {
+   "series": "KXNFLOT",
+   "event": "Indianapolis vs Houston: Overtime",
+   "game_date": "2026-11-19",
+   "title": "Indianapolis vs Houston goes to overtime?",
+   "subtitle": "Game goes to overtime",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.055,
+     "bid": 0.05,
+     "ask": 0.06,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.055,
+   "latest": 0.055,
+   "high": 0.055,
+   "low": 0.055,
+   "change": 0.0
   },
   "KXNFLSPREAD-26NOV19INDHOU-HOU10": {
    "series": "KXNFLSPREAD",
@@ -2705,13 +6304,20 @@
      "bid": 0.52,
      "ask": 0.53,
      "volume": 69.27
+    },
+    {
+     "date": "2026-11-15",
+     "mid": 0.515,
+     "bid": 0.51,
+     "ask": 0.52,
+     "volume": 512.8
     }
    ],
    "first": 0.505,
-   "latest": 0.525,
+   "latest": 0.515,
    "high": 0.525,
    "low": 0.505,
-   "change": 0.02
+   "change": 0.01
   },
   "KXNFLSPREAD-26NOV19INDHOU-HOU11": {
    "series": "KXNFLSPREAD",
@@ -2733,13 +6339,20 @@
      "bid": 0.46,
      "ask": 0.51,
      "volume": 0.0
+    },
+    {
+     "date": "2026-11-15",
+     "mid": 0.475,
+     "bid": 0.46,
+     "ask": 0.49,
+     "volume": 91.44
     }
    ],
    "first": 0.48,
-   "latest": 0.485,
+   "latest": 0.475,
    "high": 0.485,
-   "low": 0.48,
-   "change": 0.005
+   "low": 0.475,
+   "change": -0.005
   },
   "KXNFLSPREAD-26NOV19INDHOU-HOU14": {
    "series": "KXNFLSPREAD",
@@ -2761,6 +6374,13 @@
      "bid": 0.4,
      "ask": 0.44,
      "volume": 0.0
+    },
+    {
+     "date": "2026-11-15",
+     "mid": 0.42,
+     "bid": 0.4,
+     "ask": 0.44,
+     "volume": 16.83
     }
    ],
    "first": 0.415,
@@ -2789,13 +6409,20 @@
      "bid": 0.36,
      "ask": 0.4,
      "volume": 1.0
+    },
+    {
+     "date": "2026-11-15",
+     "mid": 0.385,
+     "bid": 0.37,
+     "ask": 0.4,
+     "volume": 1.0
     }
    ],
    "first": 0.375,
-   "latest": 0.38,
-   "high": 0.38,
+   "latest": 0.385,
+   "high": 0.385,
    "low": 0.375,
-   "change": 0.005
+   "change": 0.01
   },
   "KXNFLSPREAD-26NOV19INDHOU-HOU17": {
    "series": "KXNFLSPREAD",
@@ -2817,13 +6444,20 @@
      "bid": 0.31,
      "ask": 0.37,
      "volume": 2.0
+    },
+    {
+     "date": "2026-11-15",
+     "mid": 0.335,
+     "bid": 0.32,
+     "ask": 0.35,
+     "volume": 2.0
     }
    ],
    "first": 0.335,
-   "latest": 0.34,
+   "latest": 0.335,
    "high": 0.34,
    "low": 0.335,
-   "change": 0.005
+   "change": 0.0
   },
   "KXNFLSPREAD-26NOV19INDHOU-HOU18": {
    "series": "KXNFLSPREAD",
@@ -2845,13 +6479,20 @@
      "bid": 0.29,
      "ask": 0.33,
      "volume": 1.0
+    },
+    {
+     "date": "2026-11-15",
+     "mid": 0.305,
+     "bid": 0.29,
+     "ask": 0.32,
+     "volume": 1.0
     }
    ],
    "first": 0.305,
-   "latest": 0.31,
+   "latest": 0.305,
    "high": 0.31,
    "low": 0.305,
-   "change": 0.005
+   "change": 0.0
   },
   "KXNFLSPREAD-26NOV19INDHOU-HOU2": {
    "series": "KXNFLSPREAD",
@@ -2873,13 +6514,20 @@
      "bid": 0.77,
      "ask": 0.8,
      "volume": 1.3
+    },
+    {
+     "date": "2026-11-15",
+     "mid": 0.78,
+     "bid": 0.77,
+     "ask": 0.79,
+     "volume": 1.3
     }
    ],
    "first": 0.78,
-   "latest": 0.785,
+   "latest": 0.78,
    "high": 0.785,
    "low": 0.78,
-   "change": 0.005
+   "change": 0.0
   },
   "KXNFLSPREAD-26NOV19INDHOU-HOU21": {
    "series": "KXNFLSPREAD",
@@ -2900,6 +6548,13 @@
      "mid": 0.235,
      "bid": 0.21,
      "ask": 0.26,
+     "volume": 0.0
+    },
+    {
+     "date": "2026-11-15",
+     "mid": 0.235,
+     "bid": 0.22,
+     "ask": 0.25,
      "volume": 0.0
     }
    ],
@@ -2929,13 +6584,20 @@
      "bid": 0.14,
      "ask": 0.21,
      "volume": 0.0
+    },
+    {
+     "date": "2026-11-15",
+     "mid": 0.17,
+     "bid": 0.14,
+     "ask": 0.2,
+     "volume": 0.0
     }
    ],
    "first": 0.175,
-   "latest": 0.175,
+   "latest": 0.17,
    "high": 0.175,
-   "low": 0.175,
-   "change": 0.0
+   "low": 0.17,
+   "change": -0.005
   },
   "KXNFLSPREAD-26NOV19INDHOU-HOU28": {
    "series": "KXNFLSPREAD",
@@ -2957,13 +6619,20 @@
      "bid": 0.08,
      "ask": 0.14,
      "volume": 0.0
+    },
+    {
+     "date": "2026-11-15",
+     "mid": 0.095,
+     "bid": 0.07,
+     "ask": 0.12,
+     "volume": 130.0
     }
    ],
    "first": 0.105,
-   "latest": 0.11,
+   "latest": 0.095,
    "high": 0.11,
-   "low": 0.105,
-   "change": 0.005
+   "low": 0.095,
+   "change": -0.01
   },
   "KXNFLSPREAD-26NOV19INDHOU-HOU3": {
    "series": "KXNFLSPREAD",
@@ -2985,13 +6654,20 @@
      "bid": 0.75,
      "ask": 0.78,
      "volume": 1.0
+    },
+    {
+     "date": "2026-11-15",
+     "mid": 0.755,
+     "bid": 0.74,
+     "ask": 0.77,
+     "volume": 1.0
     }
    ],
    "first": 0.77,
-   "latest": 0.765,
+   "latest": 0.755,
    "high": 0.77,
-   "low": 0.765,
-   "change": -0.005
+   "low": 0.755,
+   "change": -0.015
   },
   "KXNFLSPREAD-26NOV19INDHOU-HOU31": {
    "series": "KXNFLSPREAD",
@@ -3009,6 +6685,13 @@
     },
     {
      "date": "2026-11-14",
+     "mid": 0.08,
+     "bid": 0.05,
+     "ask": 0.11,
+     "volume": 0.0
+    },
+    {
+     "date": "2026-11-15",
      "mid": 0.08,
      "bid": 0.05,
      "ask": 0.11,
@@ -3041,13 +6724,20 @@
      "bid": 0.7,
      "ask": 0.74,
      "volume": 1.0
+    },
+    {
+     "date": "2026-11-15",
+     "mid": 0.71,
+     "bid": 0.69,
+     "ask": 0.73,
+     "volume": 32.77
     }
    ],
    "first": 0.705,
-   "latest": 0.72,
+   "latest": 0.71,
    "high": 0.72,
    "low": 0.705,
-   "change": 0.015
+   "change": 0.005
   },
   "KXNFLSPREAD-26NOV19INDHOU-HOU5": {
    "series": "KXNFLSPREAD",
@@ -3069,13 +6759,20 @@
      "bid": 0.67,
      "ask": 0.7,
      "volume": 1.0
+    },
+    {
+     "date": "2026-11-15",
+     "mid": 0.67,
+     "bid": 0.65,
+     "ask": 0.69,
+     "volume": 41.0
     }
    ],
    "first": 0.67,
-   "latest": 0.685,
+   "latest": 0.67,
    "high": 0.685,
    "low": 0.67,
-   "change": 0.015
+   "change": 0.0
   },
   "KXNFLSPREAD-26NOV19INDHOU-HOU6": {
    "series": "KXNFLSPREAD",
@@ -3097,13 +6794,20 @@
      "bid": 0.64,
      "ask": 0.67,
      "volume": 1.0
+    },
+    {
+     "date": "2026-11-15",
+     "mid": 0.645,
+     "bid": 0.63,
+     "ask": 0.66,
+     "volume": 2.03
     }
    ],
    "first": 0.61,
-   "latest": 0.655,
+   "latest": 0.645,
    "high": 0.655,
    "low": 0.61,
-   "change": 0.045
+   "change": 0.035
   },
   "KXNFLSPREAD-26NOV19INDHOU-HOU7": {
    "series": "KXNFLSPREAD",
@@ -3125,13 +6829,20 @@
      "bid": 0.62,
      "ask": 0.64,
      "volume": 141.52
+    },
+    {
+     "date": "2026-11-15",
+     "mid": 0.62,
+     "bid": 0.61,
+     "ask": 0.63,
+     "volume": 462.11
     }
    ],
    "first": 0.585,
-   "latest": 0.63,
+   "latest": 0.62,
    "high": 0.63,
    "low": 0.585,
-   "change": 0.045
+   "change": 0.035
   },
   "KXNFLSPREAD-26NOV19INDHOU-HOU8": {
    "series": "KXNFLSPREAD",
@@ -3153,13 +6864,20 @@
      "bid": 0.56,
      "ask": 0.6,
      "volume": 38.93
+    },
+    {
+     "date": "2026-11-15",
+     "mid": 0.555,
+     "bid": 0.54,
+     "ask": 0.57,
+     "volume": 294.39
     }
    ],
    "first": 0.565,
-   "latest": 0.58,
+   "latest": 0.555,
    "high": 0.58,
-   "low": 0.565,
-   "change": 0.015
+   "low": 0.555,
+   "change": -0.01
   },
   "KXNFLSPREAD-26NOV19INDHOU-IND10": {
    "series": "KXNFLSPREAD",
@@ -3177,6 +6895,13 @@
     },
     {
      "date": "2026-11-14",
+     "mid": 0.055,
+     "bid": 0.03,
+     "ask": 0.08,
+     "volume": 0.0
+    },
+    {
+     "date": "2026-11-15",
      "mid": 0.055,
      "bid": 0.03,
      "ask": 0.08,
@@ -3209,13 +6934,20 @@
      "bid": 0.02,
      "ask": 0.11,
      "volume": 0.0
+    },
+    {
+     "date": "2026-11-15",
+     "mid": 0.055,
+     "bid": 0.03,
+     "ask": 0.08,
+     "volume": 0.0
     }
    ],
    "first": 0.065,
-   "latest": 0.065,
+   "latest": 0.055,
    "high": 0.065,
-   "low": 0.065,
-   "change": 0.0
+   "low": 0.055,
+   "change": -0.01
   },
   "KXNFLSPREAD-26NOV19INDHOU-IND2": {
    "series": "KXNFLSPREAD",
@@ -3237,13 +6969,20 @@
      "bid": 0.13,
      "ask": 0.19,
      "volume": 4.12
+    },
+    {
+     "date": "2026-11-15",
+     "mid": 0.165,
+     "bid": 0.13,
+     "ask": 0.2,
+     "volume": 4.12
     }
    ],
    "first": 0.155,
-   "latest": 0.16,
-   "high": 0.16,
+   "latest": 0.165,
+   "high": 0.165,
    "low": 0.155,
-   "change": 0.005
+   "change": 0.01
   },
   "KXNFLSPREAD-26NOV19INDHOU-IND3": {
    "series": "KXNFLSPREAD",
@@ -3265,13 +7004,20 @@
      "bid": 0.11,
      "ask": 0.18,
      "volume": 0.0
+    },
+    {
+     "date": "2026-11-15",
+     "mid": 0.155,
+     "bid": 0.12,
+     "ask": 0.19,
+     "volume": 0.0
     }
    ],
    "first": 0.13,
-   "latest": 0.145,
-   "high": 0.145,
+   "latest": 0.155,
+   "high": 0.155,
    "low": 0.13,
-   "change": 0.015
+   "change": 0.025
   },
   "KXNFLSPREAD-26NOV19INDHOU-IND4": {
    "series": "KXNFLSPREAD",
@@ -3293,6 +7039,13 @@
      "bid": 0.07,
      "ask": 0.14,
      "volume": 0.0
+    },
+    {
+     "date": "2026-11-15",
+     "mid": 0.105,
+     "bid": 0.08,
+     "ask": 0.13,
+     "volume": 22.0
     }
    ],
    "first": 0.105,
@@ -3321,6 +7074,13 @@
      "bid": 0.07,
      "ask": 0.13,
      "volume": 0.0
+    },
+    {
+     "date": "2026-11-15",
+     "mid": 0.1,
+     "bid": 0.08,
+     "ask": 0.12,
+     "volume": 13.0
     }
    ],
    "first": 0.09,
@@ -3345,6 +7105,13 @@
     },
     {
      "date": "2026-11-14",
+     "mid": 0.085,
+     "bid": 0.05,
+     "ask": 0.12,
+     "volume": 0.0
+    },
+    {
+     "date": "2026-11-15",
      "mid": 0.085,
      "bid": 0.05,
      "ask": 0.12,
@@ -3377,13 +7144,20 @@
      "bid": 0.04,
      "ask": 0.1,
      "volume": 0.0
+    },
+    {
+     "date": "2026-11-15",
+     "mid": 0.075,
+     "bid": 0.04,
+     "ask": 0.11,
+     "volume": 0.0
     }
    ],
    "first": 0.085,
-   "latest": 0.07,
+   "latest": 0.075,
    "high": 0.085,
    "low": 0.07,
-   "change": -0.015
+   "change": -0.01
   },
   "KXNFLSPREAD-26NOV19INDHOU-IND8": {
    "series": "KXNFLSPREAD",
@@ -3405,6 +7179,13 @@
      "bid": 0.03,
      "ask": 0.09,
      "volume": 0.0
+    },
+    {
+     "date": "2026-11-15",
+     "mid": 0.06,
+     "bid": 0.03,
+     "ask": 0.09,
+     "volume": 0.0
     }
    ],
    "first": 0.065,
@@ -3412,6 +7193,111 @@
    "high": 0.065,
    "low": 0.06,
    "change": -0.005
+  },
+  "KXNFLTD-26NOV19INDHOU-HOUHOUDST-1": {
+   "series": "KXNFLTD",
+   "event": "Indianapolis vs Houston: Touchdowns",
+   "game_date": "2026-11-19",
+   "title": "HOU Texans D/ST: 1+ touchdowns",
+   "subtitle": "HOU Texans D/ST: 1+",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.115,
+     "bid": 0.09,
+     "ask": 0.14,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.115,
+   "latest": 0.115,
+   "high": 0.115,
+   "low": 0.115,
+   "change": 0.0
+  },
+  "KXNFLTD-26NOV19INDHOU-INDINDDST-1": {
+   "series": "KXNFLTD",
+   "event": "Indianapolis vs Houston: Touchdowns",
+   "game_date": "2026-11-19",
+   "title": "IND Colts D/ST: 1+ touchdowns",
+   "subtitle": "IND Colts D/ST: 1+",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.125,
+     "bid": 0.11,
+     "ask": 0.14,
+     "volume": 13.2
+    }
+   ],
+   "first": 0.125,
+   "latest": 0.125,
+   "high": 0.125,
+   "low": 0.125,
+   "change": 0.0
+  },
+  "KXNFLTDPROT-26NOV19INDHOU-HOUHOUDST-1": {
+   "series": "KXNFLTDPROT",
+   "event": "Indianapolis vs Houston: Touchdowns",
+   "game_date": "2026-11-19",
+   "title": "HOU Texans D/ST: 1+ touchdowns (Protected)",
+   "subtitle": "HOU Texans D/ST: 1+",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.25,
+     "bid": 0.02,
+     "ask": 0.48,
+     "volume": 42.04
+    }
+   ],
+   "first": 0.25,
+   "latest": 0.25,
+   "high": 0.25,
+   "low": 0.25,
+   "change": 0.0
+  },
+  "KXNFLTDPROT-26NOV19INDHOU-INDINDDST-1": {
+   "series": "KXNFLTDPROT",
+   "event": "Indianapolis vs Houston: Touchdowns",
+   "game_date": "2026-11-19",
+   "title": "IND Colts D/ST: 1+ touchdowns (Protected)",
+   "subtitle": "IND Colts D/ST: 1+",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.95,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFLTIE-26NOV19INDHOU-Y": {
+   "series": "KXNFLTIE",
+   "event": "Indianapolis vs Houston: Tie",
+   "game_date": "2026-11-19",
+   "title": "Game to end in a tie",
+   "subtitle": "Game to end in a tie",
+   "path": [
+    {
+     "date": "2026-11-15",
+     "mid": 0.02,
+     "bid": 0.0,
+     "ask": 0.02,
+     "volume": 8.0
+    }
+   ],
+   "first": 0.02,
+   "latest": 0.02,
+   "high": 0.02,
+   "low": 0.02,
+   "change": 0.0
   },
   "KXNFLTOTAL-26NOV19INDHOU-24": {
    "series": "KXNFLTOTAL",
@@ -3433,13 +7319,20 @@
      "bid": 0.89,
      "ask": 0.95,
      "volume": 0.0
+    },
+    {
+     "date": "2026-11-15",
+     "mid": 0.935,
+     "bid": 0.92,
+     "ask": 0.95,
+     "volume": 0.0
     }
    ],
    "first": 0.86,
-   "latest": 0.92,
-   "high": 0.92,
+   "latest": 0.935,
+   "high": 0.935,
    "low": 0.86,
-   "change": 0.06
+   "change": 0.075
   },
   "KXNFLTOTAL-26NOV19INDHOU-27": {
    "series": "KXNFLTOTAL",
@@ -3461,13 +7354,20 @@
      "bid": 0.88,
      "ask": 0.95,
      "volume": 0.0
+    },
+    {
+     "date": "2026-11-15",
+     "mid": 0.925,
+     "bid": 0.9,
+     "ask": 0.95,
+     "volume": 0.0
     }
    ],
    "first": 0.845,
-   "latest": 0.915,
-   "high": 0.915,
+   "latest": 0.925,
+   "high": 0.925,
    "low": 0.845,
-   "change": 0.07
+   "change": 0.08
   },
   "KXNFLTOTAL-26NOV19INDHOU-30": {
    "series": "KXNFLTOTAL",
@@ -3489,13 +7389,20 @@
      "bid": 0.72,
      "ask": 0.94,
      "volume": 0.0
+    },
+    {
+     "date": "2026-11-15",
+     "mid": 0.885,
+     "bid": 0.85,
+     "ask": 0.92,
+     "volume": 0.0
     }
    ],
    "first": 0.825,
-   "latest": 0.83,
-   "high": 0.83,
+   "latest": 0.885,
+   "high": 0.885,
    "low": 0.825,
-   "change": 0.005
+   "change": 0.06
   },
   "KXNFLTOTAL-26NOV19INDHOU-33": {
    "series": "KXNFLTOTAL",
@@ -3517,13 +7424,20 @@
      "bid": 0.71,
      "ask": 0.87,
      "volume": 0.0
+    },
+    {
+     "date": "2026-11-15",
+     "mid": 0.835,
+     "bid": 0.8,
+     "ask": 0.87,
+     "volume": 0.0
     }
    ],
    "first": 0.775,
-   "latest": 0.79,
-   "high": 0.79,
+   "latest": 0.835,
+   "high": 0.835,
    "low": 0.775,
-   "change": 0.015
+   "change": 0.06
   },
   "KXNFLTOTAL-26NOV19INDHOU-36": {
    "series": "KXNFLTOTAL",
@@ -3545,6 +7459,13 @@
      "bid": 0.7,
      "ask": 0.75,
      "volume": 0.0
+    },
+    {
+     "date": "2026-11-15",
+     "mid": 0.725,
+     "bid": 0.71,
+     "ask": 0.74,
+     "volume": 541.0
     }
    ],
    "first": 0.71,
@@ -3573,13 +7494,20 @@
      "bid": 0.62,
      "ask": 0.68,
      "volume": 0.0
+    },
+    {
+     "date": "2026-11-15",
+     "mid": 0.63,
+     "bid": 0.62,
+     "ask": 0.64,
+     "volume": 435.92
     }
    ],
    "first": 0.64,
-   "latest": 0.65,
+   "latest": 0.63,
    "high": 0.65,
-   "low": 0.64,
-   "change": 0.01
+   "low": 0.63,
+   "change": -0.01
   },
   "KXNFLTOTAL-26NOV19INDHOU-42": {
    "series": "KXNFLTOTAL",
@@ -3601,13 +7529,20 @@
      "bid": 0.53,
      "ask": 0.58,
      "volume": 0.0
+    },
+    {
+     "date": "2026-11-15",
+     "mid": 0.54,
+     "bid": 0.52,
+     "ask": 0.56,
+     "volume": 285.19
     }
    ],
    "first": 0.58,
-   "latest": 0.555,
+   "latest": 0.54,
    "high": 0.58,
-   "low": 0.555,
-   "change": -0.025
+   "low": 0.54,
+   "change": -0.04
   },
   "KXNFLTOTAL-26NOV19INDHOU-43": {
    "series": "KXNFLTOTAL",
@@ -3629,13 +7564,20 @@
      "bid": 0.51,
      "ask": 0.56,
      "volume": 0.0
+    },
+    {
+     "date": "2026-11-15",
+     "mid": 0.525,
+     "bid": 0.51,
+     "ask": 0.54,
+     "volume": 9.0
     }
    ],
    "first": 0.57,
-   "latest": 0.535,
+   "latest": 0.525,
    "high": 0.57,
-   "low": 0.535,
-   "change": -0.035
+   "low": 0.525,
+   "change": -0.045
   },
   "KXNFLTOTAL-26NOV19INDHOU-44": {
    "series": "KXNFLTOTAL",
@@ -3657,13 +7599,20 @@
      "bid": 0.47,
      "ask": 0.49,
      "volume": 0.0
+    },
+    {
+     "date": "2026-11-15",
+     "mid": 0.495,
+     "bid": 0.49,
+     "ask": 0.5,
+     "volume": 59.0
     }
    ],
    "first": 0.48,
-   "latest": 0.48,
-   "high": 0.48,
+   "latest": 0.495,
+   "high": 0.495,
    "low": 0.48,
-   "change": 0.0
+   "change": 0.015
   },
   "KXNFLTOTAL-26NOV19INDHOU-45": {
    "series": "KXNFLTOTAL",
@@ -3685,13 +7634,20 @@
      "bid": 0.43,
      "ask": 0.48,
      "volume": 0.0
+    },
+    {
+     "date": "2026-11-15",
+     "mid": 0.47,
+     "bid": 0.46,
+     "ask": 0.48,
+     "volume": 20.72
     }
    ],
    "first": 0.445,
-   "latest": 0.455,
-   "high": 0.455,
+   "latest": 0.47,
+   "high": 0.47,
    "low": 0.445,
-   "change": 0.01
+   "change": 0.025
   },
   "KXNFLTOTAL-26NOV19INDHOU-46": {
    "series": "KXNFLTOTAL",
@@ -3713,13 +7669,20 @@
      "bid": 0.42,
      "ask": 0.45,
      "volume": 36.46
+    },
+    {
+     "date": "2026-11-15",
+     "mid": 0.445,
+     "bid": 0.43,
+     "ask": 0.46,
+     "volume": 36.46
     }
    ],
    "first": 0.42,
-   "latest": 0.435,
-   "high": 0.435,
+   "latest": 0.445,
+   "high": 0.445,
    "low": 0.42,
-   "change": 0.015
+   "change": 0.025
   },
   "KXNFLTOTAL-26NOV19INDHOU-47": {
    "series": "KXNFLTOTAL",
@@ -3741,13 +7704,20 @@
      "bid": 0.4,
      "ask": 0.43,
      "volume": 34.97
+    },
+    {
+     "date": "2026-11-15",
+     "mid": 0.42,
+     "bid": 0.4,
+     "ask": 0.44,
+     "volume": 69.94
     }
    ],
    "first": 0.4,
-   "latest": 0.415,
-   "high": 0.415,
+   "latest": 0.42,
+   "high": 0.42,
    "low": 0.4,
-   "change": 0.015
+   "change": 0.02
   },
   "KXNFLTOTAL-26NOV19INDHOU-48": {
    "series": "KXNFLTOTAL",
@@ -3769,13 +7739,20 @@
      "bid": 0.38,
      "ask": 0.41,
      "volume": 41.67
+    },
+    {
+     "date": "2026-11-15",
+     "mid": 0.385,
+     "bid": 0.37,
+     "ask": 0.4,
+     "volume": 41.67
     }
    ],
    "first": 0.37,
-   "latest": 0.395,
+   "latest": 0.385,
    "high": 0.395,
    "low": 0.37,
-   "change": 0.025
+   "change": 0.015
   },
   "KXNFLTOTAL-26NOV19INDHOU-51": {
    "series": "KXNFLTOTAL",
@@ -3796,6 +7773,13 @@
      "mid": 0.32,
      "bid": 0.27,
      "ask": 0.37,
+     "volume": 0.0
+    },
+    {
+     "date": "2026-11-15",
+     "mid": 0.32,
+     "bid": 0.31,
+     "ask": 0.33,
      "volume": 0.0
     }
    ],
@@ -3825,13 +7809,20 @@
      "bid": 0.21,
      "ask": 0.33,
      "volume": 0.0
+    },
+    {
+     "date": "2026-11-15",
+     "mid": 0.255,
+     "bid": 0.24,
+     "ask": 0.27,
+     "volume": 0.0
     }
    ],
    "first": 0.265,
-   "latest": 0.27,
+   "latest": 0.255,
    "high": 0.27,
-   "low": 0.265,
-   "change": 0.005
+   "low": 0.255,
+   "change": -0.01
   },
   "KXNFLTOTAL-26NOV19INDHOU-57": {
    "series": "KXNFLTOTAL",
@@ -3853,13 +7844,20 @@
      "bid": 0.12,
      "ask": 0.2,
      "volume": 0.0
+    },
+    {
+     "date": "2026-11-15",
+     "mid": 0.18,
+     "bid": 0.15,
+     "ask": 0.21,
+     "volume": 0.0
     }
    ],
    "first": 0.2,
-   "latest": 0.16,
+   "latest": 0.18,
    "high": 0.2,
    "low": 0.16,
-   "change": -0.04
+   "change": -0.02
   },
   "KXNFLTOTAL-26NOV19INDHOU-60": {
    "series": "KXNFLTOTAL",
@@ -3881,13 +7879,20 @@
      "bid": 0.03,
      "ask": 0.19,
      "volume": 0.0
+    },
+    {
+     "date": "2026-11-15",
+     "mid": 0.125,
+     "bid": 0.09,
+     "ask": 0.16,
+     "volume": 0.0
     }
    ],
    "first": 0.145,
-   "latest": 0.11,
+   "latest": 0.125,
    "high": 0.145,
    "low": 0.11,
-   "change": -0.035
+   "change": -0.02
   },
   "KXNFLTOTAL-26NOV19INDHOU-63": {
    "series": "KXNFLTOTAL",
@@ -3909,13 +7914,20 @@
      "bid": 0.03,
      "ask": 0.12,
      "volume": 0.0
+    },
+    {
+     "date": "2026-11-15",
+     "mid": 0.095,
+     "bid": 0.06,
+     "ask": 0.13,
+     "volume": 0.0
     }
    ],
    "first": 0.13,
-   "latest": 0.075,
+   "latest": 0.095,
    "high": 0.13,
    "low": 0.075,
-   "change": -0.055
+   "change": -0.035
   },
   "KXNFLTOTAL-26NOV19INDHOU-66": {
    "series": "KXNFLTOTAL",
@@ -3937,13 +7949,20 @@
      "bid": 0.02,
      "ask": 0.11,
      "volume": 0.0
+    },
+    {
+     "date": "2026-11-15",
+     "mid": 0.06,
+     "bid": 0.03,
+     "ask": 0.09,
+     "volume": 0.0
     }
    ],
    "first": 0.115,
-   "latest": 0.065,
+   "latest": 0.06,
    "high": 0.115,
-   "low": 0.065,
-   "change": -0.05
+   "low": 0.06,
+   "change": -0.055
   }
  }
 }
