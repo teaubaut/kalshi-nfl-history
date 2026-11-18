@@ -1,9 +1,235 @@
 {
- "updated": "2026-11-17",
+ "updated": "2026-11-18",
  "days": [
-  "2026-11-17"
+  "2026-11-17",
+  "2026-11-18"
  ],
- "top_movers": [],
+ "top_movers": [
+  {
+   "ticker": "KXNFLDELAY-26NOV29SEASF-Y",
+   "title": "Seattle vs San Francisco game to be delayed due to weather",
+   "subtitle": "Game to be delayed due to weather",
+   "first": 0.0,
+   "latest": 0.545,
+   "change": 0.545
+  },
+  {
+   "ticker": "KXNFLGAME-26NOV25GBLAR-LAR",
+   "title": "Los Angeles R wins",
+   "subtitle": "Los Angeles R",
+   "first": 0.645,
+   "latest": 0.615,
+   "change": -0.03
+  },
+  {
+   "ticker": "KXNFLGAME-26NOV29TENJAC-JAC",
+   "title": "Jacksonville wins",
+   "subtitle": "Jacksonville",
+   "first": 0.875,
+   "latest": 0.905,
+   "change": 0.03
+  },
+  {
+   "ticker": "KXNFLGAME-26NOV25GBLAR-GB",
+   "title": "Green Bay wins",
+   "subtitle": "Green Bay",
+   "first": 0.36,
+   "latest": 0.385,
+   "change": 0.025
+  },
+  {
+   "ticker": "KXNFLGAME-26NOV29WASARI-ARI",
+   "title": "Arizona wins",
+   "subtitle": "Arizona",
+   "first": 0.285,
+   "latest": 0.26,
+   "change": -0.025
+  },
+  {
+   "ticker": "KXNFLGAME-26NOV29NYGIND-NYG",
+   "title": "New York G wins",
+   "subtitle": "New York G",
+   "first": 0.675,
+   "latest": 0.655,
+   "change": -0.02
+  },
+  {
+   "ticker": "KXNFLGAME-26NOV29TENJAC-TEN",
+   "title": "Tennessee wins",
+   "subtitle": "Tennessee",
+   "first": 0.125,
+   "latest": 0.105,
+   "change": -0.02
+  },
+  {
+   "ticker": "KXNFLGAME-26NOV30CARTB-CAR",
+   "title": "Carolina wins",
+   "subtitle": "Carolina",
+   "first": 0.44,
+   "latest": 0.46,
+   "change": 0.02
+  },
+  {
+   "ticker": "KXNFLGAME-26NOV26CHIDET-DET",
+   "title": "Detroit wins",
+   "subtitle": "Detroit",
+   "first": 0.445,
+   "latest": 0.43,
+   "change": -0.015
+  },
+  {
+   "ticker": "KXNFLGAME-26NOV29NYGIND-IND",
+   "title": "Indianapolis wins",
+   "subtitle": "Indianapolis",
+   "first": 0.335,
+   "latest": 0.35,
+   "change": 0.015
+  },
+  {
+   "ticker": "KXNFLGAME-26NOV29SEASF-SF",
+   "title": "San Francisco wins",
+   "subtitle": "San Francisco",
+   "first": 0.585,
+   "latest": 0.57,
+   "change": -0.015
+  },
+  {
+   "ticker": "KXNFLGAME-26NOV30CARTB-TB",
+   "title": "Tampa Bay wins",
+   "subtitle": "Tampa Bay",
+   "first": 0.555,
+   "latest": 0.54,
+   "change": -0.015
+  },
+  {
+   "ticker": "KXNFLGAME-26NOV26PHIDAL-PHI",
+   "title": "Philadelphia wins",
+   "subtitle": "Philadelphia",
+   "first": 0.235,
+   "latest": 0.225,
+   "change": -0.01
+  },
+  {
+   "ticker": "KXNFLGAME-26NOV27DENPIT-PIT",
+   "title": "Pittsburgh wins",
+   "subtitle": "Pittsburgh",
+   "first": 0.47,
+   "latest": 0.46,
+   "change": -0.01
+  },
+  {
+   "ticker": "KXNFLGAME-26NOV29WASARI-WAS",
+   "title": "Washington wins",
+   "subtitle": "Washington",
+   "first": 0.72,
+   "latest": 0.73,
+   "change": 0.01
+  },
+  {
+   "ticker": "KXNFLGAME-26NOV26KCBUF-BUF",
+   "title": "Buffalo wins",
+   "subtitle": "Buffalo",
+   "first": 0.595,
+   "latest": 0.59,
+   "change": -0.005
+  },
+  {
+   "ticker": "KXNFLGAME-26NOV26KCBUF-KC",
+   "title": "Kansas City wins",
+   "subtitle": "Kansas City",
+   "first": 0.42,
+   "latest": 0.415,
+   "change": -0.005
+  },
+  {
+   "ticker": "KXNFLGAME-26NOV26PHIDAL-DAL",
+   "title": "Dallas wins",
+   "subtitle": "Dallas",
+   "first": 0.775,
+   "latest": 0.78,
+   "change": 0.005
+  },
+  {
+   "ticker": "KXNFLGAME-26NOV27DENPIT-DEN",
+   "title": "Denver wins",
+   "subtitle": "Denver",
+   "first": 0.535,
+   "latest": 0.54,
+   "change": 0.005
+  },
+  {
+   "ticker": "KXNFLGAME-26NOV29ATLMIN-ATL",
+   "title": "Atlanta wins",
+   "subtitle": "Atlanta",
+   "first": 0.24,
+   "latest": 0.245,
+   "change": 0.005
+  },
+  {
+   "ticker": "KXNFLGAME-26NOV29ATLMIN-MIN",
+   "title": "Minnesota wins",
+   "subtitle": "Minnesota",
+   "first": 0.77,
+   "latest": 0.765,
+   "change": -0.005
+  },
+  {
+   "ticker": "KXNFLGAME-26NOV29BALHOU-HOU",
+   "title": "Houston wins",
+   "subtitle": "Houston",
+   "first": 0.72,
+   "latest": 0.715,
+   "change": -0.005
+  },
+  {
+   "ticker": "KXNFLGAME-26NOV29LVCLE-LV",
+   "title": "Las Vegas wins",
+   "subtitle": "Las Vegas",
+   "first": 0.35,
+   "latest": 0.345,
+   "change": -0.005
+  },
+  {
+   "ticker": "KXNFLGAME-26NOV29NELAC-NE",
+   "title": "New England wins",
+   "subtitle": "New England",
+   "first": 0.33,
+   "latest": 0.325,
+   "change": -0.005
+  },
+  {
+   "ticker": "KXNFLGAME-26NOV29NOCIN-CIN",
+   "title": "Cincinnati wins",
+   "subtitle": "Cincinnati",
+   "first": 0.835,
+   "latest": 0.83,
+   "change": -0.005
+  },
+  {
+   "ticker": "KXNFLGAME-26NOV29NYJMIA-MIA",
+   "title": "Miami wins",
+   "subtitle": "Miami",
+   "first": 0.395,
+   "latest": 0.39,
+   "change": -0.005
+  },
+  {
+   "ticker": "KXNFLGAME-26NOV29NYJMIA-NYJ",
+   "title": "New York J wins",
+   "subtitle": "New York J",
+   "first": 0.605,
+   "latest": 0.61,
+   "change": 0.005
+  },
+  {
+   "ticker": "KXNFLGAME-26NOV29SEASF-SEA",
+   "title": "Seattle wins",
+   "subtitle": "Seattle",
+   "first": 0.43,
+   "latest": 0.425,
+   "change": -0.005
+  }
+ ],
  "markets": {
   "KXNFLDELAY-26NOV26KCBUF-Y": {
    "series": "KXNFLDELAY",
@@ -14,6 +240,13 @@
    "path": [
     {
      "date": "2026-11-17",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.99,
+     "volume": 0.0
+    },
+    {
+     "date": "2026-11-18",
      "mid": 0.0,
      "bid": 0.0,
      "ask": 0.99,
@@ -39,6 +272,13 @@
      "bid": 0.0,
      "ask": 0.99,
      "volume": 0.0
+    },
+    {
+     "date": "2026-11-18",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.99,
+     "volume": 0.0
     }
    ],
    "first": 0.0,
@@ -56,6 +296,13 @@
    "path": [
     {
      "date": "2026-11-17",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.99,
+     "volume": 0.0
+    },
+    {
+     "date": "2026-11-18",
      "mid": 0.0,
      "bid": 0.0,
      "ask": 0.99,
@@ -81,6 +328,13 @@
      "bid": 0.0,
      "ask": 0.99,
      "volume": 0.0
+    },
+    {
+     "date": "2026-11-18",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.99,
+     "volume": 0.0
     }
    ],
    "first": 0.0,
@@ -98,6 +352,13 @@
    "path": [
     {
      "date": "2026-11-17",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.99,
+     "volume": 0.0
+    },
+    {
+     "date": "2026-11-18",
      "mid": 0.0,
      "bid": 0.0,
      "ask": 0.99,
@@ -123,13 +384,20 @@
      "bid": 0.0,
      "ask": 0.99,
      "volume": 0.0
+    },
+    {
+     "date": "2026-11-18",
+     "mid": 0.545,
+     "bid": 0.1,
+     "ask": 0.99,
+     "volume": 0.1
     }
    ],
    "first": 0.0,
-   "latest": 0.0,
-   "high": 0.0,
+   "latest": 0.545,
+   "high": 0.545,
    "low": 0.0,
-   "change": 0.0
+   "change": 0.545
   },
   "KXNFLDELAY-26NOV29TENJAC-Y": {
    "series": "KXNFLDELAY",
@@ -140,6 +408,13 @@
    "path": [
     {
      "date": "2026-11-17",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.99,
+     "volume": 0.0
+    },
+    {
+     "date": "2026-11-18",
      "mid": 0.0,
      "bid": 0.0,
      "ask": 0.99,
@@ -165,6 +440,13 @@
      "bid": 0.0,
      "ask": 0.99,
      "volume": 0.0
+    },
+    {
+     "date": "2026-11-18",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.02,
+     "volume": 0.0
     }
    ],
    "first": 0.0,
@@ -186,13 +468,20 @@
      "bid": 0.35,
      "ask": 0.37,
      "volume": 7316.08
+    },
+    {
+     "date": "2026-11-18",
+     "mid": 0.385,
+     "bid": 0.38,
+     "ask": 0.39,
+     "volume": 34858.13
     }
    ],
    "first": 0.36,
-   "latest": 0.36,
-   "high": 0.36,
+   "latest": 0.385,
+   "high": 0.385,
    "low": 0.36,
-   "change": 0.0
+   "change": 0.025
   },
   "KXNFLGAME-26NOV25GBLAR-LAR": {
    "series": "KXNFLGAME",
@@ -207,13 +496,20 @@
      "bid": 0.64,
      "ask": 0.65,
      "volume": 2138.01
+    },
+    {
+     "date": "2026-11-18",
+     "mid": 0.615,
+     "bid": 0.61,
+     "ask": 0.62,
+     "volume": 8098.93
     }
    ],
    "first": 0.645,
-   "latest": 0.645,
+   "latest": 0.615,
    "high": 0.645,
-   "low": 0.645,
-   "change": 0.0
+   "low": 0.615,
+   "change": -0.03
   },
   "KXNFLGAME-26NOV26CHIDET-CHI": {
    "series": "KXNFLGAME",
@@ -228,6 +524,13 @@
      "bid": 0.57,
      "ask": 0.58,
      "volume": 4044.26
+    },
+    {
+     "date": "2026-11-18",
+     "mid": 0.575,
+     "bid": 0.57,
+     "ask": 0.58,
+     "volume": 8431.67
     }
    ],
    "first": 0.575,
@@ -249,13 +552,20 @@
      "bid": 0.44,
      "ask": 0.45,
      "volume": 2237.04
+    },
+    {
+     "date": "2026-11-18",
+     "mid": 0.43,
+     "bid": 0.42,
+     "ask": 0.44,
+     "volume": 5137.97
     }
    ],
    "first": 0.445,
-   "latest": 0.445,
+   "latest": 0.43,
    "high": 0.445,
-   "low": 0.445,
-   "change": 0.0
+   "low": 0.43,
+   "change": -0.015
   },
   "KXNFLGAME-26NOV26KCBUF-BUF": {
    "series": "KXNFLGAME",
@@ -270,13 +580,20 @@
      "bid": 0.59,
      "ask": 0.6,
      "volume": 1189.72
+    },
+    {
+     "date": "2026-11-18",
+     "mid": 0.59,
+     "bid": 0.58,
+     "ask": 0.6,
+     "volume": 3404.71
     }
    ],
    "first": 0.595,
-   "latest": 0.595,
+   "latest": 0.59,
    "high": 0.595,
-   "low": 0.595,
-   "change": 0.0
+   "low": 0.59,
+   "change": -0.005
   },
   "KXNFLGAME-26NOV26KCBUF-KC": {
    "series": "KXNFLGAME",
@@ -291,13 +608,20 @@
      "bid": 0.41,
      "ask": 0.43,
      "volume": 1683.72
+    },
+    {
+     "date": "2026-11-18",
+     "mid": 0.415,
+     "bid": 0.41,
+     "ask": 0.42,
+     "volume": 6634.78
     }
    ],
    "first": 0.42,
-   "latest": 0.42,
+   "latest": 0.415,
    "high": 0.42,
-   "low": 0.42,
-   "change": 0.0
+   "low": 0.415,
+   "change": -0.005
   },
   "KXNFLGAME-26NOV26PHIDAL-DAL": {
    "series": "KXNFLGAME",
@@ -312,13 +636,20 @@
      "bid": 0.76,
      "ask": 0.79,
      "volume": 1350.25
+    },
+    {
+     "date": "2026-11-18",
+     "mid": 0.78,
+     "bid": 0.77,
+     "ask": 0.79,
+     "volume": 1928.24
     }
    ],
    "first": 0.775,
-   "latest": 0.775,
-   "high": 0.775,
+   "latest": 0.78,
+   "high": 0.78,
    "low": 0.775,
-   "change": 0.0
+   "change": 0.005
   },
   "KXNFLGAME-26NOV26PHIDAL-PHI": {
    "series": "KXNFLGAME",
@@ -333,13 +664,20 @@
      "bid": 0.23,
      "ask": 0.24,
      "volume": 515.05
+    },
+    {
+     "date": "2026-11-18",
+     "mid": 0.225,
+     "bid": 0.22,
+     "ask": 0.23,
+     "volume": 3191.81
     }
    ],
    "first": 0.235,
-   "latest": 0.235,
+   "latest": 0.225,
    "high": 0.235,
-   "low": 0.235,
-   "change": 0.0
+   "low": 0.225,
+   "change": -0.01
   },
   "KXNFLGAME-26NOV27DENPIT-DEN": {
    "series": "KXNFLGAME",
@@ -354,13 +692,20 @@
      "bid": 0.52,
      "ask": 0.55,
      "volume": 358.69
+    },
+    {
+     "date": "2026-11-18",
+     "mid": 0.54,
+     "bid": 0.53,
+     "ask": 0.55,
+     "volume": 2185.7
     }
    ],
    "first": 0.535,
-   "latest": 0.535,
-   "high": 0.535,
+   "latest": 0.54,
+   "high": 0.54,
    "low": 0.535,
-   "change": 0.0
+   "change": 0.005
   },
   "KXNFLGAME-26NOV27DENPIT-PIT": {
    "series": "KXNFLGAME",
@@ -375,13 +720,20 @@
      "bid": 0.46,
      "ask": 0.48,
      "volume": 39.37
+    },
+    {
+     "date": "2026-11-18",
+     "mid": 0.46,
+     "bid": 0.44,
+     "ask": 0.48,
+     "volume": 235.8
     }
    ],
    "first": 0.47,
-   "latest": 0.47,
+   "latest": 0.46,
    "high": 0.47,
-   "low": 0.47,
-   "change": 0.0
+   "low": 0.46,
+   "change": -0.01
   },
   "KXNFLGAME-26NOV29ATLMIN-ATL": {
    "series": "KXNFLGAME",
@@ -396,13 +748,20 @@
      "bid": 0.23,
      "ask": 0.25,
      "volume": 47.48
+    },
+    {
+     "date": "2026-11-18",
+     "mid": 0.245,
+     "bid": 0.23,
+     "ask": 0.26,
+     "volume": 253.36
     }
    ],
    "first": 0.24,
-   "latest": 0.24,
-   "high": 0.24,
+   "latest": 0.245,
+   "high": 0.245,
    "low": 0.24,
-   "change": 0.0
+   "change": 0.005
   },
   "KXNFLGAME-26NOV29ATLMIN-MIN": {
    "series": "KXNFLGAME",
@@ -417,13 +776,20 @@
      "bid": 0.76,
      "ask": 0.78,
      "volume": 1077.58
+    },
+    {
+     "date": "2026-11-18",
+     "mid": 0.765,
+     "bid": 0.76,
+     "ask": 0.77,
+     "volume": 1296.87
     }
    ],
    "first": 0.77,
-   "latest": 0.77,
+   "latest": 0.765,
    "high": 0.77,
-   "low": 0.77,
-   "change": 0.0
+   "low": 0.765,
+   "change": -0.005
   },
   "KXNFLGAME-26NOV29BALHOU-BAL": {
    "series": "KXNFLGAME",
@@ -438,6 +804,13 @@
      "bid": 0.27,
      "ask": 0.3,
      "volume": 27.79
+    },
+    {
+     "date": "2026-11-18",
+     "mid": 0.285,
+     "bid": 0.27,
+     "ask": 0.3,
+     "volume": 284.17
     }
    ],
    "first": 0.285,
@@ -459,13 +832,20 @@
      "bid": 0.71,
      "ask": 0.73,
      "volume": 48.46
+    },
+    {
+     "date": "2026-11-18",
+     "mid": 0.715,
+     "bid": 0.7,
+     "ask": 0.73,
+     "volume": 63.23
     }
    ],
    "first": 0.72,
-   "latest": 0.72,
+   "latest": 0.715,
    "high": 0.72,
-   "low": 0.72,
-   "change": 0.0
+   "low": 0.715,
+   "change": -0.005
   },
   "KXNFLGAME-26NOV29LVCLE-CLE": {
    "series": "KXNFLGAME",
@@ -480,6 +860,13 @@
      "bid": 0.64,
      "ask": 0.66,
      "volume": 332.71
+    },
+    {
+     "date": "2026-11-18",
+     "mid": 0.65,
+     "bid": 0.64,
+     "ask": 0.66,
+     "volume": 846.95
     }
    ],
    "first": 0.65,
@@ -501,13 +888,20 @@
      "bid": 0.33,
      "ask": 0.37,
      "volume": 379.24
+    },
+    {
+     "date": "2026-11-18",
+     "mid": 0.345,
+     "bid": 0.34,
+     "ask": 0.35,
+     "volume": 1285.65
     }
    ],
    "first": 0.35,
-   "latest": 0.35,
+   "latest": 0.345,
    "high": 0.35,
-   "low": 0.35,
-   "change": 0.0
+   "low": 0.345,
+   "change": -0.005
   },
   "KXNFLGAME-26NOV29NELAC-LAC": {
    "series": "KXNFLGAME",
@@ -522,6 +916,13 @@
      "bid": 0.65,
      "ask": 0.69,
      "volume": 240.98
+    },
+    {
+     "date": "2026-11-18",
+     "mid": 0.67,
+     "bid": 0.66,
+     "ask": 0.68,
+     "volume": 359.86
     }
    ],
    "first": 0.67,
@@ -543,13 +944,20 @@
      "bid": 0.31,
      "ask": 0.35,
      "volume": 1917.2
+    },
+    {
+     "date": "2026-11-18",
+     "mid": 0.325,
+     "bid": 0.32,
+     "ask": 0.33,
+     "volume": 4364.28
     }
    ],
    "first": 0.33,
-   "latest": 0.33,
+   "latest": 0.325,
    "high": 0.33,
-   "low": 0.33,
-   "change": 0.0
+   "low": 0.325,
+   "change": -0.005
   },
   "KXNFLGAME-26NOV29NOCIN-CIN": {
    "series": "KXNFLGAME",
@@ -564,13 +972,20 @@
      "bid": 0.82,
      "ask": 0.85,
      "volume": 546.89
+    },
+    {
+     "date": "2026-11-18",
+     "mid": 0.83,
+     "bid": 0.82,
+     "ask": 0.84,
+     "volume": 680.5
     }
    ],
    "first": 0.835,
-   "latest": 0.835,
+   "latest": 0.83,
    "high": 0.835,
-   "low": 0.835,
-   "change": 0.0
+   "low": 0.83,
+   "change": -0.005
   },
   "KXNFLGAME-26NOV29NOCIN-NO": {
    "series": "KXNFLGAME",
@@ -585,6 +1000,13 @@
      "bid": 0.15,
      "ask": 0.18,
      "volume": 399.55
+    },
+    {
+     "date": "2026-11-18",
+     "mid": 0.165,
+     "bid": 0.15,
+     "ask": 0.18,
+     "volume": 491.68
     }
    ],
    "first": 0.165,
@@ -606,13 +1028,20 @@
      "bid": 0.32,
      "ask": 0.35,
      "volume": 21.0
+    },
+    {
+     "date": "2026-11-18",
+     "mid": 0.35,
+     "bid": 0.34,
+     "ask": 0.36,
+     "volume": 917.48
     }
    ],
    "first": 0.335,
-   "latest": 0.335,
-   "high": 0.335,
+   "latest": 0.35,
+   "high": 0.35,
    "low": 0.335,
-   "change": 0.0
+   "change": 0.015
   },
   "KXNFLGAME-26NOV29NYGIND-NYG": {
    "series": "KXNFLGAME",
@@ -627,13 +1056,20 @@
      "bid": 0.67,
      "ask": 0.68,
      "volume": 119.63
+    },
+    {
+     "date": "2026-11-18",
+     "mid": 0.655,
+     "bid": 0.64,
+     "ask": 0.67,
+     "volume": 186.84
     }
    ],
    "first": 0.675,
-   "latest": 0.675,
+   "latest": 0.655,
    "high": 0.675,
-   "low": 0.675,
-   "change": 0.0
+   "low": 0.655,
+   "change": -0.02
   },
   "KXNFLGAME-26NOV29NYJMIA-MIA": {
    "series": "KXNFLGAME",
@@ -648,13 +1084,20 @@
      "bid": 0.38,
      "ask": 0.41,
      "volume": 49.1
+    },
+    {
+     "date": "2026-11-18",
+     "mid": 0.39,
+     "bid": 0.38,
+     "ask": 0.4,
+     "volume": 200.08
     }
    ],
    "first": 0.395,
-   "latest": 0.395,
+   "latest": 0.39,
    "high": 0.395,
-   "low": 0.395,
-   "change": 0.0
+   "low": 0.39,
+   "change": -0.005
   },
   "KXNFLGAME-26NOV29NYJMIA-NYJ": {
    "series": "KXNFLGAME",
@@ -669,13 +1112,20 @@
      "bid": 0.59,
      "ask": 0.62,
      "volume": 55.78
+    },
+    {
+     "date": "2026-11-18",
+     "mid": 0.61,
+     "bid": 0.6,
+     "ask": 0.62,
+     "volume": 101.9
     }
    ],
    "first": 0.605,
-   "latest": 0.605,
-   "high": 0.605,
+   "latest": 0.61,
+   "high": 0.61,
    "low": 0.605,
-   "change": 0.0
+   "change": 0.005
   },
   "KXNFLGAME-26NOV29SEASF-SEA": {
    "series": "KXNFLGAME",
@@ -690,13 +1140,20 @@
      "bid": 0.42,
      "ask": 0.44,
      "volume": 508.4
+    },
+    {
+     "date": "2026-11-18",
+     "mid": 0.425,
+     "bid": 0.42,
+     "ask": 0.43,
+     "volume": 2406.5
     }
    ],
    "first": 0.43,
-   "latest": 0.43,
+   "latest": 0.425,
    "high": 0.43,
-   "low": 0.43,
-   "change": 0.0
+   "low": 0.425,
+   "change": -0.005
   },
   "KXNFLGAME-26NOV29SEASF-SF": {
    "series": "KXNFLGAME",
@@ -711,13 +1168,20 @@
      "bid": 0.57,
      "ask": 0.6,
      "volume": 655.68
+    },
+    {
+     "date": "2026-11-18",
+     "mid": 0.57,
+     "bid": 0.56,
+     "ask": 0.58,
+     "volume": 2014.16
     }
    ],
    "first": 0.585,
-   "latest": 0.585,
+   "latest": 0.57,
    "high": 0.585,
-   "low": 0.585,
-   "change": 0.0
+   "low": 0.57,
+   "change": -0.015
   },
   "KXNFLGAME-26NOV29TENJAC-JAC": {
    "series": "KXNFLGAME",
@@ -732,13 +1196,20 @@
      "bid": 0.87,
      "ask": 0.88,
      "volume": 1802.51
+    },
+    {
+     "date": "2026-11-18",
+     "mid": 0.905,
+     "bid": 0.9,
+     "ask": 0.91,
+     "volume": 2729.9
     }
    ],
    "first": 0.875,
-   "latest": 0.875,
-   "high": 0.875,
+   "latest": 0.905,
+   "high": 0.905,
    "low": 0.875,
-   "change": 0.0
+   "change": 0.03
   },
   "KXNFLGAME-26NOV29TENJAC-TEN": {
    "series": "KXNFLGAME",
@@ -753,13 +1224,20 @@
      "bid": 0.12,
      "ask": 0.13,
      "volume": 1273.35
+    },
+    {
+     "date": "2026-11-18",
+     "mid": 0.105,
+     "bid": 0.1,
+     "ask": 0.11,
+     "volume": 3652.29
     }
    ],
    "first": 0.125,
-   "latest": 0.125,
+   "latest": 0.105,
    "high": 0.125,
-   "low": 0.125,
-   "change": 0.0
+   "low": 0.105,
+   "change": -0.02
   },
   "KXNFLGAME-26NOV29WASARI-ARI": {
    "series": "KXNFLGAME",
@@ -774,13 +1252,20 @@
      "bid": 0.28,
      "ask": 0.29,
      "volume": 426.64
+    },
+    {
+     "date": "2026-11-18",
+     "mid": 0.26,
+     "bid": 0.25,
+     "ask": 0.27,
+     "volume": 494.05
     }
    ],
    "first": 0.285,
-   "latest": 0.285,
+   "latest": 0.26,
    "high": 0.285,
-   "low": 0.285,
-   "change": 0.0
+   "low": 0.26,
+   "change": -0.025
   },
   "KXNFLGAME-26NOV29WASARI-WAS": {
    "series": "KXNFLGAME",
@@ -795,13 +1280,20 @@
      "bid": 0.71,
      "ask": 0.73,
      "volume": 21.18
+    },
+    {
+     "date": "2026-11-18",
+     "mid": 0.73,
+     "bid": 0.71,
+     "ask": 0.75,
+     "volume": 54.23
     }
    ],
    "first": 0.72,
-   "latest": 0.72,
-   "high": 0.72,
+   "latest": 0.73,
+   "high": 0.73,
    "low": 0.72,
-   "change": 0.0
+   "change": 0.01
   },
   "KXNFLGAME-26NOV30CARTB-CAR": {
    "series": "KXNFLGAME",
@@ -816,13 +1308,20 @@
      "bid": 0.43,
      "ask": 0.45,
      "volume": 2.0
+    },
+    {
+     "date": "2026-11-18",
+     "mid": 0.46,
+     "bid": 0.45,
+     "ask": 0.47,
+     "volume": 973.18
     }
    ],
    "first": 0.44,
-   "latest": 0.44,
-   "high": 0.44,
+   "latest": 0.46,
+   "high": 0.46,
    "low": 0.44,
-   "change": 0.0
+   "change": 0.02
   },
   "KXNFLGAME-26NOV30CARTB-TB": {
    "series": "KXNFLGAME",
@@ -837,13 +1336,20 @@
      "bid": 0.54,
      "ask": 0.57,
      "volume": 0.0
+    },
+    {
+     "date": "2026-11-18",
+     "mid": 0.54,
+     "bid": 0.53,
+     "ask": 0.55,
+     "volume": 23.1
     }
    ],
    "first": 0.555,
-   "latest": 0.555,
+   "latest": 0.54,
    "high": 0.555,
-   "low": 0.555,
-   "change": 0.0
+   "low": 0.54,
+   "change": -0.015
   }
  }
 }
