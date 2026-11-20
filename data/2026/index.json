@@ -1,7 +1,7 @@
 {
  "futures": {
-  "last_updated": "2026-11-19",
-  "markets": 9702
+  "last_updated": "2026-11-20",
+  "markets": 9749
  },
  "week-07": {
   "last_updated": "2026-10-26",
@@ -20,27 +20,27 @@
   "markets": 3397
  },
  "week-104": {
-  "last_updated": "2026-11-19",
+  "last_updated": "2026-11-20",
   "markets": 1
  },
  "week-11": {
-  "last_updated": "2026-11-19",
-  "markets": 23913
+  "last_updated": "2026-11-20",
+  "markets": 22206
  },
  "week-12": {
-  "last_updated": "2026-11-19",
-  "markets": 188
+  "last_updated": "2026-11-20",
+  "markets": 362
  },
  "week-13": {
   "last_updated": "2026-11-11",
   "markets": 72
  },
  "week-23": {
-  "last_updated": "2026-11-19",
+  "last_updated": "2026-11-20",
   "markets": 1
  },
  "week-25": {
-  "last_updated": "2026-11-19",
+  "last_updated": "2026-11-20",
   "markets": 33
  }
 }
