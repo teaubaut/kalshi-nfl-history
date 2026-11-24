@@ -1,7 +1,7 @@
 {
  "futures": {
   "last_updated": "2026-11-24",
-  "markets": 9843
+  "markets": 9612
  },
  "week-07": {
   "last_updated": "2026-10-26",
@@ -29,11 +29,11 @@
  },
  "week-12": {
   "last_updated": "2026-11-24",
-  "markets": 8185
+  "markets": 12259
  },
  "week-13": {
-  "last_updated": "2026-11-11",
-  "markets": 72
+  "last_updated": "2026-11-24",
+  "markets": 37
  },
  "week-23": {
   "last_updated": "2026-11-24",
