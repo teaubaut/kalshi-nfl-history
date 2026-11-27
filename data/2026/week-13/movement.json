@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26",
+ "updated": "2026-11-27",
  "days": [
   "2026-10-25",
   "2026-10-26",
@@ -21,7 +21,8 @@
   "2026-11-11",
   "2026-11-24",
   "2026-11-25",
-  "2026-11-26"
+  "2026-11-26",
+  "2026-11-27"
  ],
  "top_movers": [
   {
@@ -289,22 +290,6 @@
    "change": -0.15
   },
   {
-   "ticker": "KXNFLGAME-26DEC06JACCHI-CHI",
-   "title": "Chicago wins",
-   "subtitle": "Chicago",
-   "first": 0.575,
-   "latest": 0.44,
-   "change": -0.135
-  },
-  {
-   "ticker": "KXNFLGAME-26DEC06JACCHI-JAC",
-   "title": "Jacksonville wins",
-   "subtitle": "Jacksonville",
-   "first": 0.43,
-   "latest": 0.56,
-   "change": 0.13
-  },
-  {
    "ticker": "KXNFLTRADE-26DEC01-BBAK",
    "title": "Will Budda Baker be traded before Dec 1, 2026?",
    "subtitle": "Budda Baker",
@@ -345,12 +330,12 @@
    "change": -0.1
   },
   {
-   "ticker": "KXNFLGAME-26DEC06HOUPIT-HOU",
-   "title": "Houston wins",
-   "subtitle": "Houston",
-   "first": 0.585,
-   "latest": 0.67,
-   "change": 0.085
+   "ticker": "KXNFLDELAY-26DEC06BUFNE-Y",
+   "title": "Buffalo vs New England game to be delayed due to weather",
+   "subtitle": "Game to be delayed due to weather",
+   "first": 0.0,
+   "latest": 0.09,
+   "change": 0.09
   },
   {
    "ticker": "KXNFLTRADE-26DEC01-RBAT",
@@ -367,14 +352,6 @@
    "first": 0.09,
    "latest": 0.01,
    "change": -0.08
-  },
-  {
-   "ticker": "KXNFLGAME-26DEC06HOUPIT-PIT",
-   "title": "Pittsburgh wins",
-   "subtitle": "Pittsburgh",
-   "first": 0.405,
-   "latest": 0.33,
-   "change": -0.075
   },
   {
    "ticker": "KXNFLTRADE-26DEC01-BAIY",
@@ -423,9 +400,453 @@
    "first": 0.07,
    "latest": 0.01,
    "change": -0.06
+  },
+  {
+   "ticker": "KXNFLGAME-26DEC06HOUPIT-HOU",
+   "title": "Houston wins",
+   "subtitle": "Houston",
+   "first": 0.585,
+   "latest": 0.64,
+   "change": 0.055
+  },
+  {
+   "ticker": "KXNFLTRADE-26DEC01-DLON",
+   "title": "Will Drake London be traded before Dec 1, 2026?",
+   "subtitle": "Drake London",
+   "first": 0.065,
+   "latest": 0.01,
+   "change": -0.055
+  },
+  {
+   "ticker": "KXNFLTRADE-26DEC01-AROD",
+   "title": "Will Aaron Rodgers be traded before Dec 1, 2026?",
+   "subtitle": "Aaron Rodgers",
+   "first": 0.06,
+   "latest": 0.01,
+   "change": -0.05
   }
  ],
  "markets": {
+  "KXNFL1HTEAMTOTAL-26DEC03KCLAR-KC10": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Kansas City vs Los Angeles R: 1st Half Team Total",
+   "game_date": "2026-12-03",
+   "title": "Kansas City over 9.5 1H points scored",
+   "subtitle": "Kansas City over 9.5 points",
+   "path": [
+    {
+     "date": "2026-11-27",
+     "mid": 0.5,
+     "bid": 0.01,
+     "ask": 0.99,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.5,
+   "latest": 0.5,
+   "high": 0.5,
+   "low": 0.5,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26DEC03KCLAR-KC14": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Kansas City vs Los Angeles R: 1st Half Team Total",
+   "game_date": "2026-12-03",
+   "title": "Kansas City over 13.5 1H points scored",
+   "subtitle": "Kansas City over 13.5 points",
+   "path": [
+    {
+     "date": "2026-11-27",
+     "mid": 0.5,
+     "bid": 0.01,
+     "ask": 0.99,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.5,
+   "latest": 0.5,
+   "high": 0.5,
+   "low": 0.5,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26DEC03KCLAR-KC17": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Kansas City vs Los Angeles R: 1st Half Team Total",
+   "game_date": "2026-12-03",
+   "title": "Kansas City over 16.5 1H points scored",
+   "subtitle": "Kansas City over 16.5 points",
+   "path": [
+    {
+     "date": "2026-11-27",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.99,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26DEC03KCLAR-KC20": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Kansas City vs Los Angeles R: 1st Half Team Total",
+   "game_date": "2026-12-03",
+   "title": "Kansas City over 19.5 1H points scored",
+   "subtitle": "Kansas City over 19.5 points",
+   "path": [
+    {
+     "date": "2026-11-27",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.19,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26DEC03KCLAR-KC21": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Kansas City vs Los Angeles R: 1st Half Team Total",
+   "game_date": "2026-12-03",
+   "title": "Kansas City over 20.5 1H points scored",
+   "subtitle": "Kansas City over 20.5 points",
+   "path": [
+    {
+     "date": "2026-11-27",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.15,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26DEC03KCLAR-KC24": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Kansas City vs Los Angeles R: 1st Half Team Total",
+   "game_date": "2026-12-03",
+   "title": "Kansas City over 23.5 1H points scored",
+   "subtitle": "Kansas City over 23.5 points",
+   "path": [
+    {
+     "date": "2026-11-27",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.11,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26DEC03KCLAR-KC28": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Kansas City vs Los Angeles R: 1st Half Team Total",
+   "game_date": "2026-12-03",
+   "title": "Kansas City over 27.5 1H points scored",
+   "subtitle": "Kansas City over 27.5 points",
+   "path": [
+    {
+     "date": "2026-11-27",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.07,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26DEC03KCLAR-KC3": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Kansas City vs Los Angeles R: 1st Half Team Total",
+   "game_date": "2026-12-03",
+   "title": "Kansas City over 2.5 1H points scored",
+   "subtitle": "Kansas City over 2.5 points",
+   "path": [
+    {
+     "date": "2026-11-27",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.99,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26DEC03KCLAR-KC31": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Kansas City vs Los Angeles R: 1st Half Team Total",
+   "game_date": "2026-12-03",
+   "title": "Kansas City over 30.5 1H points scored",
+   "subtitle": "Kansas City over 30.5 points",
+   "path": [
+    {
+     "date": "2026-11-27",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.06,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26DEC03KCLAR-KC7": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Kansas City vs Los Angeles R: 1st Half Team Total",
+   "game_date": "2026-12-03",
+   "title": "Kansas City over 6.5 1H points scored",
+   "subtitle": "Kansas City over 6.5 points",
+   "path": [
+    {
+     "date": "2026-11-27",
+     "mid": 0.5,
+     "bid": 0.01,
+     "ask": 0.99,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.5,
+   "latest": 0.5,
+   "high": 0.5,
+   "low": 0.5,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26DEC03KCLAR-LAR10": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Kansas City vs Los Angeles R: 1st Half Team Total",
+   "game_date": "2026-12-03",
+   "title": "Los Angeles R over 9.5 1H points scored",
+   "subtitle": "Los Angeles R over 9.5 points",
+   "path": [
+    {
+     "date": "2026-11-27",
+     "mid": 0.5,
+     "bid": 0.01,
+     "ask": 0.99,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.5,
+   "latest": 0.5,
+   "high": 0.5,
+   "low": 0.5,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26DEC03KCLAR-LAR14": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Kansas City vs Los Angeles R: 1st Half Team Total",
+   "game_date": "2026-12-03",
+   "title": "Los Angeles R over 13.5 1H points scored",
+   "subtitle": "Los Angeles R over 13.5 points",
+   "path": [
+    {
+     "date": "2026-11-27",
+     "mid": 0.5,
+     "bid": 0.01,
+     "ask": 0.99,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.5,
+   "latest": 0.5,
+   "high": 0.5,
+   "low": 0.5,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26DEC03KCLAR-LAR17": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Kansas City vs Los Angeles R: 1st Half Team Total",
+   "game_date": "2026-12-03",
+   "title": "Los Angeles R over 16.5 1H points scored",
+   "subtitle": "Los Angeles R over 16.5 points",
+   "path": [
+    {
+     "date": "2026-11-27",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.99,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26DEC03KCLAR-LAR20": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Kansas City vs Los Angeles R: 1st Half Team Total",
+   "game_date": "2026-12-03",
+   "title": "Los Angeles R over 19.5 1H points scored",
+   "subtitle": "Los Angeles R over 19.5 points",
+   "path": [
+    {
+     "date": "2026-11-27",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.19,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26DEC03KCLAR-LAR21": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Kansas City vs Los Angeles R: 1st Half Team Total",
+   "game_date": "2026-12-03",
+   "title": "Los Angeles R over 20.5 1H points scored",
+   "subtitle": "Los Angeles R over 20.5 points",
+   "path": [
+    {
+     "date": "2026-11-27",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.16,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26DEC03KCLAR-LAR24": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Kansas City vs Los Angeles R: 1st Half Team Total",
+   "game_date": "2026-12-03",
+   "title": "Los Angeles R over 23.5 1H points scored",
+   "subtitle": "Los Angeles R over 23.5 points",
+   "path": [
+    {
+     "date": "2026-11-27",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.11,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26DEC03KCLAR-LAR28": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Kansas City vs Los Angeles R: 1st Half Team Total",
+   "game_date": "2026-12-03",
+   "title": "Los Angeles R over 27.5 1H points scored",
+   "subtitle": "Los Angeles R over 27.5 points",
+   "path": [
+    {
+     "date": "2026-11-27",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.07,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26DEC03KCLAR-LAR3": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Kansas City vs Los Angeles R: 1st Half Team Total",
+   "game_date": "2026-12-03",
+   "title": "Los Angeles R over 2.5 1H points scored",
+   "subtitle": "Los Angeles R over 2.5 points",
+   "path": [
+    {
+     "date": "2026-11-27",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.99,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26DEC03KCLAR-LAR31": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Kansas City vs Los Angeles R: 1st Half Team Total",
+   "game_date": "2026-12-03",
+   "title": "Los Angeles R over 30.5 1H points scored",
+   "subtitle": "Los Angeles R over 30.5 points",
+   "path": [
+    {
+     "date": "2026-11-27",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.06,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.0,
+   "latest": 0.0,
+   "high": 0.0,
+   "low": 0.0,
+   "change": 0.0
+  },
+  "KXNFL1HTEAMTOTAL-26DEC03KCLAR-LAR7": {
+   "series": "KXNFL1HTEAMTOTAL",
+   "event": "Kansas City vs Los Angeles R: 1st Half Team Total",
+   "game_date": "2026-12-03",
+   "title": "Los Angeles R over 6.5 1H points scored",
+   "subtitle": "Los Angeles R over 6.5 points",
+   "path": [
+    {
+     "date": "2026-11-27",
+     "mid": 0.5,
+     "bid": 0.01,
+     "ask": 0.99,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.5,
+   "latest": 0.5,
+   "high": 0.5,
+   "low": 0.5,
+   "change": 0.0
+  },
   "KXNFLDELAY-26DEC06BUFNE-Y": {
    "series": "KXNFLDELAY",
    "event": "Buffalo vs New England: Weather Delay",
@@ -453,13 +874,20 @@
      "bid": 0.0,
      "ask": 0.99,
      "volume": 0.0
+    },
+    {
+     "date": "2026-11-27",
+     "mid": 0.09,
+     "bid": 0.0,
+     "ask": 0.91,
+     "volume": 2.0
     }
    ],
    "first": 0.0,
-   "latest": 0.0,
-   "high": 0.0,
+   "latest": 0.09,
+   "high": 0.09,
    "low": 0.0,
-   "change": 0.0
+   "change": 0.09
   },
   "KXNFLDELAY-26DEC06CINCLE-Y": {
    "series": "KXNFLDELAY",
@@ -484,6 +912,13 @@
     },
     {
      "date": "2026-11-26",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.99,
+     "volume": 0.0
+    },
+    {
+     "date": "2026-11-27",
      "mid": 0.0,
      "bid": 0.0,
      "ask": 0.99,
@@ -523,6 +958,13 @@
      "bid": 0.0,
      "ask": 0.99,
      "volume": 0.0
+    },
+    {
+     "date": "2026-11-27",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.99,
+     "volume": 0.0
     }
    ],
    "first": 0.0,
@@ -554,6 +996,13 @@
     },
     {
      "date": "2026-11-26",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.99,
+     "volume": 0.0
+    },
+    {
+     "date": "2026-11-27",
      "mid": 0.0,
      "bid": 0.0,
      "ask": 0.99,
@@ -593,6 +1042,13 @@
      "bid": 0.0,
      "ask": 0.99,
      "volume": 0.0
+    },
+    {
+     "date": "2026-11-27",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.99,
+     "volume": 0.0
     }
    ],
    "first": 0.0,
@@ -624,6 +1080,13 @@
     },
     {
      "date": "2026-11-26",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.99,
+     "volume": 0.0
+    },
+    {
+     "date": "2026-11-27",
      "mid": 0.0,
      "bid": 0.0,
      "ask": 0.99,
@@ -663,6 +1126,13 @@
      "bid": 0.0,
      "ask": 0.99,
      "volume": 0.0
+    },
+    {
+     "date": "2026-11-27",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.99,
+     "volume": 0.0
     }
    ],
    "first": 0.0,
@@ -694,6 +1164,13 @@
     },
     {
      "date": "2026-11-26",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.99,
+     "volume": 0.0
+    },
+    {
+     "date": "2026-11-27",
      "mid": 0.0,
      "bid": 0.0,
      "ask": 0.99,
@@ -733,6 +1210,13 @@
      "bid": 0.0,
      "ask": 0.99,
      "volume": 0.0
+    },
+    {
+     "date": "2026-11-27",
+     "mid": 0.0,
+     "bid": 0.0,
+     "ask": 0.99,
+     "volume": 0.0
     }
    ],
    "first": 0.0,
@@ -768,13 +1252,20 @@
      "bid": 0.51,
      "ask": 0.53,
      "volume": 14553.48
+    },
+    {
+     "date": "2026-11-27",
+     "mid": 0.51,
+     "bid": 0.5,
+     "ask": 0.52,
+     "volume": 25506.04
     }
    ],
    "first": 0.525,
-   "latest": 0.52,
+   "latest": 0.51,
    "high": 0.525,
-   "low": 0.52,
-   "change": -0.005
+   "low": 0.51,
+   "change": -0.015
   },
   "KXNFLGAME-26DEC03KCLAR-LAR": {
    "series": "KXNFLGAME",
@@ -803,13 +1294,20 @@
      "bid": 0.47,
      "ask": 0.5,
      "volume": 4602.14
+    },
+    {
+     "date": "2026-11-27",
+     "mid": 0.5,
+     "bid": 0.49,
+     "ask": 0.51,
+     "volume": 12556.78
     }
    ],
    "first": 0.485,
-   "latest": 0.485,
-   "high": 0.49,
+   "latest": 0.5,
+   "high": 0.5,
    "low": 0.485,
-   "change": 0.0
+   "change": 0.015
   },
   "KXNFLGAME-26DEC06BUFNE-BUF": {
    "series": "KXNFLGAME",
@@ -838,13 +1336,20 @@
      "bid": 0.87,
      "ask": 0.88,
      "volume": 2581.38
+    },
+    {
+     "date": "2026-11-27",
+     "mid": 0.865,
+     "bid": 0.86,
+     "ask": 0.87,
+     "volume": 9236.87
     }
    ],
    "first": 0.875,
-   "latest": 0.875,
+   "latest": 0.865,
    "high": 0.875,
-   "low": 0.87,
-   "change": 0.0
+   "low": 0.865,
+   "change": -0.01
   },
   "KXNFLGAME-26DEC06BUFNE-NE": {
    "series": "KXNFLGAME",
@@ -873,13 +1378,20 @@
      "bid": 0.12,
      "ask": 0.14,
      "volume": 4220.03
+    },
+    {
+     "date": "2026-11-27",
+     "mid": 0.135,
+     "bid": 0.13,
+     "ask": 0.14,
+     "volume": 9394.28
     }
    ],
    "first": 0.125,
-   "latest": 0.13,
-   "high": 0.13,
+   "latest": 0.135,
+   "high": 0.135,
    "low": 0.125,
-   "change": 0.005
+   "change": 0.01
   },
   "KXNFLGAME-26DEC06CARMIN-CAR": {
    "series": "KXNFLGAME",
@@ -908,13 +1420,20 @@
      "bid": 0.3,
      "ask": 0.33,
      "volume": 426.38
+    },
+    {
+     "date": "2026-11-27",
+     "mid": 0.32,
+     "bid": 0.31,
+     "ask": 0.33,
+     "volume": 941.86
     }
    ],
    "first": 0.315,
-   "latest": 0.315,
-   "high": 0.315,
+   "latest": 0.32,
+   "high": 0.32,
    "low": 0.315,
-   "change": 0.0
+   "change": 0.005
   },
   "KXNFLGAME-26DEC06CARMIN-MIN": {
    "series": "KXNFLGAME",
@@ -943,6 +1462,13 @@
      "bid": 0.67,
      "ask": 0.71,
      "volume": 827.21
+    },
+    {
+     "date": "2026-11-27",
+     "mid": 0.69,
+     "bid": 0.68,
+     "ask": 0.7,
+     "volume": 972.64
     }
    ],
    "first": 0.68,
@@ -978,13 +1504,20 @@
      "bid": 0.67,
      "ask": 0.7,
      "volume": 516.29
+    },
+    {
+     "date": "2026-11-27",
+     "mid": 0.69,
+     "bid": 0.68,
+     "ask": 0.7,
+     "volume": 1081.07
     }
    ],
    "first": 0.685,
-   "latest": 0.685,
-   "high": 0.685,
+   "latest": 0.69,
+   "high": 0.69,
    "low": 0.68,
-   "change": 0.0
+   "change": 0.005
   },
   "KXNFLGAME-26DEC06CINCLE-CLE": {
    "series": "KXNFLGAME",
@@ -1013,6 +1546,13 @@
      "bid": 0.3,
      "ask": 0.32,
      "volume": 927.46
+    },
+    {
+     "date": "2026-11-27",
+     "mid": 0.31,
+     "bid": 0.29,
+     "ask": 0.33,
+     "volume": 1520.9
     }
    ],
    "first": 0.305,
@@ -1048,13 +1588,20 @@
      "bid": 0.33,
      "ask": 0.37,
      "volume": 527.41
+    },
+    {
+     "date": "2026-11-27",
+     "mid": 0.355,
+     "bid": 0.34,
+     "ask": 0.37,
+     "volume": 584.97
     }
    ],
    "first": 0.36,
-   "latest": 0.35,
+   "latest": 0.355,
    "high": 0.36,
    "low": 0.35,
-   "change": -0.01
+   "change": -0.005
   },
   "KXNFLGAME-26DEC06DETATL-DET": {
    "series": "KXNFLGAME",
@@ -1083,13 +1630,20 @@
      "bid": 0.64,
      "ask": 0.66,
      "volume": 1647.78
+    },
+    {
+     "date": "2026-11-27",
+     "mid": 0.66,
+     "bid": 0.65,
+     "ask": 0.67,
+     "volume": 3187.01
     }
    ],
    "first": 0.64,
-   "latest": 0.65,
-   "high": 0.65,
+   "latest": 0.66,
+   "high": 0.66,
    "low": 0.64,
-   "change": 0.01
+   "change": 0.02
   },
   "KXNFLGAME-26DEC06GBNO-GB": {
    "series": "KXNFLGAME",
@@ -1118,13 +1672,20 @@
      "bid": 0.67,
      "ask": 0.69,
      "volume": 1596.92
+    },
+    {
+     "date": "2026-11-27",
+     "mid": 0.695,
+     "bid": 0.68,
+     "ask": 0.71,
+     "volume": 5191.17
     }
    ],
    "first": 0.675,
-   "latest": 0.68,
+   "latest": 0.695,
    "high": 0.695,
    "low": 0.675,
-   "change": 0.005
+   "change": 0.02
   },
   "KXNFLGAME-26DEC06GBNO-NO": {
    "series": "KXNFLGAME",
@@ -1153,13 +1714,20 @@
      "bid": 0.31,
      "ask": 0.34,
      "volume": 741.01
+    },
+    {
+     "date": "2026-11-27",
+     "mid": 0.315,
+     "bid": 0.3,
+     "ask": 0.33,
+     "volume": 1661.26
     }
    ],
    "first": 0.32,
-   "latest": 0.325,
+   "latest": 0.315,
    "high": 0.325,
    "low": 0.3,
-   "change": 0.005
+   "change": -0.005
   },
   "KXNFLGAME-26DEC06HOUPIT-HOU": {
    "series": "KXNFLGAME",
@@ -1188,13 +1756,20 @@
      "bid": 0.66,
      "ask": 0.68,
      "volume": 391.17
+    },
+    {
+     "date": "2026-11-27",
+     "mid": 0.64,
+     "bid": 0.61,
+     "ask": 0.67,
+     "volume": 755.65
     }
    ],
    "first": 0.585,
-   "latest": 0.67,
+   "latest": 0.64,
    "high": 0.67,
    "low": 0.585,
-   "change": 0.085
+   "change": 0.055
   },
   "KXNFLGAME-26DEC06HOUPIT-PIT": {
    "series": "KXNFLGAME",
@@ -1223,13 +1798,20 @@
      "bid": 0.32,
      "ask": 0.34,
      "volume": 470.07
+    },
+    {
+     "date": "2026-11-27",
+     "mid": 0.36,
+     "bid": 0.34,
+     "ask": 0.38,
+     "volume": 5887.16
     }
    ],
    "first": 0.405,
-   "latest": 0.33,
+   "latest": 0.36,
    "high": 0.405,
    "low": 0.33,
-   "change": -0.075
+   "change": -0.045
   },
   "KXNFLGAME-26DEC06JACCHI-CHI": {
    "series": "KXNFLGAME",
@@ -1258,13 +1840,20 @@
      "bid": 0.42,
      "ask": 0.46,
      "volume": 8734.54
+    },
+    {
+     "date": "2026-11-27",
+     "mid": 0.615,
+     "bid": 0.61,
+     "ask": 0.62,
+     "volume": 20776.74
     }
    ],
    "first": 0.575,
-   "latest": 0.44,
-   "high": 0.58,
+   "latest": 0.615,
+   "high": 0.615,
    "low": 0.44,
-   "change": -0.135
+   "change": 0.04
   },
   "KXNFLGAME-26DEC06JACCHI-JAC": {
    "series": "KXNFLGAME",
@@ -1293,13 +1882,20 @@
      "bid": 0.53,
      "ask": 0.59,
      "volume": 5705.48
+    },
+    {
+     "date": "2026-11-27",
+     "mid": 0.395,
+     "bid": 0.39,
+     "ask": 0.4,
+     "volume": 7103.13
     }
    ],
    "first": 0.43,
-   "latest": 0.56,
+   "latest": 0.395,
    "high": 0.56,
-   "low": 0.425,
-   "change": 0.13
+   "low": 0.395,
+   "change": -0.035
   },
   "KXNFLGAME-26DEC06LACTB-LAC": {
    "series": "KXNFLGAME",
@@ -1328,6 +1924,13 @@
      "bid": 0.28,
      "ask": 0.3,
      "volume": 1445.98
+    },
+    {
+     "date": "2026-11-27",
+     "mid": 0.29,
+     "bid": 0.28,
+     "ask": 0.3,
+     "volume": 1543.42
     }
    ],
    "first": 0.29,
@@ -1363,6 +1966,13 @@
      "bid": 0.69,
      "ask": 0.72,
      "volume": 2561.24
+    },
+    {
+     "date": "2026-11-27",
+     "mid": 0.705,
+     "bid": 0.69,
+     "ask": 0.72,
+     "volume": 2653.73
     }
    ],
    "first": 0.71,
@@ -1398,13 +2008,20 @@
      "bid": 0.9,
      "ask": 0.91,
      "volume": 2273.91
+    },
+    {
+     "date": "2026-11-27",
+     "mid": 0.88,
+     "bid": 0.87,
+     "ask": 0.89,
+     "volume": 4054.65
     }
    ],
    "first": 0.915,
-   "latest": 0.905,
+   "latest": 0.88,
    "high": 0.915,
-   "low": 0.9,
-   "change": -0.01
+   "low": 0.88,
+   "change": -0.035
   },
   "KXNFLGAME-26DEC06MIADEN-MIA": {
    "series": "KXNFLGAME",
@@ -1433,13 +2050,20 @@
      "bid": 0.09,
      "ask": 0.11,
      "volume": 5987.68
+    },
+    {
+     "date": "2026-11-27",
+     "mid": 0.13,
+     "bid": 0.12,
+     "ask": 0.14,
+     "volume": 11101.7
     }
    ],
    "first": 0.095,
-   "latest": 0.1,
-   "high": 0.1,
+   "latest": 0.13,
+   "high": 0.13,
    "low": 0.095,
-   "change": 0.005
+   "change": 0.035
   },
   "KXNFLGAME-26DEC06PHIARI-ARI": {
    "series": "KXNFLGAME",
@@ -1468,13 +2092,20 @@
      "bid": 0.39,
      "ask": 0.42,
      "volume": 2318.76
+    },
+    {
+     "date": "2026-11-27",
+     "mid": 0.375,
+     "bid": 0.37,
+     "ask": 0.38,
+     "volume": 2805.26
     }
    ],
    "first": 0.405,
-   "latest": 0.405,
+   "latest": 0.375,
    "high": 0.405,
-   "low": 0.405,
-   "change": 0.0
+   "low": 0.375,
+   "change": -0.03
   },
   "KXNFLGAME-26DEC06PHIARI-PHI": {
    "series": "KXNFLGAME",
@@ -1503,13 +2134,20 @@
      "bid": 0.56,
      "ask": 0.6,
      "volume": 1417.35
+    },
+    {
+     "date": "2026-11-27",
+     "mid": 0.635,
+     "bid": 0.63,
+     "ask": 0.64,
+     "volume": 3839.61
     }
    ],
    "first": 0.59,
-   "latest": 0.58,
-   "high": 0.595,
+   "latest": 0.635,
+   "high": 0.635,
    "low": 0.58,
-   "change": -0.01
+   "change": 0.045
   },
   "KXNFLGAME-26DEC06SFNYG-NYG": {
    "series": "KXNFLGAME",
@@ -1538,13 +2176,20 @@
      "bid": 0.26,
      "ask": 0.28,
      "volume": 4848.17
+    },
+    {
+     "date": "2026-11-27",
+     "mid": 0.29,
+     "bid": 0.28,
+     "ask": 0.3,
+     "volume": 24923.13
     }
    ],
    "first": 0.265,
-   "latest": 0.27,
-   "high": 0.27,
+   "latest": 0.29,
+   "high": 0.29,
    "low": 0.26,
-   "change": 0.005
+   "change": 0.025
   },
   "KXNFLGAME-26DEC06SFNYG-SF": {
    "series": "KXNFLGAME",
@@ -1573,13 +2218,20 @@
      "bid": 0.73,
      "ask": 0.74,
      "volume": 3917.94
+    },
+    {
+     "date": "2026-11-27",
+     "mid": 0.71,
+     "bid": 0.69,
+     "ask": 0.73,
+     "volume": 5477.57
     }
    ],
    "first": 0.74,
-   "latest": 0.735,
+   "latest": 0.71,
    "high": 0.745,
-   "low": 0.735,
-   "change": -0.005
+   "low": 0.71,
+   "change": -0.03
   },
   "KXNFLGAME-26DEC06WASTEN-TEN": {
    "series": "KXNFLGAME",
@@ -1608,6 +2260,13 @@
      "bid": 0.32,
      "ask": 0.34,
      "volume": 1261.86
+    },
+    {
+     "date": "2026-11-27",
+     "mid": 0.33,
+     "bid": 0.31,
+     "ask": 0.35,
+     "volume": 1295.33
     }
    ],
    "first": 0.34,
@@ -1643,13 +2302,20 @@
      "bid": 0.66,
      "ask": 0.68,
      "volume": 3380.67
+    },
+    {
+     "date": "2026-11-27",
+     "mid": 0.665,
+     "bid": 0.65,
+     "ask": 0.68,
+     "volume": 3551.88
     }
    ],
    "first": 0.665,
-   "latest": 0.67,
+   "latest": 0.665,
    "high": 0.675,
    "low": 0.665,
-   "change": 0.005
+   "change": 0.0
   },
   "KXNFLGAME-26DEC07DALSEA-DAL": {
    "series": "KXNFLGAME",
@@ -1678,13 +2344,20 @@
      "bid": 0.29,
      "ask": 0.32,
      "volume": 4052.82
+    },
+    {
+     "date": "2026-11-27",
+     "mid": 0.29,
+     "bid": 0.28,
+     "ask": 0.3,
+     "volume": 10383.5
     }
    ],
    "first": 0.3,
-   "latest": 0.305,
+   "latest": 0.29,
    "high": 0.305,
-   "low": 0.295,
-   "change": 0.005
+   "low": 0.29,
+   "change": -0.01
   },
   "KXNFLGAME-26DEC07DALSEA-SEA": {
    "series": "KXNFLGAME",
@@ -1713,12 +2386,922 @@
      "bid": 0.69,
      "ask": 0.71,
      "volume": 780.95
+    },
+    {
+     "date": "2026-11-27",
+     "mid": 0.72,
+     "bid": 0.71,
+     "ask": 0.73,
+     "volume": 1712.05
     }
    ],
    "first": 0.7,
-   "latest": 0.7,
-   "high": 0.705,
+   "latest": 0.72,
+   "high": 0.72,
    "low": 0.7,
+   "change": 0.02
+  },
+  "KXNFLSPREAD-26DEC03KCLAR-KC10": {
+   "series": "KXNFLSPREAD",
+   "event": "Kansas City vs Los Angeles R: Spread",
+   "game_date": "2026-12-03",
+   "title": "Kansas City wins by over 9.5 points?",
+   "subtitle": "Kansas City wins by over 9.5 points",
+   "path": [
+    {
+     "date": "2026-11-27",
+     "mid": 0.195,
+     "bid": 0.15,
+     "ask": 0.24,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.195,
+   "latest": 0.195,
+   "high": 0.195,
+   "low": 0.195,
+   "change": 0.0
+  },
+  "KXNFLSPREAD-26DEC03KCLAR-KC11": {
+   "series": "KXNFLSPREAD",
+   "event": "Kansas City vs Los Angeles R: Spread",
+   "game_date": "2026-12-03",
+   "title": "Kansas City wins by over 10.5 points?",
+   "subtitle": "Kansas City wins by over 10.5 points",
+   "path": [
+    {
+     "date": "2026-11-27",
+     "mid": 0.175,
+     "bid": 0.13,
+     "ask": 0.22,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.175,
+   "latest": 0.175,
+   "high": 0.175,
+   "low": 0.175,
+   "change": 0.0
+  },
+  "KXNFLSPREAD-26DEC03KCLAR-KC14": {
+   "series": "KXNFLSPREAD",
+   "event": "Kansas City vs Los Angeles R: Spread",
+   "game_date": "2026-12-03",
+   "title": "Kansas City wins by over 13.5 points?",
+   "subtitle": "Kansas City wins by over 13.5 points",
+   "path": [
+    {
+     "date": "2026-11-27",
+     "mid": 0.12,
+     "bid": 0.09,
+     "ask": 0.15,
+     "volume": 0.25
+    }
+   ],
+   "first": 0.12,
+   "latest": 0.12,
+   "high": 0.12,
+   "low": 0.12,
+   "change": 0.0
+  },
+  "KXNFLSPREAD-26DEC03KCLAR-KC15": {
+   "series": "KXNFLSPREAD",
+   "event": "Kansas City vs Los Angeles R: Spread",
+   "game_date": "2026-12-03",
+   "title": "Kansas City wins by over 14.5 points?",
+   "subtitle": "Kansas City wins by over 14.5 points",
+   "path": [
+    {
+     "date": "2026-11-27",
+     "mid": 0.12,
+     "bid": 0.09,
+     "ask": 0.15,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.12,
+   "latest": 0.12,
+   "high": 0.12,
+   "low": 0.12,
+   "change": 0.0
+  },
+  "KXNFLSPREAD-26DEC03KCLAR-KC17": {
+   "series": "KXNFLSPREAD",
+   "event": "Kansas City vs Los Angeles R: Spread",
+   "game_date": "2026-12-03",
+   "title": "Kansas City wins by over 16.5 points?",
+   "subtitle": "Kansas City wins by over 16.5 points",
+   "path": [
+    {
+     "date": "2026-11-27",
+     "mid": 0.08,
+     "bid": 0.03,
+     "ask": 0.13,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.08,
+   "latest": 0.08,
+   "high": 0.08,
+   "low": 0.08,
+   "change": 0.0
+  },
+  "KXNFLSPREAD-26DEC03KCLAR-KC2": {
+   "series": "KXNFLSPREAD",
+   "event": "Kansas City vs Los Angeles R: Spread",
+   "game_date": "2026-12-03",
+   "title": "Kansas City wins by over 1.5 points?",
+   "subtitle": "Kansas City wins by over 1.5 points",
+   "path": [
+    {
+     "date": "2026-11-27",
+     "mid": 0.485,
+     "bid": 0.47,
+     "ask": 0.5,
+     "volume": 103.5
+    }
+   ],
+   "first": 0.485,
+   "latest": 0.485,
+   "high": 0.485,
+   "low": 0.485,
+   "change": 0.0
+  },
+  "KXNFLSPREAD-26DEC03KCLAR-KC3": {
+   "series": "KXNFLSPREAD",
+   "event": "Kansas City vs Los Angeles R: Spread",
+   "game_date": "2026-12-03",
+   "title": "Kansas City wins by over 2.5 points?",
+   "subtitle": "Kansas City wins by over 2.5 points",
+   "path": [
+    {
+     "date": "2026-11-27",
+     "mid": 0.43,
+     "bid": 0.37,
+     "ask": 0.49,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.43,
+   "latest": 0.43,
+   "high": 0.43,
+   "low": 0.43,
+   "change": 0.0
+  },
+  "KXNFLSPREAD-26DEC03KCLAR-KC4": {
+   "series": "KXNFLSPREAD",
+   "event": "Kansas City vs Los Angeles R: Spread",
+   "game_date": "2026-12-03",
+   "title": "Kansas City wins by over 3.5 points?",
+   "subtitle": "Kansas City wins by over 3.5 points",
+   "path": [
+    {
+     "date": "2026-11-27",
+     "mid": 0.345,
+     "bid": 0.29,
+     "ask": 0.4,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.345,
+   "latest": 0.345,
+   "high": 0.345,
+   "low": 0.345,
+   "change": 0.0
+  },
+  "KXNFLSPREAD-26DEC03KCLAR-KC5": {
+   "series": "KXNFLSPREAD",
+   "event": "Kansas City vs Los Angeles R: Spread",
+   "game_date": "2026-12-03",
+   "title": "Kansas City wins by over 4.5 points?",
+   "subtitle": "Kansas City wins by over 4.5 points",
+   "path": [
+    {
+     "date": "2026-11-27",
+     "mid": 0.325,
+     "bid": 0.27,
+     "ask": 0.38,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.325,
+   "latest": 0.325,
+   "high": 0.325,
+   "low": 0.325,
+   "change": 0.0
+  },
+  "KXNFLSPREAD-26DEC03KCLAR-KC6": {
+   "series": "KXNFLSPREAD",
+   "event": "Kansas City vs Los Angeles R: Spread",
+   "game_date": "2026-12-03",
+   "title": "Kansas City wins by over 5.5 points?",
+   "subtitle": "Kansas City wins by over 5.5 points",
+   "path": [
+    {
+     "date": "2026-11-27",
+     "mid": 0.305,
+     "bid": 0.25,
+     "ask": 0.36,
+     "volume": 65.31
+    }
+   ],
+   "first": 0.305,
+   "latest": 0.305,
+   "high": 0.305,
+   "low": 0.305,
+   "change": 0.0
+  },
+  "KXNFLSPREAD-26DEC03KCLAR-KC7": {
+   "series": "KXNFLSPREAD",
+   "event": "Kansas City vs Los Angeles R: Spread",
+   "game_date": "2026-12-03",
+   "title": "Kansas City wins by over 6.5 points?",
+   "subtitle": "Kansas City wins by over 6.5 points",
+   "path": [
+    {
+     "date": "2026-11-27",
+     "mid": 0.265,
+     "bid": 0.21,
+     "ask": 0.32,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.265,
+   "latest": 0.265,
+   "high": 0.265,
+   "low": 0.265,
+   "change": 0.0
+  },
+  "KXNFLSPREAD-26DEC03KCLAR-KC8": {
+   "series": "KXNFLSPREAD",
+   "event": "Kansas City vs Los Angeles R: Spread",
+   "game_date": "2026-12-03",
+   "title": "Kansas City wins by over 7.5 points?",
+   "subtitle": "Kansas City wins by over 7.5 points",
+   "path": [
+    {
+     "date": "2026-11-27",
+     "mid": 0.215,
+     "bid": 0.16,
+     "ask": 0.27,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.215,
+   "latest": 0.215,
+   "high": 0.215,
+   "low": 0.215,
+   "change": 0.0
+  },
+  "KXNFLSPREAD-26DEC03KCLAR-LAR10": {
+   "series": "KXNFLSPREAD",
+   "event": "Kansas City vs Los Angeles R: Spread",
+   "game_date": "2026-12-03",
+   "title": "Los Angeles R wins by over 9.5 points?",
+   "subtitle": "Los Angeles R wins by over 9.5 points",
+   "path": [
+    {
+     "date": "2026-11-27",
+     "mid": 0.185,
+     "bid": 0.14,
+     "ask": 0.23,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.185,
+   "latest": 0.185,
+   "high": 0.185,
+   "low": 0.185,
+   "change": 0.0
+  },
+  "KXNFLSPREAD-26DEC03KCLAR-LAR11": {
+   "series": "KXNFLSPREAD",
+   "event": "Kansas City vs Los Angeles R: Spread",
+   "game_date": "2026-12-03",
+   "title": "Los Angeles R wins by over 10.5 points?",
+   "subtitle": "Los Angeles R wins by over 10.5 points",
+   "path": [
+    {
+     "date": "2026-11-27",
+     "mid": 0.165,
+     "bid": 0.13,
+     "ask": 0.2,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.165,
+   "latest": 0.165,
+   "high": 0.165,
+   "low": 0.165,
+   "change": 0.0
+  },
+  "KXNFLSPREAD-26DEC03KCLAR-LAR14": {
+   "series": "KXNFLSPREAD",
+   "event": "Kansas City vs Los Angeles R: Spread",
+   "game_date": "2026-12-03",
+   "title": "Los Angeles R wins by over 13.5 points?",
+   "subtitle": "Los Angeles R wins by over 13.5 points",
+   "path": [
+    {
+     "date": "2026-11-27",
+     "mid": 0.12,
+     "bid": 0.09,
+     "ask": 0.15,
+     "volume": 13.66
+    }
+   ],
+   "first": 0.12,
+   "latest": 0.12,
+   "high": 0.12,
+   "low": 0.12,
+   "change": 0.0
+  },
+  "KXNFLSPREAD-26DEC03KCLAR-LAR15": {
+   "series": "KXNFLSPREAD",
+   "event": "Kansas City vs Los Angeles R: Spread",
+   "game_date": "2026-12-03",
+   "title": "Los Angeles R wins by over 14.5 points?",
+   "subtitle": "Los Angeles R wins by over 14.5 points",
+   "path": [
+    {
+     "date": "2026-11-27",
+     "mid": 0.105,
+     "bid": 0.07,
+     "ask": 0.14,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.105,
+   "latest": 0.105,
+   "high": 0.105,
+   "low": 0.105,
+   "change": 0.0
+  },
+  "KXNFLSPREAD-26DEC03KCLAR-LAR17": {
+   "series": "KXNFLSPREAD",
+   "event": "Kansas City vs Los Angeles R: Spread",
+   "game_date": "2026-12-03",
+   "title": "Los Angeles R wins by over 16.5 points?",
+   "subtitle": "Los Angeles R wins by over 16.5 points",
+   "path": [
+    {
+     "date": "2026-11-27",
+     "mid": 0.085,
+     "bid": 0.04,
+     "ask": 0.13,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.085,
+   "latest": 0.085,
+   "high": 0.085,
+   "low": 0.085,
+   "change": 0.0
+  },
+  "KXNFLSPREAD-26DEC03KCLAR-LAR2": {
+   "series": "KXNFLSPREAD",
+   "event": "Kansas City vs Los Angeles R: Spread",
+   "game_date": "2026-12-03",
+   "title": "Los Angeles R wins by over 1.5 points?",
+   "subtitle": "Los Angeles R wins by over 1.5 points",
+   "path": [
+    {
+     "date": "2026-11-27",
+     "mid": 0.465,
+     "bid": 0.43,
+     "ask": 0.5,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.465,
+   "latest": 0.465,
+   "high": 0.465,
+   "low": 0.465,
+   "change": 0.0
+  },
+  "KXNFLSPREAD-26DEC03KCLAR-LAR3": {
+   "series": "KXNFLSPREAD",
+   "event": "Kansas City vs Los Angeles R: Spread",
+   "game_date": "2026-12-03",
+   "title": "Los Angeles R wins by over 2.5 points?",
+   "subtitle": "Los Angeles R wins by over 2.5 points",
+   "path": [
+    {
+     "date": "2026-11-27",
+     "mid": 0.45,
+     "bid": 0.41,
+     "ask": 0.49,
+     "volume": 195.6
+    }
+   ],
+   "first": 0.45,
+   "latest": 0.45,
+   "high": 0.45,
+   "low": 0.45,
+   "change": 0.0
+  },
+  "KXNFLSPREAD-26DEC03KCLAR-LAR4": {
+   "series": "KXNFLSPREAD",
+   "event": "Kansas City vs Los Angeles R: Spread",
+   "game_date": "2026-12-03",
+   "title": "Los Angeles R wins by over 3.5 points?",
+   "subtitle": "Los Angeles R wins by over 3.5 points",
+   "path": [
+    {
+     "date": "2026-11-27",
+     "mid": 0.385,
+     "bid": 0.31,
+     "ask": 0.46,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.385,
+   "latest": 0.385,
+   "high": 0.385,
+   "low": 0.385,
+   "change": 0.0
+  },
+  "KXNFLSPREAD-26DEC03KCLAR-LAR5": {
+   "series": "KXNFLSPREAD",
+   "event": "Kansas City vs Los Angeles R: Spread",
+   "game_date": "2026-12-03",
+   "title": "Los Angeles R wins by over 4.5 points?",
+   "subtitle": "Los Angeles R wins by over 4.5 points",
+   "path": [
+    {
+     "date": "2026-11-27",
+     "mid": 0.35,
+     "bid": 0.28,
+     "ask": 0.42,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.35,
+   "latest": 0.35,
+   "high": 0.35,
+   "low": 0.35,
+   "change": 0.0
+  },
+  "KXNFLSPREAD-26DEC03KCLAR-LAR6": {
+   "series": "KXNFLSPREAD",
+   "event": "Kansas City vs Los Angeles R: Spread",
+   "game_date": "2026-12-03",
+   "title": "Los Angeles R wins by over 5.5 points?",
+   "subtitle": "Los Angeles R wins by over 5.5 points",
+   "path": [
+    {
+     "date": "2026-11-27",
+     "mid": 0.29,
+     "bid": 0.25,
+     "ask": 0.33,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.29,
+   "latest": 0.29,
+   "high": 0.29,
+   "low": 0.29,
+   "change": 0.0
+  },
+  "KXNFLSPREAD-26DEC03KCLAR-LAR7": {
+   "series": "KXNFLSPREAD",
+   "event": "Kansas City vs Los Angeles R: Spread",
+   "game_date": "2026-12-03",
+   "title": "Los Angeles R wins by over 6.5 points?",
+   "subtitle": "Los Angeles R wins by over 6.5 points",
+   "path": [
+    {
+     "date": "2026-11-27",
+     "mid": 0.265,
+     "bid": 0.22,
+     "ask": 0.31,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.265,
+   "latest": 0.265,
+   "high": 0.265,
+   "low": 0.265,
+   "change": 0.0
+  },
+  "KXNFLSPREAD-26DEC03KCLAR-LAR8": {
+   "series": "KXNFLSPREAD",
+   "event": "Kansas City vs Los Angeles R: Spread",
+   "game_date": "2026-12-03",
+   "title": "Los Angeles R wins by over 7.5 points?",
+   "subtitle": "Los Angeles R wins by over 7.5 points",
+   "path": [
+    {
+     "date": "2026-11-27",
+     "mid": 0.22,
+     "bid": 0.18,
+     "ask": 0.26,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.22,
+   "latest": 0.22,
+   "high": 0.22,
+   "low": 0.22,
+   "change": 0.0
+  },
+  "KXNFLTOTAL-26DEC03KCLAR-24": {
+   "series": "KXNFLTOTAL",
+   "event": "Kansas City vs Los Angeles R: Total Points",
+   "game_date": "2026-12-03",
+   "title": "Full Game: over 23.5 points scored?",
+   "subtitle": "Over 23.5 points",
+   "path": [
+    {
+     "date": "2026-11-27",
+     "mid": 0.955,
+     "bid": 0.92,
+     "ask": 0.99,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.955,
+   "latest": 0.955,
+   "high": 0.955,
+   "low": 0.955,
+   "change": 0.0
+  },
+  "KXNFLTOTAL-26DEC03KCLAR-27": {
+   "series": "KXNFLTOTAL",
+   "event": "Kansas City vs Los Angeles R: Total Points",
+   "game_date": "2026-12-03",
+   "title": "Full Game: over 26.5 points scored?",
+   "subtitle": "Over 26.5 points",
+   "path": [
+    {
+     "date": "2026-11-27",
+     "mid": 0.935,
+     "bid": 0.91,
+     "ask": 0.96,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.935,
+   "latest": 0.935,
+   "high": 0.935,
+   "low": 0.935,
+   "change": 0.0
+  },
+  "KXNFLTOTAL-26DEC03KCLAR-30": {
+   "series": "KXNFLTOTAL",
+   "event": "Kansas City vs Los Angeles R: Total Points",
+   "game_date": "2026-12-03",
+   "title": "Full Game: over 29.5 points scored?",
+   "subtitle": "Over 29.5 points",
+   "path": [
+    {
+     "date": "2026-11-27",
+     "mid": 0.89,
+     "bid": 0.85,
+     "ask": 0.93,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.89,
+   "latest": 0.89,
+   "high": 0.89,
+   "low": 0.89,
+   "change": 0.0
+  },
+  "KXNFLTOTAL-26DEC03KCLAR-33": {
+   "series": "KXNFLTOTAL",
+   "event": "Kansas City vs Los Angeles R: Total Points",
+   "game_date": "2026-12-03",
+   "title": "Full Game: over 32.5 points scored?",
+   "subtitle": "Over 32.5 points",
+   "path": [
+    {
+     "date": "2026-11-27",
+     "mid": 0.83,
+     "bid": 0.8,
+     "ask": 0.86,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.83,
+   "latest": 0.83,
+   "high": 0.83,
+   "low": 0.83,
+   "change": 0.0
+  },
+  "KXNFLTOTAL-26DEC03KCLAR-36": {
+   "series": "KXNFLTOTAL",
+   "event": "Kansas City vs Los Angeles R: Total Points",
+   "game_date": "2026-12-03",
+   "title": "Full Game: over 35.5 points scored?",
+   "subtitle": "Over 35.5 points",
+   "path": [
+    {
+     "date": "2026-11-27",
+     "mid": 0.73,
+     "bid": 0.63,
+     "ask": 0.83,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.73,
+   "latest": 0.73,
+   "high": 0.73,
+   "low": 0.73,
+   "change": 0.0
+  },
+  "KXNFLTOTAL-26DEC03KCLAR-39": {
+   "series": "KXNFLTOTAL",
+   "event": "Kansas City vs Los Angeles R: Total Points",
+   "game_date": "2026-12-03",
+   "title": "Full Game: over 38.5 points scored?",
+   "subtitle": "Over 38.5 points",
+   "path": [
+    {
+     "date": "2026-11-27",
+     "mid": 0.655,
+     "bid": 0.56,
+     "ask": 0.75,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.655,
+   "latest": 0.655,
+   "high": 0.655,
+   "low": 0.655,
+   "change": 0.0
+  },
+  "KXNFLTOTAL-26DEC03KCLAR-42": {
+   "series": "KXNFLTOTAL",
+   "event": "Kansas City vs Los Angeles R: Total Points",
+   "game_date": "2026-12-03",
+   "title": "Full Game: over 41.5 points scored?",
+   "subtitle": "Over 41.5 points",
+   "path": [
+    {
+     "date": "2026-11-27",
+     "mid": 0.59,
+     "bid": 0.51,
+     "ask": 0.67,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.59,
+   "latest": 0.59,
+   "high": 0.59,
+   "low": 0.59,
+   "change": 0.0
+  },
+  "KXNFLTOTAL-26DEC03KCLAR-43": {
+   "series": "KXNFLTOTAL",
+   "event": "Kansas City vs Los Angeles R: Total Points",
+   "game_date": "2026-12-03",
+   "title": "Full Game: over 42.5 points scored?",
+   "subtitle": "Over 42.5 points",
+   "path": [
+    {
+     "date": "2026-11-27",
+     "mid": 0.575,
+     "bid": 0.5,
+     "ask": 0.65,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.575,
+   "latest": 0.575,
+   "high": 0.575,
+   "low": 0.575,
+   "change": 0.0
+  },
+  "KXNFLTOTAL-26DEC03KCLAR-44": {
+   "series": "KXNFLTOTAL",
+   "event": "Kansas City vs Los Angeles R: Total Points",
+   "game_date": "2026-12-03",
+   "title": "Full Game: over 43.5 points scored?",
+   "subtitle": "Over 43.5 points",
+   "path": [
+    {
+     "date": "2026-11-27",
+     "mid": 0.51,
+     "bid": 0.49,
+     "ask": 0.53,
+     "volume": 160.98
+    }
+   ],
+   "first": 0.51,
+   "latest": 0.51,
+   "high": 0.51,
+   "low": 0.51,
+   "change": 0.0
+  },
+  "KXNFLTOTAL-26DEC03KCLAR-45": {
+   "series": "KXNFLTOTAL",
+   "event": "Kansas City vs Los Angeles R: Total Points",
+   "game_date": "2026-12-03",
+   "title": "Full Game: over 44.5 points scored?",
+   "subtitle": "Over 44.5 points",
+   "path": [
+    {
+     "date": "2026-11-27",
+     "mid": 0.46,
+     "bid": 0.44,
+     "ask": 0.48,
+     "volume": 143.73
+    }
+   ],
+   "first": 0.46,
+   "latest": 0.46,
+   "high": 0.46,
+   "low": 0.46,
+   "change": 0.0
+  },
+  "KXNFLTOTAL-26DEC03KCLAR-46": {
+   "series": "KXNFLTOTAL",
+   "event": "Kansas City vs Los Angeles R: Total Points",
+   "game_date": "2026-12-03",
+   "title": "Full Game: over 45.5 points scored?",
+   "subtitle": "Over 45.5 points",
+   "path": [
+    {
+     "date": "2026-11-27",
+     "mid": 0.425,
+     "bid": 0.37,
+     "ask": 0.48,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.425,
+   "latest": 0.425,
+   "high": 0.425,
+   "low": 0.425,
+   "change": 0.0
+  },
+  "KXNFLTOTAL-26DEC03KCLAR-47": {
+   "series": "KXNFLTOTAL",
+   "event": "Kansas City vs Los Angeles R: Total Points",
+   "game_date": "2026-12-03",
+   "title": "Full Game: over 46.5 points scored?",
+   "subtitle": "Over 46.5 points",
+   "path": [
+    {
+     "date": "2026-11-27",
+     "mid": 0.415,
+     "bid": 0.36,
+     "ask": 0.47,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.415,
+   "latest": 0.415,
+   "high": 0.415,
+   "low": 0.415,
+   "change": 0.0
+  },
+  "KXNFLTOTAL-26DEC03KCLAR-48": {
+   "series": "KXNFLTOTAL",
+   "event": "Kansas City vs Los Angeles R: Total Points",
+   "game_date": "2026-12-03",
+   "title": "Full Game: over 47.5 points scored?",
+   "subtitle": "Over 47.5 points",
+   "path": [
+    {
+     "date": "2026-11-27",
+     "mid": 0.39,
+     "bid": 0.32,
+     "ask": 0.46,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.39,
+   "latest": 0.39,
+   "high": 0.39,
+   "low": 0.39,
+   "change": 0.0
+  },
+  "KXNFLTOTAL-26DEC03KCLAR-51": {
+   "series": "KXNFLTOTAL",
+   "event": "Kansas City vs Los Angeles R: Total Points",
+   "game_date": "2026-12-03",
+   "title": "Full Game: over 50.5 points scored?",
+   "subtitle": "Over 50.5 points",
+   "path": [
+    {
+     "date": "2026-11-27",
+     "mid": 0.33,
+     "bid": 0.23,
+     "ask": 0.43,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.33,
+   "latest": 0.33,
+   "high": 0.33,
+   "low": 0.33,
+   "change": 0.0
+  },
+  "KXNFLTOTAL-26DEC03KCLAR-54": {
+   "series": "KXNFLTOTAL",
+   "event": "Kansas City vs Los Angeles R: Total Points",
+   "game_date": "2026-12-03",
+   "title": "Full Game: over 53.5 points scored?",
+   "subtitle": "Over 53.5 points",
+   "path": [
+    {
+     "date": "2026-11-27",
+     "mid": 0.265,
+     "bid": 0.16,
+     "ask": 0.37,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.265,
+   "latest": 0.265,
+   "high": 0.265,
+   "low": 0.265,
+   "change": 0.0
+  },
+  "KXNFLTOTAL-26DEC03KCLAR-57": {
+   "series": "KXNFLTOTAL",
+   "event": "Kansas City vs Los Angeles R: Total Points",
+   "game_date": "2026-12-03",
+   "title": "Full Game: over 56.5 points scored?",
+   "subtitle": "Over 56.5 points",
+   "path": [
+    {
+     "date": "2026-11-27",
+     "mid": 0.2,
+     "bid": 0.13,
+     "ask": 0.27,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.2,
+   "latest": 0.2,
+   "high": 0.2,
+   "low": 0.2,
+   "change": 0.0
+  },
+  "KXNFLTOTAL-26DEC03KCLAR-60": {
+   "series": "KXNFLTOTAL",
+   "event": "Kansas City vs Los Angeles R: Total Points",
+   "game_date": "2026-12-03",
+   "title": "Full Game: over 59.5 points scored?",
+   "subtitle": "Over 59.5 points",
+   "path": [
+    {
+     "date": "2026-11-27",
+     "mid": 0.14,
+     "bid": 0.04,
+     "ask": 0.24,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.14,
+   "latest": 0.14,
+   "high": 0.14,
+   "low": 0.14,
+   "change": 0.0
+  },
+  "KXNFLTOTAL-26DEC03KCLAR-63": {
+   "series": "KXNFLTOTAL",
+   "event": "Kansas City vs Los Angeles R: Total Points",
+   "game_date": "2026-12-03",
+   "title": "Full Game: over 62.5 points scored?",
+   "subtitle": "Over 62.5 points",
+   "path": [
+    {
+     "date": "2026-11-27",
+     "mid": 0.11,
+     "bid": 0.03,
+     "ask": 0.19,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.11,
+   "latest": 0.11,
+   "high": 0.11,
+   "low": 0.11,
+   "change": 0.0
+  },
+  "KXNFLTOTAL-26DEC03KCLAR-66": {
+   "series": "KXNFLTOTAL",
+   "event": "Kansas City vs Los Angeles R: Total Points",
+   "game_date": "2026-12-03",
+   "title": "Full Game: over 65.5 points scored?",
+   "subtitle": "Over 65.5 points",
+   "path": [
+    {
+     "date": "2026-11-27",
+     "mid": 0.095,
+     "bid": 0.02,
+     "ask": 0.17,
+     "volume": 0.0
+    }
+   ],
+   "first": 0.095,
+   "latest": 0.095,
+   "high": 0.095,
+   "low": 0.095,
    "change": 0.0
   },
   "KXNFLTRADE-26DEC01-AJON": {
